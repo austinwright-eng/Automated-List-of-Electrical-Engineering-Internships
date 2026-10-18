@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fzshah101.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 1151 open roles (610 listed below) · 108 new this week
+### 1150 open roles (610 listed below) · 104 new this week
 
-4,788 employers tracked · data as of Oct 18, 2026 at 17:11 UTC
+4,788 employers tracked · data as of Oct 18, 2026 at 19:41 UTC
 
-_833 have a cycle the employer stated · 318 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_832 have a cycle the employer stated · 318 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -95,7 +95,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Northrop Grumman | 2027 Software Engineering Intern - Boulder CO 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) | United States-Colorado-Boulder | No skills listed | Oct 16, 2026 |
 | Northrop Grumman | 2027 Software Engineering Intern - Colorado Springs 🇺🇸 🆕 _(2 openings)_ | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080) [#2](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) | United States-Colorado-Colorado Springs | No skills listed | Oct 16, 2026 |
 | Ryan | Summer 2027 Intern, Software Development 🆕 | [Apply](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1) | Plano TX | Python, C#, TypeScript, React | Oct 16, 2026 |
-| Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US 🆕 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880) | O'Fallon, Missouri | Java, AWS, GCP, Azure | Oct 16, 2026 |
+| Mastercard | Platform Engineering Intern, Summer 2027 – St. Louis, MO, US | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284880) | O'Fallon, Missouri | Java, AWS, GCP, Azure | Oct 16, 2026 |
 | ICF ✓ | 2027 Summer Intern, Cloud Engineer (AWS/Azure) (Reston, VA) 🛂 | [Apply](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554) | Reston, VA | AWS, Azure, Terraform, Git | Oct 16, 2026 |
 | Leidos ✓ 🆁 | Cloud Engineering Intern 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668) | 6314 Remote/Teleworker US | Azure | Oct 16, 2026 |
 | Centene 🆁 | AI Software Developer Intern (Undergrad​uate - Summer 2027) | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710) | Remote-MO | No skills listed | Oct 15, 2026 |
@@ -445,8 +445,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Avav | Software Engineering Intern 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Software-Engineering-Intern_9094) | Moorpark, CA | Python, Java, C++, Bash | Oct 16, 2026 |
 | Booz Allen | University, Software Engineer Intern 🇺🇸 🆕 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) | Fayettevil​le, NC | Java, C++, Git | Oct 16, 2026 |
 | Rockwell Automation ✓ | Intern, Firmware Engineering 🛂 🆕 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1) | Milwaukee, Wisconsin, United States | Python, C++ | Oct 16, 2026 |
-| Wellmark ✓ | Software Engineer Internship – Technology Health Plan 🆕 | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) | Des Moines, IA, United States (Hybrid) | TypeScript, AWS | Oct 16, 2026 |
-| Entrust | Software Engineering Co-op 🆕 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425) | United States - Shakopee, MN (GHQ) | Python, C# | Oct 16, 2026 |
+| Wellmark ✓ | Software Engineer Internship – Technology Health Plan | [Apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) | Des Moines, IA, United States (Hybrid) | TypeScript, AWS | Oct 16, 2026 |
+| Entrust | Software Engineering Co-op | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425) | United States - Shakopee, MN (GHQ) | Python, C# | Oct 16, 2026 |
 | Aidashinc | Software Engineering Intern, Backend 🆕 | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) | Palo Alto, California, United States | Python, Java, SQL, AWS | Oct 15, 2026 |
 | Hewlett Packard Enterprise ✓ | AI & HPC Performance Engineering Intern | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397) | Spring, Texas, United States of America | Python, Java, C++, CUDA | Oct 15, 2026 |
 | Duolingo ✓ | Data Scientist, Intern | [Apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002) | Pittsburgh, PA; New York, NY | Python, SQL, dbt, Snowflake | Oct 15, 2026 |
@@ -705,6 +705,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| C.H. Robinson | Software Engineering Internship 2027 | Summer 2027 | 2026-10-18 | out of scope |
 | GM financial | Intern - Software Development Engineer | Summer 2027 | 2026-10-17 | gone from feed |
 | GM financial | Intern - Oracle Application Developer | Summer 2027 | 2026-10-17 | gone from feed |
 | Commerce Bank | Intern - Data Science (Summer 2027) | Summer 2027 | 2026-10-17 | gone from feed |
@@ -744,7 +745,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-14 | gone from feed |
 | Itron | Intern - Data Science, Distributed Intelligence | Summer 2027 | 2026-10-14 | gone from feed |
 | BlueCross BlueShield of Nebraska | IS Intern: AI & Automation (Managed Services) Summer 2027 | Summer 2027 | 2026-10-14 | gone from feed |
-| Rivet Industries | Intern, Software Engineering (Summer 2027) | Summer 2027 | 2026-10-13 | gone from feed |
 
 </details>
 
@@ -763,7 +763,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,585 of 5,076 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1168.3s · 602 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,594 of 5,076 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1022.0s · 606 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
