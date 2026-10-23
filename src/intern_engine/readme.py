@@ -669,6 +669,7 @@ def _closed_section(store_data: dict, cycles: list[str],
     closed = [
         r for r in store_data.values()
         if not r.get("is_open") and (r.get("closed_at") or "") >= cutoff
+        and r.get("closed_reason") != "out-of-scope"
         and (not ee_scope or filters.role_matches(r.get("title") or "", "ee"))
         and r.get("season") in cycles
     ]

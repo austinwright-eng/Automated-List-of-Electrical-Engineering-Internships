@@ -94,6 +94,8 @@ def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
     )
     entries = []
     for record in store_data.values():
+        if not record.get("is_open") and record.get("closed_reason") == "out-of-scope":
+            continue  # a corrected location is not an employer closure to announce
         if cfg.get("role_scope") == "ee" and not filters.role_matches(
             record.get("title") or "", "ee"
         ):

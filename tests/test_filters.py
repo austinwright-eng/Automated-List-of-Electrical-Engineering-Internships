@@ -170,6 +170,26 @@ class TestRegion:
         assert not filters.is_united_states("Munich, Germany")
         assert not filters.is_united_states("CA - Sydney, Australia")
 
+    def test_country_first_locations_override_us_state_lookalikes(self):
+        for location in (
+            "United Kingdom, Edinburgh, SC, Freer",
+            "United Kingdom, SC",
+            "Switzerland, Lausanne, CA",
+            "Italy, Rome, NY",
+            "India, Bangalore, IN",
+            "Germany, Berlin, NH",
+        ):
+            assert not filters.is_united_states(location), location
+            assert not filters.region_ok(location, want_us=True, want_canada=False), location
+
+    def test_country_first_rejection_preserves_us_cities_and_location_options(self):
+        for location in (
+            "Lebanon, NH", "Lebanon, NH, Headquarters", "Poland, OH", "Peru, IN",
+            "Austin, TX; United Kingdom, Edinburgh, SC, Freer",
+            "United Kingdom, Edinburgh, SC, Freer; Austin, TX",
+        ):
+            assert filters.is_united_states(location), location
+
     def test_explicit_us_token_wins_for_multi_country_strings(self):
         assert filters.is_united_states("New York, USA; Bangalore, India")
 
