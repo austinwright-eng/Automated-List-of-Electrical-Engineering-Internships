@@ -1,9 +1,15 @@
 """Static dashboard contracts for freshness, saves, and double opt-in."""
 
-from intern_engine import dashboard, paths
+from intern_engine import config, dashboard, paths
 
 
-def test_dashboard_uses_fetch_time_and_prunes_ghost_saves():
+def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch):
+    # Exercise opt-in explicitly; a deployment may intentionally omit signup.
+    cfg = config.validate_config({
+        "supabase_url": "https://example.supabase.co",
+        "supabase_publishable_key": "test-public-key",
+    })
+    monkeypatch.setattr(config, "load_config", lambda: cfg)
     store = {
         "a": {
             "id": "a", "company": "Acme", "title": "SWE Intern",

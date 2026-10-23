@@ -130,3 +130,26 @@ def save(companies: list[dict], path: str | None = None) -> None:
         f.flush()
         os.fsync(f.fileno())
     os.replace(tmp, target)
+
+
+def load_for_collection() -> list[dict]:
+    """Union a validated EE overlay without rewriting the upstream registry.
+
+    Duplicate board identities must agree exactly; silently replacing a host
+    could change lifecycle ownership. Discovery continues to use load/save.
+    """
+    from . import config
+
+    companies = load()
+    if config.load_config().get("role_scope") != "ee":
+        return companies
+    overlay = os.path.join(paths.DATA_DIR, "companies.ee.json")
+    if not os.path.exists(overlay):
+        return companies
+    merged = {board_key(c): c for c in companies}
+    for company in load(overlay):
+        key = board_key(company)
+        if key in merged and merged[key] != company:
+            raise RegistryCorrupt(f"EE overlay conflicts with existing board: {key}")
+        merged[key] = company
+    return list(merged.values())
