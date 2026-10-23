@@ -4,60 +4,9 @@ PRODID:-//intern-engine//Drop Radar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Internship Drop Radar (Summer 2027)
-X-WR-CALDESC:Expected opening dates for tech internships. Dates come from e
- mployers' own career APIs or hand-checked opening months; treat them as wh
- en to start watching.
+X-WR-CALDESC:Expected opening dates for Electrical Engineering internships.
+  Dates come from employers' own career APIs or hand-checked opening months
+ ; treat them as when to start watching.
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-BEGIN:VEVENT
-UID:radar-d e shaw-20261001@intern-engine
-DTSTAMP:20261023T001155Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:D.E. Shaw — typically opens (Summer 2027)
-DESCRIPTION:D.E. Shaw typically opens around this date.  hand-checked typic
- al opening month (month-level\, not a day)  apply by end of prior year\; c
- lass set early Q1  Radar: https://zshah101.github.io/Automated-List-Of-Sum
- mer-2027-and-Fall-2026-Tech-Internships/#radar
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:D.E. Shaw internships open soon
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:radar-ramp-20261201@intern-engine
-DTSTAMP:20261023T001155Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Ramp — typically opens (Summer 2027)
-DESCRIPTION:Ramp typically opens around this date.  hand-checked typical op
- ening month (month-level\, not a day)  Dec-Jan early movers  Radar: https:
- //zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Inte
- rnships/#radar
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Ramp internships open soon
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:radar-two sigma-20261201@intern-engine
-DTSTAMP:20261023T001155Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Two Sigma — typically opens (Summer 2027)
-DESCRIPTION:Two Sigma typically opens around this date.  hand-checked typic
- al opening month (month-level\, not a day)  opens ~Dec\, deadline late Feb
-   Radar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall
- -2026-Tech-Internships/#radar
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Two Sigma internships open soon
-END:VALARM
-END:VEVENT
 END:VCALENDAR

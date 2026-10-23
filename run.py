@@ -33,6 +33,7 @@ from intern_engine import (  # noqa: E402
     paths,
     pipeline,
     publish,
+    quality,
     readme,
     store,
     telegram,
@@ -96,7 +97,7 @@ def cmd_render() -> None:
     store_data = store.load(paths.JOBS_PATH)
     stats = pipeline.load_stats()
     cfg = config.load_config()
-    pipeline._close_out_of_scope(store_data, cfg)
+    pipeline._close_out_of_scope(store_data, cfg, quality.load_blocklist())
     for record in store_data.values():
         if record.get("is_open"):
             record["category"] = filters.role_category(

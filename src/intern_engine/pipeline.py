@@ -662,7 +662,7 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
         explicit_offcycle = bool(
             title
             and filters.states_explicit_year(title)
-            and not filters.detect_seasons(title, tuple(cycles))
+            and filters.detect_season(title, tuple(cycles)) is None
         )
         expired_unstated = bool(
             record.get("season_inferred") and posted and posted.date() < infer_cutoff
@@ -798,6 +798,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
         round(time.monotonic() - started, 1), no_year, offcycle,
         partial_by_reason,
     )
+    stats["role_scope"] = cfg.get("role_scope", "tech")
     write_stats(stats)
     _append_history(stats)
     return stats, existing, new_ids
@@ -872,11 +873,20 @@ def _detection_latency(existing: dict, window_days: int = 7,
     }
 
 
+def _analytics_records(existing: dict) -> dict:
+    """Do not reuse software detection/lifetime cohorts as EE telemetry."""
+    if config.load_config().get("role_scope") != "ee":
+        return existing
+    return {jid: r for jid, r in existing.items()
+            if filters.role_matches(r.get("title") or "", "ee")}
+
+
 def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by_ats,
                  kept, existing, new_ids, enriched, detail_fetches, purged, duration,
                  dropped_no_year=0, dropped_offcycle=0,
                  partial_by_reason: Counter | None = None) -> dict:
     open_records = [r for r in existing.values() if r.get("is_open")]
+    analytics = _analytics_records(existing)
     attempted = len(companies) - len(benched)
     dated = sum(1 for r in open_records if r.get("posted_at"))
     partial_by_reason = partial_by_reason or Counter()
@@ -937,9 +947,9 @@ def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by
         "purged_this_run": purged,
         "new_this_run": len(new_ids),
         "open_total": len(open_records),
-        "detection_latency": _detection_latency(existing),
+        "detection_latency": _detection_latency(analytics),
         "posting_lifetime": dict(zip(
-            ("median_days", "sample_size"), trends.median_days_open(existing),
+            ("median_days", "sample_size"), trends.median_days_open(analytics),
             strict=True,
         )),
     }
@@ -958,6 +968,7 @@ def restat(existing: dict, stats: dict) -> dict:
     than showing the last real run's.
     """
     stats = dict(stats)
+    analytics = _analytics_records(existing)
     open_records = [r for r in existing.values() if r.get("is_open")]
     dated = sum(1 for r in open_records if r.get("posted_at"))
     stats.update({
@@ -976,9 +987,9 @@ def restat(existing: dict, stats: dict) -> dict:
             r.get("sponsorship", "unknown") for r in open_records
         )),
         "posted_date_coverage": round(dated / max(len(open_records), 1), 3),
-        "detection_latency": _detection_latency(existing),
+        "detection_latency": _detection_latency(analytics),
         "posting_lifetime": dict(zip(
-            ("median_days", "sample_size"), trends.median_days_open(existing),
+            ("median_days", "sample_size"), trends.median_days_open(analytics),
             strict=True,
         )),
         "stats_basis": "counts recomputed from the store; fetch metrics from the last run",
@@ -1043,6 +1054,7 @@ def _append_history(stats: dict) -> None:
     """One compact line per run — the time series behind the dashboard chart."""
     line = json.dumps({
         "ts": stats["generated_at"],
+        "role_scope": stats.get("role_scope", "tech"),
         "open": stats["open_total"],
         "new": stats["new_this_run"],
         "companies": stats["companies_total"],

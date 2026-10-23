@@ -1,5 +1,12 @@
 # Contributing
 
+For EE-only employer additions, put validated board records in
+[`data/companies.ee.json`](data/companies.ee.json). This additive overlay keeps
+fork-specific coverage separate from the shared discovery registry. See
+[EE development](EE_DEVELOPMENT.md) for record validation and upstream sync.
+EE title rules live in [`src/intern_engine/ee.py`](src/intern_engine/ee.py);
+add real positive and negative examples to `tests/test_ee.py` with rule changes.
+
 The fastest way to help: **add companies.** More companies = more internships.
 
 ## Add a company (one line)

@@ -113,11 +113,14 @@ def _bars(counter: dict) -> str:
 
 def _history_points(limit: int = 120) -> list[dict]:
     points = []
+    scope = config.load_config().get("role_scope", "tech")
     try:
         with open(paths.HISTORY_PATH, encoding="utf-8") as f:
             for line in f.read().splitlines()[-limit:]:
                 try:
-                    points.append(json.loads(line))
+                    point = json.loads(line)
+                    if point.get("role_scope", "tech") == scope:
+                        points.append(point)
                 except ValueError:
                     continue
     except OSError:

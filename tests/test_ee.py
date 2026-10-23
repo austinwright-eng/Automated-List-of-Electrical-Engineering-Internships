@@ -41,6 +41,8 @@ def test_ee_titles(title):
     "Hardware Sales Intern", "Electrical Product Management Intern",
     "Corporate Communications Intern", "Firmware Recruiting Intern",
     "FPGA PhD Intern", "Marketing Intern - Electronics",
+    "Hardware Sourcing Intern", "Electrical Procurement Intern",
+    "Electrical Engineer I (For 2026 Interns Only)",
 ])
 def test_ambiguous_and_unrelated_titles_are_rejected(title):
     assert not ee.is_ee(title)
@@ -65,6 +67,17 @@ def test_scope_switch_closes_software_even_without_a_new_fetch():
     assert not records["swe"]["is_open"]
     assert records["swe"]["closed_reason"] == "out-of-scope"
     assert records["ee"]["is_open"]
+
+
+@pytest.mark.parametrize("title", [
+    "2027 Electrical Engineer Intern", "Electrical Co-op (June - Dec 2027)",
+])
+def test_cleanup_agrees_with_ingestion_year_and_month_fallbacks(title):
+    cfg = config.validate_config({"role_scope": "ee"})
+    record = {"title": title, "is_open": True, "season": "Summer 2027"}
+    assert filters.detect_season(title, config.cycles(cfg)) == "Summer 2027"
+    assert pipeline._close_out_of_scope({"a": record}, cfg) == 0
+    assert record["is_open"]
 
 
 def test_ingestion_uses_same_scope_and_ee_category():
@@ -113,6 +126,21 @@ def test_ee_radar_does_not_reuse_software_history(monkeypatch):
     })
     monkeypatch.setattr(radar, "_observed_cache", {"companies": {}})
     assert radar.scoped_rows({}, "Summer 2027") == []
+
+
+def test_dashboard_history_does_not_mix_scope_counts():
+    with open(paths.HISTORY_PATH, "w", encoding="utf-8") as f:
+        f.write(json.dumps({"open": 1200}) + "\n")
+        f.write(json.dumps({"open": 80, "role_scope": "ee"}) + "\n")
+    assert dashboard._history_points() == [{"open": 80, "role_scope": "ee"}]
+
+
+def test_ee_analytics_exclude_inherited_software_cohorts():
+    records = {
+        "ee": {"title": "Firmware Intern"},
+        "swe": {"title": "Software Intern"},
+    }
+    assert pipeline._analytics_records(records) == {"ee": records["ee"]}
 
 
 def test_overlay_is_additive_and_discovery_registry_stays_separate(tmp_path, monkeypatch):

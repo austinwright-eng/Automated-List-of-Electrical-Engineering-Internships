@@ -1,5 +1,13 @@
 # Methodology
 
+> **EE fork:** this deployment selects `role_scope: "ee"`. Its role filter
+> includes electrical/electronics, circuits, digital/semiconductors, RF, power,
+> embedded/firmware, and controls/instrumentation. Generic software and ambiguous
+> systems/test roles are excluded. The tech-role description below documents
+> the preserved upstream `tech` option, not this deployment's selected scope.
+> EE forecasts and email signup are disabled for the initial version. See
+> [EE scope and limitations](EE_DEVELOPMENT.md) for the fork-specific behavior.
+
 How every number on this list is produced, and what each one does and doesn't
 claim. If something here doesn't match what the code does, that's a bug —
 [open an issue](../../issues/new/choose).

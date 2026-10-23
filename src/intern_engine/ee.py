@@ -13,7 +13,9 @@ def _pattern(words: str) -> re.Pattern:
 
 _EXCLUDE = _pattern(
     r"sales|marketing|recruit\w*|accounting|legal|human resources|unpaid|"
-    r"product manag\w*|supply chain|public relations|corporate communications|"
+    r"product manag\w*|supply chain|sourcing|procurement|purchasing|logistics|"
+    r"business development|finance|public relations|corporate communications|"
+    r"for\s+(?:20\d{2}\s+)?interns?\s+only|former interns?|"
     r"phd|ph\.d|doctoral"
 )
 _CATEGORIES = [
