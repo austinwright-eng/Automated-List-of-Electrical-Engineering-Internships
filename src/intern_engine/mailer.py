@@ -687,6 +687,20 @@ def _clear_failure(state: dict) -> None:
     state.pop("last_error", None)
 
 
+def delivery_health(state: dict, pending_count: int = 0) -> tuple[bool, str]:
+    """Skip an unused email service; reject incomplete configuration."""
+    fields = ("BREVO_API_KEY", "SUPABASE_URL", "SUPABASE_SERVICE_KEY", "MAIL_FROM")
+    configured = {name: (os.environ.get(name) or "").strip() for name in fields}
+    if not any(configured.values()):
+        return True, "email service is not configured"
+    missing = [name for name, value in configured.items() if not value]
+    if not _sender() and "MAIL_FROM" not in missing:
+        missing.append("valid MAIL_FROM")
+    if missing:
+        return False, f"incomplete email configuration: missing {', '.join(missing)}"
+    return health(state, pending_count)
+
+
 def health(state: dict, pending_count: int = 0,
            now: datetime | None = None) -> tuple[bool, str]:
     """Is the digest actually reaching people? Returns (ok, human reason).
