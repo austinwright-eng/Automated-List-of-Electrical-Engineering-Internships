@@ -8,7 +8,7 @@
 
 ### 393 open roles (287 listed below) · 341 new this week
 
-4,811 employers tracked · data as of Oct 23, 2026 at 18:05 UTC
+4,811 employers tracked · data as of Oct 23, 2026 at 19:25 UTC
 
 _221 have a cycle the employer stated · 172 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -167,8 +167,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Muon Space | GNC Hardware Engineering Intern (Summer 2027) 🆕 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) | Mountain View, CA | No skills listed | Sep 29, 2026 |
 | nVent | Electrical/Controls Engineering Co-Op (June - December 2027) 🆕 | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626) | Anoka, MN, US | No skills listed | Sep 29, 2026 |
 | Hermeus | Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027 🇺🇸 | [Apply](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) | Los Angeles, CA | Python, C++, MATLAB, Linux | Sep 29, 2026 |
-| General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/75140/electrical-engineering-intern-%28summer-2027%29/job?in_iframe=1) | Manassas, VA, US | No skills listed | Sep 28, 2026 |
 | General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/75138/electrical-engineering-intern-%28summer-2027%29/job?in_iframe=1) | West Valley City, UT, US | No skills listed | Sep 28, 2026 |
+| General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/75140/electrical-engineering-intern-%28summer-2027%29/job?in_iframe=1) | Manassas, VA, US | No skills listed | Sep 28, 2026 |
 | Global​Foundries | Silicon Photonics Reliability Engineering Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) | USA - New York - Malta | Python, MATLAB | Sep 28, 2026 |
 | Global​Foundries | Technology Development Intern, RF GaN (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Technology-Development-Intern--RF-GaN--Summer-2027-_JR-2604282) | USA - Vermont - Essex Junction | No skills listed | Sep 28, 2026 |
 | HNTB ✓ | WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only) 🛂 🆕 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767-1) | Los Angeles, CA (Figueroa Street) | No skills listed | Sep 28, 2026 |
@@ -411,7 +411,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,759 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1121.5s · 670 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,667 of 5,108 registered boards returned successfully across 14 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 936.8s · 669 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
