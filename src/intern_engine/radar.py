@@ -29,7 +29,7 @@ from __future__ import annotations
 import json
 from datetime import UTC, date, datetime
 
-from . import h1b, observe, paths
+from . import config, h1b, observe, paths
 
 _known_cache: dict | None = None
 _observed_cache: dict | None = None
@@ -128,9 +128,10 @@ def _open_this_cycle(store_data: dict, cycle: str) -> dict[str, dict]:
     return seen
 
 
-def rows(store_data: dict, cycle: str, today: date | None = None) -> list[dict]:
+def rows(store_data: dict, cycle: str, today: date | None = None,
+         *, include_history: bool = True) -> list[dict]:
     """Radar rows for every company we can say something real about."""
-    observed_raw = _load_observed().get("companies") or {}
+    observed_raw = (_load_observed().get("companies") or {}) if include_history else {}
     observed: dict[str, dict] = {}
     for raw_key, info in observed_raw.items():
         key = company_key((info or {}).get("name") or raw_key)
@@ -144,7 +145,7 @@ def rows(store_data: dict, cycle: str, today: date | None = None) -> list[dict]:
         merged_cycles = dict(merged.get("cycles") or {})
         merged_cycles.update((info or {}).get("cycles") or {})
         merged["cycles"] = merged_cycles
-    known_raw = _load_known()
+    known_raw = _load_known() if include_history else {}
     known = {
         company_key((info or {}).get("name") or raw_key): info
         for raw_key, info in known_raw.items()
@@ -253,6 +254,12 @@ def rows(store_data: dict, cycle: str, today: date | None = None) -> list[dict]:
 
     out.sort(key=_sortkey)
     return out
+
+
+def scoped_rows(store_data: dict, cycle: str, today: date | None = None) -> list[dict]:
+    """EE starts with live signals; upstream software history is not an EE forecast."""
+    return rows(store_data, cycle, today,
+                include_history=config.load_config().get("role_scope") != "ee")
 
 
 # --- display helpers (shared by README + dashboard) -----------------------------

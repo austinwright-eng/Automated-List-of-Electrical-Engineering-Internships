@@ -4,7 +4,16 @@ import json
 import os
 import xml.etree.ElementTree as ET
 
-from intern_engine import paths, publish
+import pytest
+
+from intern_engine import config, paths, publish
+
+
+@pytest.fixture(autouse=True)
+def upstream_scope(monkeypatch):
+    """These fixtures exercise the upstream tech feed, independent of deployment."""
+    cfg = config.validate_config({})
+    monkeypatch.setattr(config, "load_config", lambda: cfg)
 
 STORE = {
     "a": {

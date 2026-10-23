@@ -12,6 +12,7 @@ on:
       - "requirements*.txt"
       - "db/**"
       - "data/config.json"
+      - "data/companies.ee.json"
       - "data/blocklist.json"
       - "data/candidates.json"
       - "data/known_windows.json"

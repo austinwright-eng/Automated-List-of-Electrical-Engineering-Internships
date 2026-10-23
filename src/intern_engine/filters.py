@@ -9,6 +9,8 @@ from __future__ import annotations
 import re
 from datetime import UTC, datetime
 
+from . import ee
+
 # --- internship detection (whole words, never substrings) --------------------
 _INTERN_RE = re.compile(
     r"\b(intern|interns|internship|co[\s-]?op|cooperative\s+education)\b",
@@ -862,3 +864,20 @@ def categorize(title: str) -> str:
         if pattern.search(title):
             return name
     return "Other"
+
+
+def role_matches(title: str, scope: str = "tech") -> bool:
+    """One role-scope predicate for ingestion, cleanup, and verification."""
+    if scope == "ee":
+        return ee.is_ee(title)
+    if scope == "tech":
+        return is_tech(title)
+    if scope == "all":
+        return True
+    raise ValueError(f"unsupported role scope: {scope!r}")
+
+
+def role_category(title: str, scope: str = "tech") -> str:
+    if scope == "ee":
+        return ee.category(title) or "Other"
+    return categorize(title)

@@ -314,9 +314,9 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
     return [
         '<div align="center">',
         "",
-        "# 🎓 Summer 2027 Tech Internships",
+        f"# 🎓 {cycles_phrase} {config.scope_label(cfg)} Internships",
         "",
-        "**A self-updating engine that tracks tech internships so you don't have "
+        f"**A self-updating engine that tracks {config.scope_label(cfg)} internships so you don't have "
         "to.**",
         "",
         f"[![CI](https://img.shields.io/github/actions/workflow/status/{repo}/ci.yml"
@@ -340,8 +340,8 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         f"**[🖥️ Live dashboard]({pages}/)** · "
         f"**[📡 RSS]({pages}/feed.xml)** · "
-        f"**[⚙️ JSON API]({pages}/api/jobs.json)** · "
-        f"**[✉️ Email alerts]({pages}/#subscribe)**",
+        f"**[⚙️ JSON API]({pages}/api/jobs.json)**"
+        + (f" · **[✉️ Email alerts]({pages}/#subscribe)**" if config.signup_endpoint(cfg) else ""),
         "",
         "</div>",
         "",
@@ -355,11 +355,9 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # Native signup posts into our own Supabase list (RLS: insert-only).
         # The Feedrabbit link is the zero-account fallback via the raw feed URL,
         # which works even when GitHub Pages is off.
-        f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
-        "- one email a day, only when new internships actually appeared, "
-        f"unsubscribe from any email in two clicks. (Prefer RSS-to-email? "
-        "[Feedrabbit works too]"
-        f"({_email_subscribe_url()}).)",
+        (f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe)."
+         if config.signup_endpoint(cfg) else
+         f"**🔔 Follow new roles:** [RSS feed]({pages}/feed.xml)."),
         "",
         "---",
         "",
@@ -379,11 +377,15 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         # lines each and the distinguishing word was buried mid-sentence.
         "| | |",
         "|---|---|",
+        ("| ⚡ **EE scope** | Electrical and related internships, with separate "
+         "categories for circuits, digital, RF, power, embedded, and controls. "
+         "Generic software and ambiguous systems/test titles are excluded. |"
+         if cfg.get("role_scope") == "ee" else
         "| 📅 **[Drop Radar](#drop-radar)** | A forecast of **what's coming**. "
         "Each marquee company's typical opening window, replaced by the real "
         "drop date the moment the engine catches it live. Windows are estimates "
         "and labelled as such; only dates the engine saw itself are marked "
-        "verified. |",
+        "verified. |"),
         "| 🛂 **Visa intel, computed** | 🇺🇸 / 🛂 flags detected automatically from "
         "every job description, plus ✓ for employers with a real H-1B track "
         "record (USCIS data, FY2022-23 — a history, not a promise). The big "
@@ -397,8 +399,9 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "for the stack it wants (Python, C++, PyTorch, …) and the pay it "
         f"states — searchable on the [dashboard]({pages}/), and included in the "
         "CSV and API. |",
-        f"| 🔔 **Alerts your way** | [Email digests]({pages}/#subscribe) or "
-        f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
+        "| 🔔 **Alerts your way** | "
+        + (f"[Email digests]({pages}/#subscribe) or " if config.signup_endpoint(cfg) else "")
+        + f"[RSS]({pages}/feed.xml) — point any reader, or a Slack/Discord RSS "
         f"integration, at it. Plus a [live dashboard]({pages}/) with search, "
         "filters, and a saved-roles list that never leaves your browser. |",
         f"| ⚙️ **An engine, not a spreadsheet** | {companies:,} job-board "
@@ -410,8 +413,10 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "| | |",
         "|---|---|",
-        "| **Roles** | Software Engineering, Data Science & Machine Learning "
-        "(and closely related technical internships) |",
+        ("| **Roles** | Electrical/electronics, digital/semiconductors, RF, power, "
+         "embedded/firmware, controls and instrumentation internships |"
+         if cfg.get("role_scope") == "ee" else
+         "| **Roles** | " + config.scope_label(cfg) + " internships |"),
         f"| **Region** | {region}"
         + (" (primary), with a separate International section"
            if config.include_international(cfg) else "")
@@ -420,9 +425,10 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int,
         "",
         "## About",
         "",
-        "I'm an international student studying in the United States, so I built "
-        "this for the search I'm doing myself. The list is US roles only for "
-        "now — that's where I'm searching.",
+        ("This EE fork builds on the upstream Internship Engine. See "
+         "[EE development and upstream synchronization](EE_DEVELOPMENT.md)."
+         if cfg.get("role_scope") == "ee" else
+         "Built on the open-source Internship Engine."),
         "",
         "Use it to spot roles early and apply before they fill up. Being first "
         "genuinely helps.",
@@ -594,7 +600,9 @@ def _radar_section(store_data: dict, cycle: str, cap: int = 30,
     the radar's unique value; "open now" rows just echo the list above — then
     shows a few recent drops as proof the forecast is real. The dashboard keeps
     the full, searchable list."""
-    rows = radar.rows(store_data, cycle, today=_as_of(data_as_of).date())
+    if config.load_config().get("role_scope") == "ee":
+        return []  # EE opening history needs independent validation first
+    rows = radar.scoped_rows(store_data, cycle, today=_as_of(data_as_of).date())
     if not rows:
         return []
     waiting = [r for r in rows if r["status"] == "waiting" and radar.is_actionable(r)]
@@ -657,9 +665,11 @@ def _closed_section(store_data: dict, cycles: list[str],
     an off-cycle tombstone (text-verified "Summer 2026") was never on the list,
     so it has no business in its obituary either."""
     cutoff = (_as_of(data_as_of) - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%S")
+    ee_scope = config.load_config().get("role_scope") == "ee"
     closed = [
         r for r in store_data.values()
         if not r.get("is_open") and (r.get("closed_at") or "") >= cutoff
+        and (not ee_scope or filters.role_matches(r.get("title") or "", "ee"))
         and r.get("season") in cycles
     ]
     if not closed:
@@ -766,7 +776,7 @@ def generate(store_data: dict, data_as_of: str | None = None) -> dict:
             f"## Recently posted — cycle not stated  ({len(rolling_rows)} roles)",
             "",
             "These postings never name a cycle — not in the title, not in the "
-            "posting text — so neither do we. They're recent tech internships "
+            "posting text — so neither do we. They're recent internships "
             "(posted within the last few weeks), often exactly the early drops "
             "worth applying to first; we just can't tell you which cycle "
             "they're for, and we'd rather say so than guess. The moment a "

@@ -133,8 +133,8 @@ def main() -> None:
             flag(r, "out-of-region")
         if not filters.is_internship(title):
             flag(r, "not-an-internship-title")
-        if cfg.get("role_scope", "tech") == "tech" and not filters.is_tech(title):
-            flag(r, "not-a-tech-title")
+        if not filters.role_matches(title, cfg.get("role_scope", "tech")):
+            flag(r, "role-out-of-scope")
         posted = (r.get("posted_at") or "")[:10]
         # Age only disqualifies a role whose cycle we INFERRED, where recency
         # was the evidence. When the employer stated the cycle, an old posting

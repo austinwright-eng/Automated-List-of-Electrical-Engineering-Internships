@@ -21,9 +21,11 @@ from datetime import UTC, datetime
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "src"))
 
 from intern_engine import (  # noqa: E402
+    config,
     dashboard,
     db,
     discover,
+    filters,
     harvester,
     mailer,
     notify,
@@ -62,6 +64,12 @@ def cmd_discover() -> None:
 def _render(store_data: dict, stats: dict):
     """Regenerate every published artifact from the store. Returns (readme
     summary, feed entry count, calendar event count)."""
+    cfg = config.load_config()
+    if cfg.get("role_scope") == "ee":
+        # Retain upstream tombstones in storage, but don't chart their posting
+        # volume or describe them as EE hiring history in public artifacts.
+        store_data = {jid: r for jid, r in store_data.items()
+                      if filters.role_matches(r.get("title") or "", "ee")}
     data_as_of = stats.get("fetched_at") or stats.get("generated_at")
     try:
         data_as_of_dt = datetime.fromisoformat(data_as_of.replace("Z", "+00:00"))
@@ -87,6 +95,14 @@ def cmd_render() -> None:
     """
     store_data = store.load(paths.JOBS_PATH)
     stats = pipeline.load_stats()
+    cfg = config.load_config()
+    pipeline._close_out_of_scope(store_data, cfg)
+    for record in store_data.values():
+        if record.get("is_open"):
+            record["category"] = filters.role_category(
+                record.get("title") or "", cfg.get("role_scope", "tech")
+            )
+    store.save(paths.JOBS_PATH, store_data)
     # The store just changed, so the fetch-time counts in stats.json describe a
     # different dataset. Recompute the ones derived from the store; leave the
     # fetch metrics (which only a real run can produce) as the last run's.

@@ -7,7 +7,7 @@ Change behavior without touching code:
                     "Software Engineer Intern"). Must be one of `cycles`.
   - regions       : ["US"] for United States only, ["US", "Canada"] for both,
                     or ["Global"] to disable the location filter entirely.
-  - role_scope    : "tech" (SWE/data/ML/quant/hardware/...) or "all" internships.
+  - role_scope    : "tech" (software/data/ML), "ee", or "all" internships.
 """
 
 from __future__ import annotations
@@ -99,8 +99,8 @@ def validate_config(raw: object) -> dict:
     if unknown:
         raise ConfigError(f"unsupported regions: {', '.join(unknown)}")
 
-    if cfg.get("role_scope") not in {"tech", "all"}:
-        raise ConfigError("role_scope must be 'tech' or 'all'")
+    if cfg.get("role_scope") not in {"tech", "ee", "all"}:
+        raise ConfigError("role_scope must be 'tech', 'ee', or 'all'")
     default_cycle = cfg.get("default_cycle")
     if default_cycle not in cfg["cycles"]:
         raise ConfigError("default_cycle must be one of cycles")
@@ -216,3 +216,10 @@ def signup_endpoint(cfg: dict) -> tuple[str, str] | None:
     url = (cfg.get("supabase_url") or "").rstrip("/")
     key = cfg.get("supabase_publishable_key") or ""
     return (url, key) if url and key else None
+
+
+def scope_label(cfg: dict) -> str:
+    """Display name without changing the upstream scope defaults."""
+    return {"tech": "Tech", "ee": "Electrical Engineering", "all": "All"}[
+        cfg.get("role_scope", "tech")
+    ]

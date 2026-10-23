@@ -81,7 +81,7 @@ USER_AGENT = f"intern-engine/3.0 (+https://github.com/{config.repo_slug()})"
 
 
 def _load_companies() -> list[dict]:
-    return registry.load()
+    return registry.load_for_collection()
 
 
 async def _fetch_one(company: dict, net: Net):
@@ -416,7 +416,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
     "closed" the day its posting outgrew the inference recency window.
     """
     cycles = config.cycles(cfg)
-    tech_only = cfg.get("role_scope", "tech") == "tech"
+    role_scope = cfg.get("role_scope", "tech")
     restrict = config.restrict_region(cfg)
     wants_us = config.want_us(cfg)
     wants_canada = config.want_canada(cfg)
@@ -494,7 +494,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
         for job in jobs:
             if not filters.is_internship(job.title):
                 continue
-            if tech_only and not filters.is_tech(job.title):
+            if not filters.role_matches(job.title, role_scope):
                 continue
             season = filters.detect_season(job.title, cycles)
             inferred = False
@@ -552,7 +552,7 @@ def _keep_matching(results, cfg, blocklist, existing=None) -> tuple[list, set[st
                 stated_all = filters.detect_seasons(job.title, cycles)
                 if len(stated_all) > 1:
                     job.seasons = stated_all
-            job.category = filters.categorize(job.title)
+            job.category = filters.role_category(job.title, role_scope)
             job.company = names.display(job.company, job.company_slug)
             if job.posted_at and not job.posted_at_source:
                 job.posted_at_source = models.date_source(job.posted_at)
@@ -639,7 +639,7 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
     n = _close_region_out_of_scope(existing, cfg)
     ts = store.now_iso()
     cycles = set(config.cycles(cfg))
-    tech_only = cfg.get("role_scope", "tech") == "tech"
+    role_scope = cfg.get("role_scope", "tech")
     allowlist_only = config.allowlist_only(cfg)
     restrict = config.restrict_region(cfg) and not config.include_international(cfg)
     wants_us, wants_canada = config.want_us(cfg), config.want_canada(cfg)
@@ -669,7 +669,7 @@ def _close_out_of_scope(existing: dict, cfg: dict, blocklist: dict | None = None
         )
         rejected = (
             (bool(title) and not filters.is_internship(title))
-            or (bool(title) and tech_only and not filters.is_tech(title))
+            or (bool(title) and not filters.role_matches(title, role_scope))
             or (
                 has_cycle_evidence
                 and not assigned.intersection(cycles | {filters.NOT_STATED})

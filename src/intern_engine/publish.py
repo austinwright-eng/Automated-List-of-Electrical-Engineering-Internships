@@ -85,7 +85,8 @@ def _entry(record: dict, base: str, data_as_of: str | None = None) -> str:
 def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
     """Atom discovery feed, retaining recent entries even after they close."""
     base = config.pages_base()
-    cycles_phrase = " & ".join(config.cycles(config.load_config()))
+    cfg = config.load_config()
+    cycles_phrase = " & ".join(config.cycles(cfg))
     as_of = _data_as_of(data_as_of)
     cutoff = (
         datetime.strptime(as_of[:19], "%Y-%m-%dT%H:%M:%S").replace(tzinfo=UTC)
@@ -93,6 +94,10 @@ def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
     )
     entries = []
     for record in store_data.values():
+        if cfg.get("role_scope") == "ee" and not filters.role_matches(
+            record.get("title") or "", "ee"
+        ):
+            continue
         try:
             seen = datetime.strptime(_first_seen(record)[:19], "%Y-%m-%dT%H:%M:%S") \
                 .replace(tzinfo=UTC)
@@ -112,7 +117,7 @@ def write_feed(store_data: dict, data_as_of: str | None = None) -> int:
         '<?xml version="1.0" encoding="utf-8"?>\n',
         '<feed xmlns="http://www.w3.org/2005/Atom">\n',
         f"  <id>{escape(base)}/feed.xml</id>\n",
-        f"  <title>{escape(cycles_phrase)} Tech Internships — new roles</title>\n",
+        f"  <title>{escape(cycles_phrase)} {escape(config.scope_label(cfg))} Internships — new roles</title>\n",
         "  <subtitle>Auto-detected internships, newest finds first.</subtitle>\n",
         f"  <link href={quoteattr(base + '/feed.xml')} rel=\"self\"/>\n",
         f"  <link href={quoteattr('https://github.com/' + config.repo_slug())}/>\n",
@@ -177,7 +182,7 @@ def write_radar_ics(store_data: dict, cycle: str | None = None,
     as_of = _data_as_of(data_as_of)
     now = as_of.replace("-", "").replace(":", "")
     today = datetime.strptime(as_of[:10], "%Y-%m-%d").date()
-    rows = [r for r in radar.rows(store_data, cycle, today=today)
+    rows = [r for r in radar.scoped_rows(store_data, cycle, today=today)
             if r["status"] == "waiting" and not r["rolling"] and r["expected"]
             and radar.is_actionable(r)]
 
@@ -188,7 +193,7 @@ def write_radar_ics(store_data: dict, cycle: str | None = None,
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:Internship Drop Radar ({_ics_escape(cycle)})",
-        "X-WR-CALDESC:Expected opening dates for tech internships. Dates come "
+        f"X-WR-CALDESC:Expected opening dates for {config.scope_label(config.load_config())} internships. Dates come "
         "from employers' own career APIs or hand-checked opening months; treat "
         "them as when to start watching.",
         "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
@@ -281,7 +286,7 @@ def write_api(store_data: dict, stats: dict) -> int:
         "rendered_at": rendered_at,
         "cycle": cycle,
         "source": payload["source"],
-        "companies": radar.rows(
+        "companies": radar.scoped_rows(
             store_data,
             cycle,
             today=datetime.fromisoformat(data_as_of.replace("Z", "+00:00")).date(),

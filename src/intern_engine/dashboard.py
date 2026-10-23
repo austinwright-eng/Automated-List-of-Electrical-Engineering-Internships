@@ -288,8 +288,10 @@ def _radar_rows(rows: list[dict]) -> str:
 
 
 def _radar_section(store_data: dict, cfg: dict, data_as_of: datetime | None = None) -> str:
+    if cfg.get("role_scope") == "ee":
+        return ""  # inherited software opening windows are not EE forecasts
     cycle = config.cycles(cfg)[0]
-    rows = radar.rows(store_data, cycle, today=data_as_of.date() if data_as_of else None)
+    rows = radar.scoped_rows(store_data, cycle, today=data_as_of.date() if data_as_of else None)
     if not rows:
         return ""
     return f"""
@@ -406,9 +408,9 @@ def generate(store_data: dict, stats: dict) -> None:
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Internship Engine - Live Dashboard</title>
-<meta name="description" content="Summer 2027 & Fall 2026 tech internships, refreshed every 30 minutes. Auto-detected visa sponsorship flags, proven H-1B sponsor badges, email alerts.">
+<meta name="description" content="{escape(" & ".join(config.cycles(cfg)))} {escape(config.scope_label(cfg))} internships, refreshed every 30 minutes. Auto-detected visa sponsorship flags, proven H-1B sponsor badges, email alerts.">
 <meta property="og:title" content="Internship Engine - Live Dashboard">
-<meta property="og:description" content="{len(open_jobs)} open tech internships, refreshed every 30 minutes. Visa-sponsorship flags + proven H-1B sponsor badges for international students.">
+<meta property="og:description" content="{len(open_jobs)} open {escape(config.scope_label(cfg))} internships, refreshed every 30 minutes. Visa-sponsorship flags + proven H-1B sponsor badges for international students.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <link rel="alternate" type="application/atom+xml" title="New internships" href="feed.xml">
@@ -667,7 +669,7 @@ def generate(store_data: dict, stats: dict) -> None:
   }}
 </style></head><body><div class="wrap">
   <header class="top">
-    <h1>{escape(region)} tech internships</h1>
+    <h1>{escape(region)} {escape(config.scope_label(cfg))} internships</h1>
     <p class="sub">Read straight from {stats.get('companies_total', 0):,} employer
     job boards. Data as of {escape(updated)}.</p>
     <p class="links"><a href="feed.xml">RSS</a> · <a href="api/jobs.json">JSON API</a>
@@ -967,6 +969,8 @@ def _write_unsubscribe(cfg: dict) -> None:
     """
     endpoint = config.signup_endpoint(cfg)
     if not endpoint:
+        with open(os.path.join(paths.DOCS_DIR, "unsubscribe.html"), "w", encoding="utf-8") as f:
+            f.write("<!DOCTYPE html><title>Email alerts unavailable</title><p>Email alerts are not configured for this tracker.</p>")
         return
     url, key = endpoint
     page = f"""<!DOCTYPE html>
@@ -1039,6 +1043,8 @@ def _write_confirmation(cfg: dict) -> None:
     """Click-gated double-opt-in target; scanners cannot confirm on page load."""
     endpoint = config.signup_endpoint(cfg)
     if not endpoint:
+        with open(os.path.join(paths.DOCS_DIR, "confirm.html"), "w", encoding="utf-8") as f:
+            f.write("<!DOCTYPE html><title>Email alerts unavailable</title><p>Email alerts are not configured for this tracker.</p>")
         return
     url, key = endpoint
     page = f"""<!DOCTYPE html>
