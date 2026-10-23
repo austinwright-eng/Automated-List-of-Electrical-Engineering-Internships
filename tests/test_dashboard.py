@@ -27,7 +27,7 @@ def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch):
     }
     dashboard.generate(store, stats)
     html = open(paths.DASHBOARD_PATH, encoding="utf-8").read()
-    assert "Data as of Aug 06, 2026 at 14:08 UTC" in html
+    assert "Data as of Aug 06, 2026 at 07:08 MST" in html
     assert "if (!currentIds[id]) delete saved[id]" in html
     assert "/rest/v1/rpc/request_email_subscription" in html
     confirm = open(f"{paths.DOCS_DIR}/confirm.html", encoding="utf-8").read()
