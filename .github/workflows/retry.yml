@@ -34,6 +34,7 @@ jobs:
     # run_attempt == 1 caps this at a single retry, so an outage can never turn
     # into a re-dispatch loop.
     if: >-
+      (github.repository == 'zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships' || vars.ENABLE_PUBLISHING == 'true') &&
       github.event.workflow_run.conclusion == 'failure' &&
       github.event.workflow_run.run_attempt == 1
     runs-on: ubuntu-24.04

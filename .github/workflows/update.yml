@@ -19,6 +19,8 @@ concurrency:
 
 jobs:
   update:
+    # Forks must opt in before jobs can update main.
+    if: github.repository == 'zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships' || vars.ENABLE_PUBLISHING == 'true'
     # Pinned for REPRODUCIBILITY, not as an outage fix: `ubuntu-latest` already
     # resolves to 24.04 today, so this is the same pool — it just stops the
     # image moving under us when GitHub advances the alias. The 2026-08-06
