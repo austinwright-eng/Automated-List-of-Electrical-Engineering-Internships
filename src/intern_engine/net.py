@@ -106,7 +106,11 @@ class Net:
     async def post_json(self, url: str, **kwargs):
         return await self._request("POST", url, **kwargs)
 
-    async def _request(self, method: str, url: str, *, retries: int = 3, **kwargs):
+    async def get_text(self, url: str, **kwargs):
+        return await self._request("GET", url, _text=True, **kwargs)
+
+    async def _request(self, method: str, url: str, *, retries: int = 3,
+                       _text: bool = False, **kwargs):
         host = httpx.URL(url).host
         sem = await self._limiter.acquire(host)
         last_error: Exception | None = None
@@ -127,7 +131,7 @@ class Net:
                 continue
 
             response.raise_for_status()
-            return response.json()
+            return response.text if _text else response.json()
 
         # Only reached if every attempt hit a retryable status without resolving.
         raise last_error or httpx.HTTPError(f"request to {url} failed after retries")

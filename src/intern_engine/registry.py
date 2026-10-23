@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from collections import defaultdict
 
 from . import paths
@@ -14,6 +15,7 @@ class RegistryCorrupt(RuntimeError):
 
 
 _SUPPORTED_ATS = {
+    "jazzhr", "icims",
     "amazon", "ashby", "breezy", "eightfold", "greenhouse", "lever",
     "oracle", "recruitee", "rippling", "smartrecruiters", "workable", "workday",
 }
@@ -79,6 +81,9 @@ def validate_company(company: object, index: int | None = None) -> dict:
             raise RegistryCorrupt(f"{label}: {field} must be a non-empty string")
     if company["ats"] not in _SUPPORTED_ATS:
         raise RegistryCorrupt(f"{label}: unsupported ATS {company['ats']!r}")
+    if company["ats"] in {"jazzhr", "icims"} and not re.fullmatch(
+            r"[A-Za-z0-9-]+", company["slug"]):
+        raise RegistryCorrupt(f"{label}: invalid public board tenant")
     if company["ats"] == "workday":
         if not isinstance(company.get("site"), str) or not company["site"].strip():
             raise RegistryCorrupt(f"{label}: Workday record requires site")
