@@ -70,6 +70,18 @@ _REQUIRED_STATS = {
 }
 
 
+def registry_drift(companies_total: int) -> str | None:
+    """Validate against the same scope-aware registry the collector reads."""
+    registry_total = len(registry.load_for_collection())
+    # A code PR can change the registry before the next collection. CI still
+    # validates the registry itself, but allows its historical snapshot count.
+    if (companies_total != registry_total
+            and os.environ.get("ALLOW_REGISTRY_DRIFT") != "1"):
+        return (f"  [registry-drift] stats describe {companies_total} boards, "
+                f"registry has {registry_total}")
+    return None
+
+
 def main() -> None:
     cfg = config.load_config()
     cycles = config.cycles(cfg)
@@ -357,12 +369,9 @@ def main() -> None:
                 gates.append("  [stats-arithmetic] fetch_success_rate is inconsistent")
             if stats.get("fetch_success_rate_registry") != expected_registry_rate:
                 gates.append("  [stats-arithmetic] registry success rate is inconsistent")
-            registry_total = len(registry.load())
-            if companies_total != registry_total:
-                gates.append(
-                    f"  [registry-drift] stats describe {companies_total} boards, "
-                    f"registry has {registry_total}"
-                )
+            drift = registry_drift(companies_total)
+            if drift:
+                gates.append(drift)
         if stats.get("open_total") != len(open_jobs):
             gates.append("  [stats-store-drift] open_total differs from the job store")
         expected_cycles: dict[str, int] = {}

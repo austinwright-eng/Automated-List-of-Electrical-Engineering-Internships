@@ -234,4 +234,9 @@ jobs:
       # checked — the 26-hour threshold means a transient delay never fires it.
       - name: Check the digest is actually going out
         if: always()
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python run.py mailcheck

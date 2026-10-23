@@ -173,7 +173,7 @@ def cmd_notify() -> None:
     # which one it is, every run.
     state = mailer.load_state()
     waiting = len(mailer.pending_roles(store_data, state))
-    ok, reason = mailer.health(state, waiting)
+    ok, reason = mailer.delivery_health(state, waiting)
     print(f"  email health         {'ok' if ok else 'FAILING'} - {reason}")
     if not ok:
         # Picked up as an annotation on the Actions run; `run.py mailcheck`
@@ -198,7 +198,7 @@ def cmd_mailcheck() -> None:
     store_data = store.load(paths.JOBS_PATH)
     state = mailer.load_state()
     waiting = len(mailer.pending_roles(store_data, state))
-    ok, reason = mailer.health(state, waiting)
+    ok, reason = mailer.delivery_health(state, waiting)
     if ok:
         print(f"Email digest healthy - {reason}")
         return

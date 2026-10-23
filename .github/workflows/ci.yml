@@ -50,4 +50,7 @@ jobs:
           # CI validates artifact identity/arithmetic without making a code PR
           # expire merely because its last real fetch is more than 12h old.
           ALLOW_STALE_STATS: "1"
+          # Registry edits precede the next collection; committed stats describe
+          # the previous registry. Production publishing keeps this check strict.
+          ALLOW_REGISTRY_DRIFT: "1"
         run: python tools/verify_accuracy.py
