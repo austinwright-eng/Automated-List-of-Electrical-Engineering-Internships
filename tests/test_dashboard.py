@@ -1,9 +1,15 @@
 """Static dashboard contracts for freshness, saves, and double opt-in."""
 
+import pytest
+
 from intern_engine import config, dashboard, paths
 
 
-def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch):
+@pytest.mark.parametrize(("fetched_at", "local_label"), [
+    ("2026-08-06T14:08:27Z", "Aug 06, 2026 at 08:08 MDT"),
+    ("2026-01-01T02:08:27Z", "Dec 31, 2025 at 19:08 MST"),
+])
+def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch, fetched_at, local_label):
     # Exercise opt-in explicitly; a deployment may intentionally omit signup.
     cfg = config.validate_config({
         "supabase_url": "https://example.supabase.co",
@@ -22,12 +28,12 @@ def test_dashboard_uses_fetch_time_and_prunes_ghost_saves(monkeypatch):
         }
     }
     stats = {
-        "generated_at": "2026-08-06T14:08:27Z", "companies_total": 1,
+        "generated_at": fetched_at, "companies_total": 1,
         "companies_by_source": {"greenhouse": 1}, "open_total": 1,
     }
     dashboard.generate(store, stats)
     html = open(paths.DASHBOARD_PATH, encoding="utf-8").read()
-    assert "Data as of Aug 06, 2026 at 07:08 MST" in html
+    assert f"Data as of {local_label}" in html
     assert "if (!currentIds[id]) delete saved[id]" in html
     assert "/rest/v1/rpc/request_email_subscription" in html
     confirm = open(f"{paths.DOCS_DIR}/confirm.html", encoding="utf-8").read()

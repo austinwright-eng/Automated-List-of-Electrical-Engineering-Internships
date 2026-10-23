@@ -10,8 +10,9 @@ from __future__ import annotations
 
 import json
 import os
-from datetime import UTC, datetime, timedelta, timezone
+from datetime import UTC, datetime
 from html import escape
+from zoneinfo import ZoneInfo
 
 from . import config, filters, grouping, h1b, paths, radar, sponsorship, trends
 
@@ -378,7 +379,7 @@ def generate(store_data: dict, stats: dict) -> None:
         data_as_of_dt = datetime.now(UTC)
     data_as_of = data_as_of_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
     updated = data_as_of_dt.astimezone(
-        timezone(timedelta(hours=-7), "MST"),
+        ZoneInfo("America/Denver"),
     ).strftime("%b %d, %Y at %H:%M %Z")
     if config.include_international(cfg):
         region = "US + International"
