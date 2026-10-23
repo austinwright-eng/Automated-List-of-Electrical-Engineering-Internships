@@ -32,8 +32,9 @@ no inherited forecasts. Independent EE history can be added in a later PR.
 ## Employer additions
 
 `data/companies.json` remains the upstream/discovery registry.
-`data/companies.ee.json` is an additive EE overlay, currently empty because this
-first change reuses existing board coverage rather than inventing employer URLs.
+`data/companies.ee.json` is an additive EE overlay for verified employer boards,
+including the Utah expansion documented in `UTAH_EMPLOYERS.md` and
+`UTAH_COLLECTORS.md`.
 Only collection reads the overlay; discovery and harvesting keep their existing
 registry writes. Conflicting board identities fail rather than silently replacing
 an existing board. Validate each new employer's public board before adding it.
