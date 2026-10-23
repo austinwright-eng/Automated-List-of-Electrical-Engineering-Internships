@@ -750,9 +750,19 @@ def is_united_states(location: str) -> bool:
 
     if us_signal:
         index, kind, value = us_signal
-        # A named country to the right is an actual country qualifier:
-        # "IN - Bangalore, India" and "CA - Sydney, Australia" are foreign.
-        if any(country_index > index for country_index in foreign_indexes):
+        # Country-last and country-first ATS layouts both carry country
+        # evidence. "United Kingdom, Edinburgh, SC, Freer" is not South
+        # Carolina. Keep ordinary US city/state pairs such as "Lebanon, NH":
+        # a single-word country lookalike in that position can be a US city.
+        if any(
+            country_index > index
+            or (
+                country_index == 0
+                and _NON_US_RE.fullmatch(parts[0].lower())
+                and (index >= 2 or " " in parts[0])
+            )
+            for country_index in foreign_indexes
+        ):
             return False
         if any(country_index > index for country_index in canada_indexes):
             return False

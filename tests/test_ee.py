@@ -120,6 +120,17 @@ def test_ee_feed_does_not_announce_inherited_software_closures():
     assert "Software Co" not in text
 
 
+def test_location_corrections_are_not_announced_as_employer_closures():
+    record = {
+        "id": "uk", "company": "UK Co", "title": "Analog Design Intern",
+        "location": "United Kingdom, Edinburgh, SC, Freer",
+        "season": "Summer 2027", "is_open": False,
+        "closed_reason": "out-of-scope", "closed_at": "2026-10-23T00:00:00Z",
+        "first_seen_at": "2026-10-22T00:00:00Z",
+    }
+    assert publish.write_feed({"uk": record}, data_as_of="2026-10-23T00:00:00Z") == 0
+
+
 def test_ee_radar_does_not_reuse_software_history(monkeypatch):
     monkeypatch.setattr(radar, "_known_cache", {
         "software-co": {"name": "Software Co", "precision": "rolling"},
