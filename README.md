@@ -8,7 +8,7 @@
 
 ### 394 open roles (287 listed below) · 342 new this week
 
-4,811 employers tracked · data as of Oct 23, 2026 at 22:48 UTC
+4,811 employers tracked · data as of Oct 23, 2026 at 23:16 UTC
 
 _221 have a cycle the employer stated · 173 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -281,7 +281,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Daikin Applied | Power Electronics Intern 🆕 | [Apply](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Power-Electronics-Intern_R004448) | Staunton, VA 24402 | No skills listed | Oct 21, 2026 |
 | Daimler Truck | Mechatronics Engineering Intern – Body Interface and Controls 🆕 | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/High-Point-NC-US/Mechatronics-Engineering-Intern---Body-Interface-and-Controls_DT-20341-1) | High Point, NC US | No skills listed | Oct 21, 2026 |
 | Microchip Technology ✓ | Intern - Engineering (ASIC Verificati​on) 🆕 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26) | CA - San Jose - 3870 N. First St | Python, Bash, Verilog | Oct 21, 2026 |
-| Daimler Truck | Vehicle Electronics Programming Station Intern 🆕 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337) | Portland, OR US | Python | Oct 21, 2026 |
+| Daimler Truck | Vehicle Electronics Programming Station Intern | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337) | Portland, OR US | Python | Oct 21, 2026 |
 | Avav | Electrical Engineering Intern 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/San-Diego-CA/Electrical-Engineering-Intern_9143) | San Diego, CA | Python, C++, C#, MATLAB | Oct 20, 2026 |
 | Daimler Truck | Electrical Engineering Intern 🆕 | [Apply](https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Hibbing-MN-US/Electrical-Engineering-Intern_DT-20320-1) | Hibbing, MN US | No skills listed | Oct 20, 2026 |
 | Heidelberg Materials | Electrical Engineer Intern 🆕 | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Lexington-SC/Electrical-Engineer-Intern_JR10019490) | Lexington, SC | No skills listed | Oct 20, 2026 |
@@ -413,7 +413,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,639 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1080.0s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,677 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 979.3s · 609 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
