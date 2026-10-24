@@ -8,7 +8,7 @@
 
 ### 380 open roles (281 listed below) · 332 new this week
 
-4,811 employers tracked · data as of Oct 24, 2026 at 10:19 UTC
+4,811 employers tracked · data as of Oct 24, 2026 at 10:46 UTC
 
 _221 have a cycle the employer stated · 159 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -253,7 +253,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Itron ✓ | Intern - Electrical Engineer (Fall 2026/Winter 2027) 🆕 | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-North-Carolina-Raleigh/Intern---Electrical-Engineer_JR102930-1) | United States of America +2 more | Python, C++, C#, Rust | Oct 12, 2026 |
 | S&C Electric Company ✓ | Electrical Engineer Co-Op 🆕 | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107353) | Chicago, IL, United States | Python, C++, MATLAB | Oct 07, 2026 |
 | Moog | Intern, Embedded Design Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | No skills listed | Sep 11, 2026 |
-| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) 🆕 | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1) | Burlington, MA | No skills listed | Aug 25, 2026 |
+| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) 🆕 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2) | Burlington, MA | No skills listed | Aug 25, 2026 |
 | Mill | Electrical Engineering Intern, Fall/Winter 2026 🛂 🆕 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | San Bruno, California | Python | Aug 13, 2026 |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) 🆕 | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Milpitas, CA | Python, C++, Linux, Git | Apr 14, 2026 |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 🆕 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) | Los Angeles, CA | MATLAB | Mar 30, 2026 |
@@ -309,7 +309,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Astera Labs ✓ | AMS Digital Design Engineer Intern 🆕 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005) | San Jose, CA | Python, Verilog | Oct 13, 2026 |
 | Astera Labs ✓ | AMS Design Verification Engineer Intern 🆕 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005) | San Jose, CA | Python, C++, Verilog | Oct 13, 2026 |
 | Fortive | Electrical Engineering Intern 🆕 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10876) | Irvine, CA, United States | No skills listed | Oct 13, 2026 |
-| KLA ✓ | Product Development Intern - Electron Beam Instrument​ation 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2) | Ann Arbor, MI | Python, C++, MATLAB | Oct 13, 2026 |
+| KLA ✓ | Product Development Intern - Electron Beam Instrument​ation 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-3) | Ann Arbor, MI | Python, C++, MATLAB | Oct 13, 2026 |
 | ONEOK | Instrument​ation and Electrical Technician Intern 🆕 | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Medford-OK/Instrumentation-and-Electrical-Technician-Intern_R8426-1) | Medford, OK | No skills listed | Oct 13, 2026 |
 | ONEOK | Instrument​ation and Electrical Technician Intern 🆕 | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Watford-City-ND/Instrumentation-and-Electrical-Technician-Intern_R8357-1) | Watford City, ND | No skills listed | Oct 13, 2026 |
 | Bose ✓ | Embedded Audio ML Engineer Co-op | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719) | US, MA - Framingham | Python, C++, PyTorch, TensorFlow | Oct 13, 2026 |
@@ -407,7 +407,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,569 of 5,108 registered boards returned successfully across 14 ATS platforms (94% of boards attempted, 89% of the full registry) · completed in 1125.1s · 584 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,579 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 975.8s · 630 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
