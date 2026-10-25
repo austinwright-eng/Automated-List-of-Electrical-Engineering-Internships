@@ -8,7 +8,7 @@
 
 ### 380 open roles (281 listed below) · 332 new this week
 
-4,811 employers tracked · data as of Oct 25, 2026 at 20:47 UTC
+4,811 employers tracked · data as of Oct 25, 2026 at 21:05 UTC
 
 _221 have a cycle the employer stated · 159 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -91,7 +91,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 🆕 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Headquarters | No skills listed | Oct 23, 2026 |
-| WSP | Electrical Engineering (Substation) Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97890) | NJ +4 more | No skills listed | Oct 23, 2026 |
+| WSP | Electrical Engineering (Substation) Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97890) | NJ +4 more | No skills listed | Oct 23, 2026 |
 | Space Dynamics Laboratory | CVS: FPGA Electrical Engineer Intern 🇺🇸 | [Apply](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) | North Logan, UT | No skills listed | Oct 22, 2026 |
 | S&C Electric Company ✓ | Electronics Engineering (TBI) Intern | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) | Chicago, IL, United States | MATLAB | Oct 22, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
@@ -267,7 +267,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
-| Texas Instruments ✓ | Digital Design Verification Engineering Intern 🛂 🆕 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016380) | Santa Clara, CA, United States | No skills listed | Oct 23, 2026 |
+| Texas Instruments ✓ | Digital Design Verification Engineering Intern 🛂 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016380) | Santa Clara, CA, United States | No skills listed | Oct 23, 2026 |
 | General Dynamics Mission Systems | Intern Engineer - (Systems, Software, Electrical, Mechanical, Manufactur​ing, Other) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75636/intern-engineer---%28systems%2c-software%2c-electrical%2c-mechanical%2c-manufacturing%2c-other%29/job?in_iframe=1) | Varies, UNAVAILABLE, US | No skills listed | Oct 22, 2026 |
 | General Dynamics Mission Systems | Hardware/Electrical Intern Engineer 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75776/hardware-electrical-intern-engineer/job?in_iframe=1) | Scottsdale, AZ, US | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Designer Intern - New Albany, OH | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Electrical-Designer-Intern---New-Albany--OH_R19380-1) | New Albany, OH | No skills listed | Oct 22, 2026 |
@@ -407,7 +407,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,666 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1041.2s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,694 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1006.2s · 626 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
