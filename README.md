@@ -8,7 +8,7 @@
 
 ### 377 open roles (278 listed below) · 329 new this week
 
-4,811 employers tracked · data as of Oct 26, 2026 at 09:47 UTC
+4,811 employers tracked · data as of Oct 26, 2026 at 10:18 UTC
 
 _221 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -346,8 +346,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Base Power | Hardware Reliability & Test Engineering Intern | [Apply](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406) | Austin, TX | Python | Sep 30, 2026 |
 | Arcadis | Electrical Engineering Intern/ Co-op | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44682) | Clifton Park +5 more | No skills listed | Sep 30, 2026 |
 | CAE | Electrical Engineering Co-Op 🇺🇸 _(2 openings)_ | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Electrical-Engineering-Co-Op_123813) [#2](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Electrical-Engineering-Co-Op_123814-1) | Arlington, TX | No skills listed | Sep 30, 2026 |
-| KLA ✓ | Mechatronics Engineering Internship | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518) | Milpitas, CA | MATLAB | Sep 30, 2026 |
-| KLA ✓ | Mechatronics/Systems Engineering Internship | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532) | Milpitas, CA | No skills listed | Sep 30, 2026 |
+| KLA ✓ | Mechatronics Engineering Internship | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1) | Milpitas, CA | MATLAB | Sep 30, 2026 |
+| KLA ✓ | Mechatronics/Systems Engineering Internship | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1) | Milpitas, CA | No skills listed | Sep 30, 2026 |
 | Leidos ✓ | Embedded Design Engineering Intern – Firmware 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574) | Huntsville, AL | C++, Rust, Linux, Verilog | Sep 30, 2026 |
 | Bracco | Firmware Engineering Co-op | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Pleasanton-California-94566/Firmware-Engineering-Co-op_JR100319) | USA, Pleasanton, California, 94566 | Python, C++ | Sep 30, 2026 |
 | ABB ✓ | Electrical Engineering Co-Op: Variable Speed and Specialty Motors 🛂 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Electrical-Engineering-Co-Op--Variable-Speed-and-Specialty-Motors_JR00048181) | Greenville +2 more | No skills listed | Sep 29, 2026 |
@@ -404,7 +404,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,587 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1034.4s · 574 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,698 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1112.4s · 631 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
