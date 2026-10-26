@@ -8,7 +8,7 @@
 
 ### 379 open roles (280 listed below) · 331 new this week
 
-4,811 employers tracked · data as of Oct 26, 2026 at 14:18 UTC
+4,811 employers tracked · data as of Oct 26, 2026 at 14:51 UTC
 
 _221 have a cycle the employer stated · 158 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -267,6 +267,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Leidos ✓ | Electrical Design Engineering Intern 🇺🇸 🆕 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | No skills listed | Oct 26, 2026 |
 | First Quality | Controls Engineering Intern 🆕 | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R12306) | US PA McElhattan | No skills listed | Oct 26, 2026 |
 | KION Group | Controls Engineer - Co-Op 🆕 | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineer---Co-Op_JR-0089161-1) | Grand Rapids, MI, United States | No skills listed | Oct 26, 2026 |
 | Texas Instruments ✓ | Digital Design Verification Engineering Intern 🛂 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016380) | Santa Clara, CA, United States | No skills listed | Oct 23, 2026 |
@@ -304,7 +305,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bosch ✓ | AI Research Intern: Wireless Foundation Models | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) | Pittsburgh, PA, United States | Python, PyTorch | Oct 19, 2026 |
 | Richardson | Electrical Maintenance Intern | [Apply](https://richardson.wd3.myworkdayjobs.com/richardson_our_careers/job/Carrington-ND-USA/Electrical-Maintenance-Intern_R17590) | Carrington, ND, USA | No skills listed | Oct 16, 2026 |
 | Rockwell Automation ✓ | Intern, Firmware Engineering 🛂 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922-1) | Milwaukee, Wisconsin, United States | Python, C++ | Oct 16, 2026 |
-| Autostore | Electrical Engineering Coop | [Apply](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695) | Atlanta, GA, USA | No skills listed | Oct 15, 2026 |
 | Avav | Electrical Engineer Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Electrical-Engineer-Intern_9103) | Pottstown, PA | Python, C++, C#, Git | Oct 15, 2026 |
 | Draper | Integrated Circuits Intern 🇺🇸 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036) | Cambridge, MA | Python, MATLAB, Verilog | Oct 15, 2026 |
 | Nordson | Electrical Engineering Intern | [Apply](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355) | USA - South Carolina - Clinton | C++ | Oct 14, 2026 |
@@ -406,7 +406,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,661 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1095.0s · 624 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,618 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1223.6s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
