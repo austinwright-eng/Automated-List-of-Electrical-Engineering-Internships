@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 384 open roles (279 listed below) · 335 new this week
+### 385 open roles (280 listed below) · 336 new this week
 
-4,811 employers tracked · data as of Oct 26, 2026 at 21:19 UTC
+4,811 employers tracked · data as of Oct 26, 2026 at 21:45 UTC
 
-_221 have a cycle the employer stated · 163 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_222 have a cycle the employer stated · 163 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -86,10 +86,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (151 employer-stated)
+## Summer 2027  (152 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) 🆕 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) | Los Angeles, CA | No skills listed | Oct 26, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 🆕 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Electrical Engineer Co-Op (August - December 2027) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/74599/electrical-engineer-co-op-%28august---december-2027%29/job?in_iframe=1) | Mc​Leansville, NC, US | No skills listed | Oct 26, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98216) | Boise +8 more | No skills listed | Oct 26, 2026 |
@@ -408,7 +409,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,544 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 844.8s · 537 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,583 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 89% of the full registry) · completed in 927.7s · 559 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
