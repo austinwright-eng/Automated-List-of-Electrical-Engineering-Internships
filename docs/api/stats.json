@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T23:52:43Z",
- "fetched_at": "2026-10-25T23:52:43Z",
- "duration_seconds": 1042.2,
+ "generated_at": "2026-10-26T00:21:20Z",
+ "fetched_at": "2026-10-26T00:21:20Z",
+ "duration_seconds": 1252.5,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -19,49 +19,49 @@
   "jazzhr": 1,
   "icims": 1
  },
- "quarantined": 386,
- "fetched_ok": 4721,
- "fetch_errors": 1,
+ "quarantined": 385,
+ "fetched_ok": 4690,
+ "fetch_errors": 33,
  "errors_by_source": {
-  "workday": 1
+  "workday": 33
  },
- "fetch_success_rate": 1.0,
- "fetch_success_rate_registry": 0.924,
- "snapshots_complete": 4081,
- "snapshots_partial": 640,
+ "fetch_success_rate": 0.993,
+ "fetch_success_rate_registry": 0.918,
+ "snapshots_complete": 4060,
+ "snapshots_partial": 630,
  "partial_by_reason": {
-  "result-cap": 634,
-  "malformed-response": 6
+  "result-cap": 626,
+  "malformed-response": 4
  },
- "degraded_fetches": 6,
- "roles_matched": 360,
- "dropped_no_year_in_title": 261,
- "dropped_offcycle_by_text": 117,
- "roles_cycle_inferred": 159,
+ "degraded_fetches": 4,
+ "roles_matched": 357,
+ "dropped_no_year_in_title": 262,
+ "dropped_offcycle_by_text": 115,
+ "roles_cycle_inferred": 156,
  "roles_by_source": {
   "amazon": 8,
   "ashby": 11,
   "breezy": 3,
-  "greenhouse": 61,
+  "greenhouse": 59,
   "icims": 20,
   "jazzhr": 2,
   "lever": 20,
   "oracle": 60,
   "rippling": 1,
-  "smartrecruiters": 13,
+  "smartrecruiters": 12,
   "workday": 181
  },
  "roles_by_cycle": {
   "Summer 2027": 210,
   "Fall 2026": 11,
-  "Not stated": 159
+  "Not stated": 156
  },
  "roles_by_region": {
-  "US": 380
+  "US": 377
  },
  "sponsorship_counts": {
-  "unknown": 272,
-  "citizens-only": 69,
+  "unknown": 270,
+  "citizens-only": 68,
   "no-sponsorship": 38,
   "offers": 1
  },
@@ -70,7 +70,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 380,
+ "open_total": 377,
  "detection_latency": {
   "median_minutes": 2285.9,
   "p95_minutes": 6605.9,
@@ -83,5 +83,5 @@
   "sample_size": 17
  },
  "role_scope": "ee",
- "rendered_at": "2026-10-25T23:52:44Z"
+ "rendered_at": "2026-10-26T00:21:21Z"
 }
