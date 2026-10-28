@@ -8,7 +8,7 @@
 
 ### 404 open roles (294 listed below) · 351 new this week
 
-4,811 employers tracked · data as of Oct 28, 2026 at 20:44 UTC
+4,811 employers tracked · data as of Oct 28, 2026 at 21:17 UTC
 
 _240 have a cycle the employer stated · 164 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -106,7 +106,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | HP IQ | Engineering Intern, Wireless Automation and Test (Summer 2027) 🆕 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6114741004) | San Francisco, CA | Python, Bash | Oct 26, 2026 |
 | HP IQ | Electrical Engineering Intern, Hardware (Summer 2027) 🆕 | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | San Francisco, CA | Python | Oct 26, 2026 |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) 🆕 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) | Los Angeles, CA | No skills listed | Oct 26, 2026 |
-| IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 🆕 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
+| IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Electrical Engineer Co-Op (August - December 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/74599/electrical-engineer-co-op-%28august---december-2027%29/job?in_iframe=1) | Mc​Leansville, NC, US | No skills listed | Oct 26, 2026 |
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Headquarters | No skills listed | Oct 23, 2026 |
 | S&C Electric Company ✓ | Electronics Engineering (TBI) Intern | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) | Chicago, IL, United States | MATLAB | Oct 22, 2026 |
@@ -286,7 +286,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Global Infrastruc​ture | Intern, Electrical Designer 🆕 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Electrical-Designer_6599) | CA / ON / Toronto - 380 Wellington Stre… | No skills listed | Oct 26, 2026 |
 | Parallel Systems | Software Engineering Intern (Embedded, Backend, Fullstack) 🆕 | [Apply](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Los Angeles, CA | Python, C++, Rust, TypeScript | Oct 26, 2026 |
 | Cisco | Hardware Engineer II (Co-op) - United States 🆕 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
-| Lila Sciences | Co-op, Mechatronics Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | Cambridge, MA USA | No skills listed | Oct 26, 2026 |
+| Lila Sciences | Co-op, Mechatronics Engineer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | Cambridge, MA USA | No skills listed | Oct 26, 2026 |
 | ONEOK | Instrument​ation and Electrical Technician Intern | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Calumet-OK/Instrumentation-and-Electrical-Technician-Intern_R8363-1) | Calumet, OK | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Software Test Engineering Intern - Space and Embedded Crypto 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job?in_iframe=1) | Scottsdale, AZ, US | Python | Oct 26, 2026 |
 | Texas Instruments ✓ | Analog Design Eng Intern | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018682) | Santa Clara, CA, United States | No skills listed | Oct 26, 2026 |
@@ -424,7 +424,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,639 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 90% of the full registry) · completed in 831.3s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,631 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 974.9s · 596 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
