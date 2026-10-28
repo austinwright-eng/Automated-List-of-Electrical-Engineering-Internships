@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 397 open roles (288 listed below) · 346 new this week
+### 395 open roles (286 listed below) · 344 new this week
 
-4,811 employers tracked · data as of Oct 28, 2026 at 06:57 UTC
+4,811 employers tracked · data as of Oct 28, 2026 at 07:17 UTC
 
-_231 have a cycle the employer stated · 166 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_231 have a cycle the employer stated · 164 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -265,7 +265,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) | Westboro, Massachuse​tts, USA | No skills listed | Dec 17, 2025 |
 | Nightwing Intelligence Solutions | RF Engineering Intern - 2026 | [Apply](https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095) | Sterling, VA | No skills listed | Dec 12, 2025 |
 
-## Recently posted — cycle not stated  (112 roles)
+## Recently posted — cycle not stated  (111 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -352,6 +352,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | BorgWarner | Electrical Design Engineer Intern 🛂 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965) | Kokomo Technical Center - Indiana - USA | No skills listed | Oct 06, 2026 |
 | Lumentum | Internship - Semiconduc​tor Fab Process Engineer _(2 openings)_ | [Apply](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462) [#2](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261463) | USA - NC- Greensboro | No skills listed | Oct 06, 2026 |
 | SoloPulse | RF Hardware Engineer Intern 🇺🇸 | [Apply](https://jobs.lever.co/solopulseco/28672f78-6d59-4674-8e35-ee784d5c34be) | Peachtree Corners, GA | Python, Linux | Oct 05, 2026 |
+| BorgWarner | Electronics Hardware Design Intern 🛂 | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941) | Kokomo Technical Center - Indiana - USA | No skills listed | Oct 05, 2026 |
 | Allegion | Summer Intern - Hardware Engineering | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1) | Indianapol​is, IN - Hague Rd | Python | Oct 02, 2026 |
 | The Toro Company | Mechatronics Engineering Co-Op | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153) | Bloomington, MN | Python | Oct 02, 2026 |
 | BGE | AUSTIN - Electrical Engineer-Power Systems, Internship | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5441464008) | 101 W Louis Henna Blvd +3 more | No skills listed | Oct 01, 2026 |
@@ -367,8 +368,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Cisco | Firmware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard, Massachuse​tts, US | Python, C++, Linux, Git | Sep 29, 2026 |
 | Olsson | Electrical Engineering Internship - Facilities (Healthcare) | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5423876008) | Omaha, NE | No skills listed | Sep 28, 2026 |
 | Zachry Group | Intern - Electrical | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15848) | Charlotte +5 more | No skills listed | Sep 28, 2026 |
-| BorgWarner | Electronics Hardware Design Intern 🛂 _(2 openings)_ | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3787) [#2](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941) | Kokomo Technical Center - Indiana - USA | No skills listed | Sep 28, 2026 |
-| Oakland County, Michigan | College Intern - Circuit Court Casework Services | [Apply](https://oakgov.wd5.myworkdayjobs.com/careers/job/Pontiac-Michigan-United-States/College-Intern---Circuit-Court-Casework-Services_JR-0000775) | Pontiac, Michigan, United States | No skills listed | Sep 28, 2026 |
 | The Toro Company | Electrical/software Co-Op - BOSS Snowplow | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089) | Iron Mountain, MI | No skills listed | Sep 28, 2026 |
 | Knobelsdorff Enterprises | PLC/SCADA Engineer Intern | [Apply](https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000151850659) | Eagan, MN, United States | No skills listed | Sep 25, 2026 |
 | Arista Networks ✓ | Hardware Intern | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973) | Nashua, NH, United States | Verilog | Sep 24, 2026 |
@@ -420,7 +419,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,675 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 977.5s · 612 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,677 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 1019.5s · 615 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
