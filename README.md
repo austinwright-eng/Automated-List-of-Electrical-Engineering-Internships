@@ -8,7 +8,7 @@
 
 ### 412 open roles (297 listed below) · 360 new this week
 
-4,811 employers tracked · data as of Oct 29, 2026 at 21:47 UTC
+4,811 employers tracked · data as of Oct 29, 2026 at 22:06 UTC
 
 _245 have a cycle the employer stated · 167 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -113,7 +113,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) | Los Angeles, CA | No skills listed | Oct 26, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Electrical Engineer Co-Op (August - December 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/74599/electrical-engineer-co-op-%28august---december-2027%29/job?in_iframe=1) | Mc​Leansville, NC, US | No skills listed | Oct 26, 2026 |
-| Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Headquarters | No skills listed | Oct 23, 2026 |
+| Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Santa Clara, CA | No skills listed | Oct 23, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Engineering Intern- Summer 2027 🛂 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Electrical-Engineering-Intern--Summer-2027_R20503) | Columbus, OH | No skills listed | Oct 22, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Madison, WI 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Electrical-Engineering-Intern---Madison--WI_R-16460) | Madison, WI | No skills listed | Oct 21, 2026 |
@@ -428,7 +428,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,597 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1005.1s · 574 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,652 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 1086.4s · 599 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
