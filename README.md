@@ -8,7 +8,7 @@
 
 ### 407 open roles (294 listed below) · 354 new this week
 
-4,811 employers tracked · data as of Oct 29, 2026 at 03:08 UTC
+4,811 employers tracked · data as of Oct 29, 2026 at 03:24 UTC
 
 _243 have a cycle the employer stated · 164 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -262,7 +262,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Itron ✓ | Intern - Electrical Engineer (Fall 2026/Winter 2027) | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-North-Carolina-Raleigh/Intern---Electrical-Engineer_JR102930-1) | United States of America +2 more | Python, C++, C#, Rust | Oct 12, 2026 |
 | S&C Electric Company ✓ | Electrical Engineer Co-Op | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107353) | Chicago, IL, United States | Python, C++, MATLAB | Oct 07, 2026 |
 | Moog | Intern, Embedded Design Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | No skills listed | Sep 11, 2026 |
-| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158) | Burlington, MA | No skills listed | Aug 25, 2026 |
+| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1) | Burlington, MA | No skills listed | Aug 25, 2026 |
 | Mill | Electrical Engineering Intern, Fall/Winter 2026 🛂 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | San Bruno, California | Python | Aug 13, 2026 |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Milpitas, CA | Python, C++, Linux, Git | Apr 14, 2026 |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) | Los Angeles, CA | MATLAB | Mar 30, 2026 |
@@ -283,7 +283,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Samsung | Intern, RTL Power Macromodel​ing Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | San Jose, California, United States | Python, C++, Verilog | Oct 27, 2026 |
 | Marvell | Design Verification- Intern 🆕 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/IL---Petah-Tikva/Design-Verification--Intern_2604486) | IL - Petah Tikva | Python, C++, Verilog | Oct 27, 2026 |
 | Mayo Clinic ✓ | Graduate Engineering Intern - Electronics 🆕 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) | Rochester, MN, United States | No skills listed | Oct 27, 2026 |
-| Avav | Electrical Engineering Intern 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Electrical-Engineering-Intern_9185) | Sunrise, FL | Python, C++, C#, Git | Oct 26, 2026 |
+| Avav | Electrical Engineering Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Electrical-Engineering-Intern_9185) | Sunrise, FL | Python, C++, C#, Git | Oct 26, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Electrical-Designer_6599) | CA / ON / Toronto - 380 Wellington Stre… | No skills listed | Oct 26, 2026 |
 | Parallel Systems | Software Engineering Intern (Embedded, Backend, Fullstack) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Los Angeles, CA | Python, C++, Rust, TypeScript | Oct 26, 2026 |
 | Cisco | Hardware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
@@ -424,7 +424,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,558 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1071.3s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,653 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 911.1s · 598 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
