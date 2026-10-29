@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 405 open roles (292 listed below) · 353 new this week
+### 406 open roles (293 listed below) · 354 new this week
 
-4,811 employers tracked · data as of Oct 29, 2026 at 17:08 UTC
+4,811 employers tracked · data as of Oct 29, 2026 at 17:27 UTC
 
-_243 have a cycle the employer stated · 162 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_244 have a cycle the employer stated · 162 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -86,10 +86,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (163 employer-stated)
+## Summer 2027  (164 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Johnson & Johnson | Electrical Engineering Intern - Robotics R&D 🛂 🆕 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Santa Clara +2 more | Python, MATLAB | Oct 29, 2026 |
 | The Aerospace Corporation | 2027 Power Systems Engineering Graduate Intern 🇺🇸 🆕 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527) | El Segundo, CA | No skills listed | Oct 28, 2026 |
 | The Aerospace Corporation | 2027 Power Systems Engineering Undergradu​ate Intern 🇺🇸 🆕 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530) | El Segundo, CA | No skills listed | Oct 28, 2026 |
 | The Aerospace Corporation | 2027 Radio Frequency (RF) Spectrum Engineering Undergrad Intern 🇺🇸 🆕 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050) | El Segundo, CA | Python, C++, MATLAB | Oct 28, 2026 |
@@ -100,7 +101,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Emerson Electric | Electrical Engineering Co-op (Summer 2027) 🆕 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) | Elyria +5 more | Python, C++ | Oct 28, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98370) | Tempe, AZ, United States | No skills listed | Oct 27, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Engineering Designer 🆕 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / KS / Overland Park - 10561 Barkley… | No skills listed | Oct 27, 2026 |
-| Global​Foundries | Silicon Photonics Process Integration Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) | USA - New York - Malta | Python, MATLAB | Oct 27, 2026 |
+| Global​Foundries | Silicon Photonics Process Integration Intern (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) | USA - New York - Malta | Python, MATLAB | Oct 27, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98234) | Minneapolis, MN, United States | No skills listed | Oct 27, 2026 |
 | Global Infrastruc​ture | Electrical Engineering Intern/Co-Op | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--Kansas-City---1600-Genessee-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / MO / Kansas City - 1600 Genessee S… | No skills listed | Oct 27, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern--Electrical-Designer_6622) | US / MO / St. Louis - 6 South Old Orcha… | No skills listed | Oct 27, 2026 |
@@ -422,7 +423,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,661 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 875.8s · 618 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,654 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1102.2s · 619 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
