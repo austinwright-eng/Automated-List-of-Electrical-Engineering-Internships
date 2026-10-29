@@ -8,7 +8,7 @@
 
 ### 412 open roles (297 listed below) · 360 new this week
 
-4,811 employers tracked · data as of Oct 29, 2026 at 22:06 UTC
+4,811 employers tracked · data as of Oct 29, 2026 at 22:24 UTC
 
 _245 have a cycle the employer stated · 167 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -101,7 +101,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | WSP | Electrical Engineering (Substation) Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98455) | Richmond, VA, United States | No skills listed | Oct 28, 2026 |
 | Draper | Analog ASIC Design Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) | Cambridge, MA | Python, MATLAB, Verilog | Oct 28, 2026 |
 | Emerson Electric | Electrical Engineering Co-op (Summer 2027) 🆕 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) | Elyria +5 more | Python, C++ | Oct 28, 2026 |
-| WSP | Electrical Engineering Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98370) | Tempe, AZ, United States | No skills listed | Oct 27, 2026 |
+| WSP | Electrical Engineering Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98370) | Tempe, AZ, United States | No skills listed | Oct 27, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / KS / Overland Park - 10561 Barkley… | No skills listed | Oct 27, 2026 |
 | Global​Foundries | Silicon Photonics Process Integration Intern (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) | USA - New York - Malta | Python, MATLAB | Oct 27, 2026 |
 | Global Infrastruc​ture | Electrical Engineering Intern/Co-Op | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--Kansas-City---1600-Genessee-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / MO / Kansas City - 1600 Genessee S… | No skills listed | Oct 27, 2026 |
@@ -428,7 +428,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,652 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 1086.4s · 599 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,588 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1017.8s · 576 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
