@@ -8,7 +8,7 @@
 
 ### 407 open roles (293 listed below) · 88 new this week
 
-4,811 employers tracked · data as of Oct 30, 2026 at 12:48 UTC
+4,811 employers tracked · data as of Oct 30, 2026 at 13:20 UTC
 
 _246 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -253,7 +253,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Kairos Power | Electrical Engineering Internship - Summer 2027 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123657004) | Alameda +4 more | No skills listed | Jul 23, 2026 |
 | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Python, Java, C++, JavaScript | Jul 21, 2026 |
 | Anduril | 2027 Electrical Engineer Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta +26 more | Python, C++, Rust, Computer Vision | Jun 11, 2026 |
-| DLB Associates 🆁 | Construction Coordinator Intern (Electrical) - Summer 2027 🆕 | [Apply](https://ats.rippling.com/dlb-associates/jobs/8d5680a4-3b01-4e44-804b-8ce78dbdd317) | Remote (United States) | No skills listed | — |
+| DLB Associates 🆁 | Construction Coordinator Intern (Electrical) - Summer 2027 | [Apply](https://ats.rippling.com/dlb-associates/jobs/8d5680a4-3b01-4e44-804b-8ce78dbdd317) | Remote (United States) | No skills listed | — |
 | Torus | Power Electrical Engineer Intern (Summer 2027) | [Apply](https://ats.rippling.com/torus/jobs/ee8aa54d-a03b-4ca5-a0c5-d301f7cd67d8) | Salt Lake City, UT | No skills listed | — |
 
 ## Fall 2026  (11 employer-stated)
@@ -264,7 +264,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Itron ✓ | Intern - Electrical Engineer (Fall 2026/Winter 2027) | [Apply](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-North-Carolina-Raleigh/Intern---Electrical-Engineer_JR102930-1) | United States of America +2 more | Python, C++, C#, Rust | Oct 12, 2026 |
 | S&C Electric Company ✓ | Electrical Engineer Co-Op | [Apply](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107353) | Chicago, IL, United States | Python, C++, MATLAB | Oct 07, 2026 |
 | Moog | Intern, Embedded Design Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | No skills listed | Sep 11, 2026 |
-| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1) | Burlington, MA | No skills listed | Aug 25, 2026 |
+| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2) | Burlington, MA | No skills listed | Aug 25, 2026 |
 | Mill | Electrical Engineering Intern, Fall/Winter 2026 🛂 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | San Bruno, California | Python | Aug 13, 2026 |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Milpitas, CA | Python, C++, Linux, Git | Apr 14, 2026 |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) | Los Angeles, CA | MATLAB | Mar 30, 2026 |
@@ -423,7 +423,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,593 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 1074.5s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,643 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1199.4s · 619 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
