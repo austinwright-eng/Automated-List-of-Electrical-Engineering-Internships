@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 407 open roles (292 listed below) · 69 new this week
+### 406 open roles (292 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Oct 30, 2026 at 20:18 UTC
+4,811 employers tracked · data as of Oct 30, 2026 at 20:42 UTC
 
-_246 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_245 have a cycle the employer stated · 161 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -169,7 +169,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Arc | Electrical Integration Engineering Intern | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442838008) | Torrance, CA | MATLAB | Oct 05, 2026 |
 | Arc | Vehicle Controls Engineering Intern | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008) | Torrance, CA | MATLAB | Oct 05, 2026 |
 | Arc | Electrical Engineering Intern - Powertrain | [Apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008) | Torrance, CA | Python | Oct 05, 2026 |
-| Rocket Lab | RF Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) | Long Beach, CA | Python, MATLAB | Oct 05, 2026 |
 | Hitachi Energy | Controls Engineering Internship/Co-op | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Auburn-Hills-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0143858) | Auburn Hills, Michigan, United States | No skills listed | Oct 05, 2026 |
 | Hitachi Energy | Controls Engineering Internship/Co-op _(2 openings)_ | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0144971) [#2](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Controls-Engineering-Internship-Co-op_R0144972) | Holland, Michigan, United States | No skills listed | Oct 05, 2026 |
 | Marvell | Hardware Engineer Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975) | Santa Clara, CA | Linux | Oct 05, 2026 |
@@ -211,6 +210,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Bedrock Robotics | 2027 Internship Sensor Hardware Test Engineer | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51) | San Francisco, CA | Python, Git | Sep 10, 2026 |
 | Bedrock Robotics | 2027 Internship Hardware Engineer | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a) | San Francisco, CA | Python, C++, Rust, Git | Sep 10, 2026 |
 | Rocket Lab | Test Engineering Intern - Avionics Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) | Long Beach, CA | Python, JavaScript | Sep 10, 2026 |
+| Rocket Lab | Electrical Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) | Long Beach, CA | Python, C++, Verilog | Sep 10, 2026 |
 | Avav | Summer 2027 Embedded Software Engineering Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) | Simi Valley, CA | Python, C++, Linux | Sep 10, 2026 |
 | Saronic | Electrical Engineer Intern (Summer 2027) 🇺🇸 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a) | Austin, TX | Python, C++, Linux | Sep 09, 2026 |
 | Pacific Fusion | Summer 2027 Internship - Electrical Engineering | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009) | San Leandro +3 more | Python, MATLAB | Sep 09, 2026 |
@@ -387,12 +387,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | PennState University | Embedded Systems and Hardware Co-Op 🇺🇸 | [Apply](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2) | Warminster, PA | Python, C++, C#, MATLAB | Sep 15, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 12 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 13 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Rocket Lab | RF Engineering Intern Summer 2027 | Summer 2027 | 2026-10-30 | gone from feed |
 | S&C Electric Company | Power Systems Control Intern | Summer 2027 | 2026-10-30 | gone from feed |
 | S&C Electric Company | Electronics Engineering (TBI) Intern | Summer 2027 | 2026-10-29 | gone from feed |
 | General Matter | Summer 2027 Internship - Electrical Engineering | Summer 2027 | 2026-10-27 | gone from feed |
@@ -423,7 +424,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,589 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1099.3s · 598 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,593 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 1127.5s · 590 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
