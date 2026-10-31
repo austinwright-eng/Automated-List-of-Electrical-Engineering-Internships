@@ -979,11 +979,6 @@
     "last_attempt_at": "2026-10-31T09:20:03Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mila-2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
-  "workable:mistywest": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "workable:mlabs": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-10-31T15:48:21Z",
@@ -1010,8 +1005,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mustard-systems/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:navionsl": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T06:07:13Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-10-31T18:47:00Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/navionsl/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:new-flyer": {
@@ -1539,16 +1534,6 @@
     "last_attempt_at": "2026-10-31T18:17:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://axalta.wd1.myworkdayjobs.com/wday/cxs/axalta/axalta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
-  "workday:barr:barrcareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://barr.wd1.myworkdayjobs.com/wday/cxs/barr/barrcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
-  },
-  "workday:becu:external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://becu.wd1.myworkdayjobs.com/wday/cxs/becu/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
   "workday:bilh:external": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-10-31T10:19:57Z",
@@ -1569,20 +1554,10 @@
     "last_attempt_at": "2026-10-31T00:33:54Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://boarshead.wd1.myworkdayjobs.com/wday/cxs/boarshead/BHC/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
-  "workday:bostondynamics:boston_dynamics": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-10-31T06:07:13Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs'\nFor more information check: https://developer."
-  },
   "workday:cambiahealth:external": {
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cambiahealth.wd1.myworkdayjobs.com/wday/cxs/cambiahealth/External/jobs'\nFor more information check: https://developer.mozilla."
-  },
-  "workday:carters:carterscareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "malformed-response"
   },
   "workday:cbrlgroup:crackerbarrelexternal": {
     "consecutive_failures": 33,
@@ -1680,8 +1655,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://gapinc.wd1.myworkdayjobs.com/wday/cxs/gapinc/gapconfidential/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workday:gensler:genslercareers": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-10-30T18:16:28Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-10-31T18:47:00Z",
     "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://gensler.wd1.myworkdayjobs.com/wday/cxs/gensler/genslercareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:ghr:us-emplsv": {
@@ -1695,14 +1670,14 @@
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workday:hkex:hkexcareerpage": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-10-31T18:47:00Z",
     "last_error": "malformed-response"
   },
   "workday:humana:humana_external_career_site": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-31T18:47:00Z",
+    "last_error": "malformed-response"
   },
   "workday:idexx:idexx": {
     "consecutive_failures": 32,
@@ -1928,11 +1903,6 @@
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://vca.wd1.myworkdayjobs.com/wday/cxs/vca/antechcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workday:vfc:vfc_careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T18:17:13Z",
-    "last_error": "malformed-response"
   },
   "workday:vhr-epri:epricareers": {
     "consecutive_failures": 33,
