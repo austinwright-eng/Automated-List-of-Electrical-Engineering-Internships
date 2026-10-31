@@ -979,6 +979,11 @@
     "last_attempt_at": "2026-10-31T09:20:03Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mila-2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
+  "workable:mistywest": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-31T11:48:34Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "workable:mlabs": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-31T09:20:03Z",
@@ -1559,15 +1564,10 @@
     "last_attempt_at": "2026-10-31T05:49:28Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://axalta.wd1.myworkdayjobs.com/wday/cxs/axalta/axalta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
-  "workday:baird:careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T11:34:24Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://baird.wd1.myworkdayjobs.com/wday/cxs/baird/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
-  "workday:bcbsa:careers": {
+  "workday:bbh:bbh": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T11:34:24Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bcbsa.wd1.myworkdayjobs.com/wday/cxs/bcbsa/careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+    "last_attempt_at": "2026-10-31T11:48:34Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workday:bdx:external_career_site_usa": {
     "consecutive_failures": 4,
@@ -1874,11 +1874,6 @@
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://ncino.wd5.myworkdayjobs.com/wday/cxs/ncino/nCinoCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
-  "workday:nebraskablue:bcbsne": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T11:34:24Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://nebraskablue.wd1.myworkdayjobs.com/wday/cxs/nebraskablue/BCBSNE/jobs'\nFor more information check: https://developer.mozilla.org/e"
-  },
   "workday:netflix:netflix": {
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
@@ -1999,11 +1994,6 @@
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://scripps.wd5.myworkdayjobs.com/wday/cxs/scripps/Scripps_Careers/jobs'\nFor more information check: https://developer.mozilla.org"
   },
-  "workday:skechers:one-career-site": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T11:34:24Z",
-    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://skechers.wd5.myworkdayjobs.com/wday/cxs/skechers/One-career-site/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
-  },
   "workday:snapchat:snap": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-10-31T09:20:03Z",
@@ -2028,6 +2018,11 @@
     "consecutive_failures": 35,
     "last_attempt_at": "2026-10-31T00:33:54Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://takeda.wd3.myworkdayjobs.com/wday/cxs/takeda/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
+  "workday:tti:tti_pe": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-31T11:48:34Z",
+    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:usicinc:usiccareers": {
     "consecutive_failures": 16,
