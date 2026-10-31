@@ -1179,11 +1179,6 @@
     "last_attempt_at": "2026-10-31T19:46:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rovex-technologies-corporation/jobs'\nFor more information check: https://developer.mozilla.org"
   },
-  "workable:rystad-energy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T21:46:54Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rystad-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
-  },
   "workable:saalex": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-10-31T21:19:49Z",
@@ -1514,11 +1509,6 @@
     "last_attempt_at": "2026-10-31T02:48:00Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/ac/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   },
-  "workday:att:attgeneral": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-31T21:46:54Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
   "workday:avav:avav": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-10-31T09:20:03Z",
@@ -1744,11 +1734,6 @@
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://montrose.wd1.myworkdayjobs.com/wday/cxs/montrose/meg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workday:musc:musc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-31T21:46:54Z",
-    "last_error": "malformed-response"
-  },
   "workday:ncino:ncinocareers": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-10-30T11:19:15Z",
@@ -1843,6 +1828,16 @@
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://procasemanagement.wd1.myworkdayjobs.com/wday/cxs/procasemanagement/PCM/jobs'\nFor more information check: https://developer.moz"
+  },
+  "workday:psu:psu_academic": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-31T22:18:05Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://psu.wd1.myworkdayjobs.com/wday/cxs/psu/PSU_Academic/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "workday:psu:psu_staff": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-31T22:18:05Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://psu.wd1.myworkdayjobs.com/wday/cxs/psu/PSU_Staff/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workday:redbulltechnology:rb_racing": {
     "consecutive_failures": 17,
