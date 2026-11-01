@@ -1494,11 +1494,6 @@
     "last_attempt_at": "2026-10-31T20:41:47Z",
     "last_error": "malformed-response"
   },
-  "workday:acehardware:external": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-01T16:48:08Z",
-    "last_error": "malformed-response"
-  },
   "workday:activision:blizzard_external_careers": {
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
@@ -1609,11 +1604,6 @@
     "last_attempt_at": "2026-11-01T11:48:44Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://caci.wd1.myworkdayjobs.com/wday/cxs/caci/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
-  "workday:calibercollision:caliber": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-01T16:48:08Z",
-    "last_error": "malformed-response"
-  },
   "workday:cambiahealth:external": {
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
@@ -1643,6 +1633,11 @@
     "consecutive_failures": 33,
     "last_attempt_at": "2026-10-30T11:19:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cff.wd1.myworkdayjobs.com/wday/cxs/cff/explore-career-opportunities/jobs'\nFor more information check: https://developer.mozill"
+  },
+  "workday:chartermfg:charter_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-01T17:15:15Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://chartermfg.wd5.myworkdayjobs.com/wday/cxs/chartermfg/Charter_Careers/jobs'\nFor more information check: https://developer.mozilla."
   },
   "workday:chop:chopexternalcareers": {
     "consecutive_failures": 33,
@@ -1813,11 +1808,6 @@
     "consecutive_failures": 15,
     "last_attempt_at": "2026-10-30T16:44:09Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://marshfieldclinichealthsystems.wd5.myworkdayjobs.com/wday/cxs/marshfieldclinichealthsystems/External/jobs'\nFor more information"
-  },
-  "workday:michaels:external": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-01T16:48:08Z",
-    "last_error": "malformed-response"
   },
   "workday:mii:universityrecruiting": {
     "consecutive_failures": 7,
