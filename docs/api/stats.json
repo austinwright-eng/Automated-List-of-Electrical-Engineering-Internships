@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T12:15:01Z",
- "fetched_at": "2026-11-02T12:15:01Z",
- "duration_seconds": 872.8,
+ "generated_at": "2026-11-02T12:46:45Z",
+ "fetched_at": "2026-11-02T12:46:45Z",
+ "duration_seconds": 976.7,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -20,30 +20,31 @@
   "icims": 1
  },
  "quarantined": 457,
- "fetched_ok": 4650,
- "fetch_errors": 1,
+ "fetched_ok": 4649,
+ "fetch_errors": 2,
  "errors_by_source": {
-  "workable": 1
+  "workday": 2
  },
  "fetch_success_rate": 1.0,
  "fetch_success_rate_registry": 0.91,
- "snapshots_complete": 4028,
- "snapshots_partial": 622,
+ "snapshots_complete": 4024,
+ "snapshots_partial": 625,
  "partial_by_reason": {
-  "result-cap": 599,
-  "malformed-response": 23
+  "result-cap": 596,
+  "malformed-response": 28,
+  "pagination-stalled": 1
  },
- "degraded_fetches": 23,
- "roles_matched": 347,
- "dropped_no_year_in_title": 277,
+ "degraded_fetches": 29,
+ "roles_matched": 348,
+ "dropped_no_year_in_title": 275,
  "dropped_offcycle_by_text": 105,
- "roles_cycle_inferred": 149,
+ "roles_cycle_inferred": 150,
  "roles_by_source": {
   "amazon": 8,
   "ashby": 11,
   "breezy": 1,
   "greenhouse": 61,
-  "icims": 18,
+  "icims": 19,
   "lever": 17,
   "oracle": 66,
   "rippling": 4,
@@ -53,27 +54,27 @@
  "roles_by_cycle": {
   "Summer 2027": 238,
   "Fall 2026": 10,
-  "Not stated": 149
+  "Not stated": 150
  },
  "roles_by_region": {
-  "US": 397
+  "US": 398
  },
  "sponsorship_counts": {
   "unknown": 285,
-  "citizens-only": 73,
+  "citizens-only": 74,
   "no-sponsorship": 37,
   "offers": 2
  },
  "posted_date_coverage": 0.99,
- "enriched_this_run": 52,
+ "enriched_this_run": 53,
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 397,
+ "new_this_run": 1,
+ "open_total": 398,
  "detection_latency": {
-  "median_minutes": 25.4,
+  "median_minutes": 25.5,
   "p95_minutes": 1611.6,
-  "sample_size": 15,
+  "sample_size": 16,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
@@ -82,5 +83,5 @@
   "sample_size": 40
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-02T12:15:02Z"
+ "rendered_at": "2026-11-02T12:46:45Z"
 }
