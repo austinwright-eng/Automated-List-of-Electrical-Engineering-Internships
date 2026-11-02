@@ -8,7 +8,7 @@
 
 ### 398 open roles (291 listed below) · 70 new this week
 
-4,811 employers tracked · data as of Nov 02, 2026 at 00:14 UTC
+4,811 employers tracked · data as of Nov 02, 2026 at 00:49 UTC
 
 _248 have a cycle the employer stated · 150 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -253,8 +253,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Kairos Power | Electrical Engineering Internship - Summer 2027 | [Apply](https://job-boards.greenhouse.io/kairospower/jobs/6123657004) | Alameda +4 more | No skills listed | Jul 23, 2026 |
 | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Python, Java, C++, JavaScript | Jul 21, 2026 |
 | Anduril | 2027 Electrical Engineer Intern | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta +26 more | Python, C++, Rust, Computer Vision | Jun 11, 2026 |
-| Omnis | Electrical Engineering Intern (Spring and Summer 2027) 🆕 | [Apply](https://ats.rippling.com/omnis-corporation/jobs/3834b774-a185-4106-a04a-969bd42af220) | Los Angeles, CA | No skills listed | — |
-| Omnis | Wireless Systems Intern, MAC and PHY (Spring and Summer 2027) 🆕 | [Apply](https://ats.rippling.com/omnis-corporation/jobs/c534b2ba-a409-4c26-bb92-704e48fccb63) | Venice, Los Angeles, CA | No skills listed | — |
+| Omnis | Electrical Engineering Intern (Spring and Summer 2027) | [Apply](https://ats.rippling.com/omnis-corporation/jobs/3834b774-a185-4106-a04a-969bd42af220) | Los Angeles, CA | No skills listed | — |
+| Omnis | Wireless Systems Intern, MAC and PHY (Spring and Summer 2027) | [Apply](https://ats.rippling.com/omnis-corporation/jobs/c534b2ba-a409-4c26-bb92-704e48fccb63) | Venice, Los Angeles, CA | No skills listed | — |
 | DLB Associates 🆁 | Construction Coordinator Intern (Electrical) - Summer 2027 | [Apply](https://ats.rippling.com/dlb-associates/jobs/8d5680a4-3b01-4e44-804b-8ce78dbdd317) | Remote (United States) | No skills listed | — |
 | Torus | Power Electrical Engineer Intern (Summer 2027) | [Apply](https://ats.rippling.com/torus/jobs/ee8aa54d-a03b-4ca5-a0c5-d301f7cd67d8) | Salt Lake City, UT | No skills listed | — |
 
@@ -424,7 +424,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,684 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 843.7s · 626 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,612 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1138.9s · 603 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
