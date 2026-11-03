@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 411 open roles (301 listed below) · 65 new this week
+### 414 open roles (301 listed below) · 68 new this week
 
-4,811 employers tracked · data as of Nov 03, 2026 at 06:12 UTC
+4,811 employers tracked · data as of Nov 03, 2026 at 06:46 UTC
 
-_256 have a cycle the employer stated · 155 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_259 have a cycle the employer stated · 155 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -90,6 +90,8 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Global​Foundries | PDK Design Engineering Intern, Silicon Photonics (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133) | USA - New York - Malta | No skills listed | Nov 02, 2026 |
+| Global​Foundries | Silicon Photonics Advanced Packaging Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136) | USA - New York - Malta | No skills listed | Nov 02, 2026 |
 | Applied Materials ✓ | 2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA) 🆕 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967) | Santa Clara,CA | No skills listed | Nov 02, 2026 |
 | Global​Foundries | Design Verification Engineer Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | USA - Texas - Richardson | Python, Verilog | Nov 02, 2026 |
 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 🆕 | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) | Dallas, Texas | C++, Git, Verilog | Nov 02, 2026 |
@@ -99,7 +101,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | RTX | Electrical Engineering Intern (Summer 2027)(Onsi​te) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineering-Intern--Summer-2027--Onsite-_01885147) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | No skills listed | Nov 02, 2026 |
 | NVIDIA ✓ | VLSI CAD Timing Intern, Applied AI - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | US, CA, Santa Clara | Python | Oct 30, 2026 |
 | WSP | Electrical Engineering Intern -  Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98556) | Milwaukee, WI, United States | No skills listed | Oct 30, 2026 |
-| Global​Foundries | Device Engineering Intern, Silicon Photonics (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) | USA - New York - Malta | Python | Oct 30, 2026 |
 | Stratolaunch | Manufactur​ing (Electrical) Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008) | Mojave, California, United States | No skills listed | Oct 30, 2026 |
 | WSP | Electrical Engineering Intern (Substation) - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98467) | Burnsville +5 more | No skills listed | Oct 29, 2026 |
 | RTX | Manufactur​ing Electrical Engineering Co-Op (Spring/Summer 2027) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01870653) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd… | No skills listed | Oct 29, 2026 |
@@ -112,7 +113,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Draper | Analog ASIC Design Intern (Summer 2027) 🇺🇸 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) | Cambridge, MA | Python, MATLAB, Verilog | Oct 28, 2026 |
 | Emerson Electric | Electrical Engineering Co-op (Summer 2027) | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003) | Elyria +5 more | Python, C++ | Oct 28, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / KS / Overland Park - 10561 Barkley… | No skills listed | Oct 27, 2026 |
-| Global​Foundries | Silicon Photonics Process Integration Intern (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Intern--Summer-2027-_JR-2604265) | USA - New York - Malta | Python, MATLAB | Oct 27, 2026 |
 | Global Infrastruc​ture | Electrical Engineering Intern/Co-Op | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--Kansas-City---1600-Genessee-Street/Electrical-Engineering-Intern-Co-Op_6631) | US / MO / Kansas City - 1600 Genessee S… | No skills listed | Oct 27, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern--Electrical-Designer_6622) | US / MO / St. Louis - 6 South Old Orcha… | No skills listed | Oct 27, 2026 |
 | Commonwealth Fusion Systems | Intern - Microwave Engineer - Summer 2027 | [Apply](https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54) | Devens, MA | MATLAB | Oct 26, 2026 |
@@ -432,7 +432,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,646 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 735.8s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,648 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 917.5s · 599 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
