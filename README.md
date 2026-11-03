@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 416 open roles (300 listed below) · 67 new this week
+### 417 open roles (300 listed below) · 67 new this week
 
-4,811 employers tracked · data as of Nov 03, 2026 at 20:44 UTC
+4,811 employers tracked · data as of Nov 03, 2026 at 21:16 UTC
 
-_261 have a cycle the employer stated · 155 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_261 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -285,6 +285,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| General Dynamics Mission Systems | Electrical Engineering Intern (FPGA) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/76081/electrical-engineering-intern-%28fpga%29/job?in_iframe=1) | Middletown, RI, US | No skills listed | Nov 03, 2026 |
 | Bose ✓ | Electrical Engineering Co-op — FPGA and Audio Research Platforms 🆕 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) | US, MA - Framingham | MATLAB, Verilog | Nov 03, 2026 |
 | ASML | CoOp - Electrical Engineer (Internship) 🆕 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
 | ASML | Coop - Mechatronics Engineer (Internship) 🆕 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203) | Wilton, CT, USA | MATLAB, Git | Nov 02, 2026 |
@@ -324,7 +325,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | KION Group | Controls Engineer - Co-Op | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineer---Co-Op_JR-0089161-1) | Grand Rapids, MI, United States | No skills listed | Oct 26, 2026 |
 | Texas Instruments ✓ | Digital Design Verification Engineering Intern 🛂 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016380) | Santa Clara, CA, United States | No skills listed | Oct 23, 2026 |
 | General Dynamics Mission Systems | Intern Engineer - (Systems, Software, Electrical, Mechanical, Manufactur​ing, Other) 🇺🇸 🆕 _(2 openings)_ | [Apply](https://careers-gdms.icims.com/jobs/75636/intern-engineer---%28systems%2c-software%2c-electrical%2c-mechanical%2c-manufacturing%2c-other%29/job?in_iframe=1) [#2](https://careers-gdms.icims.com/jobs/76785/intern-engineer---%28systems%2c-software%2c-electrical%2c-mechanical%2c-manufacturing%2c-other%29/job?in_iframe=1) | Varies, UNAVAILABLE, US | No skills listed | Oct 22, 2026 |
-| General Dynamics Mission Systems | Hardware/Electrical Intern Engineer 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75776/hardware-electrical-intern-engineer/job?in_iframe=1) | Scottsdale, AZ, US | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Designer Intern - New Albany, OH | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Electrical-Designer-Intern---New-Albany--OH_R19380-1) | New Albany, OH | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Designer Intern - Roanoke, VA | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Roanoke-VA/Electrical-Designer-Intern---Roanoke--VA_R19379) | Roanoke, VA | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Designer Intern - Tulsa, OK | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Tulsa-OK/Electrical-Designer-Intern---Tulsa--OK_R19378) | Tulsa, OK | No skills listed | Oct 22, 2026 |
@@ -435,7 +435,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,557 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 830.6s · 565 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,565 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 989.1s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
