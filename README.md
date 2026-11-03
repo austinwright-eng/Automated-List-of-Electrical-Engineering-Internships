@@ -8,7 +8,7 @@
 
 ### 414 open roles (302 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Nov 03, 2026 at 13:18 UTC
+4,811 employers tracked · data as of Nov 03, 2026 at 13:46 UTC
 
 _259 have a cycle the employer stated · 155 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -433,7 +433,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,604 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1094.2s · 591 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,573 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 989.7s · 612 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
