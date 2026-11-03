@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 410 open roles (301 listed below) · 66 new this week
+### 409 open roles (300 listed below) · 67 new this week
 
-4,811 employers tracked · data as of Nov 02, 2026 at 23:43 UTC
+4,811 employers tracked · data as of Nov 03, 2026 at 00:14 UTC
 
-_255 have a cycle the employer stated · 155 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_256 have a cycle the employer stated · 153 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -90,6 +90,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Applied Materials ✓ | 2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA) 🆕 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967) | Santa Clara,CA | No skills listed | Nov 02, 2026 |
 | Global​Foundries | Design Verification Engineer Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | USA - Texas - Richardson | Python, Verilog | Nov 02, 2026 |
 | Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 🆕 | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) | Dallas, Texas | C++, Git, Verilog | Nov 02, 2026 |
 | Northrop Grumman | 2027 Electrical Design and Technology Internship - Baltimore MD 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Design-and-Technology-Internship---Baltimore-MD_R10258813-1) | United States-Maryland-Baltimore | No skills listed | Nov 02, 2026 |
@@ -164,7 +165,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | DoorDash ✓ | Electrical Engineer, Intern - Labs (Summer 2027) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | Oakland, CA | Python, C++ | Oct 12, 2026 |
 | NVIDIA ✓ | PCIe Design Verification Intern - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708) | US, TX, Austin | Python, Verilog | Oct 12, 2026 |
 | Applied Materials ✓ | 2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) | Gloucester​,MA | No skills listed | Oct 09, 2026 |
-| Applied Materials ✓ | 2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428) | Santa Clara,CA | No skills listed | Oct 09, 2026 |
 | Draper | Integrated Circuits Intern (Summer 2027) 🇺🇸 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973) | Cambridge, MA | Python, MATLAB, Verilog | Oct 09, 2026 |
 | RTX | Power Electronics Intern (Summer 2027) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Power-Electronics-Intern--Summer-2027-_01869165) | US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd… | No skills listed | Oct 09, 2026 |
 | STV ✓ | Electrical Engineering Intern - Summer 2027 🛂 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Boston-Massachusetts/Electrical-Engineering-Intern---Summer-2027_JR6127) | Boston, Massachuse​tts | No skills listed | Oct 09, 2026 |
@@ -382,7 +382,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Base Power | Electrical Engineering Intern | [Apply](https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97) | Austin, TX | No skills listed | Sep 30, 2026 |
 | Base Power | Hardware Reliability & Test Engineering Intern | [Apply](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406) | Austin, TX | Python | Sep 30, 2026 |
 | Arcadis | Electrical Engineering Intern/ Co-op | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44682) | Clifton Park +5 more | No skills listed | Sep 30, 2026 |
-| CAE | Electrical Engineering Co-Op 🇺🇸 _(2 openings)_ | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Electrical-Engineering-Co-Op_123813) [#2](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Electrical-Engineering-Co-Op_123814-1) | Arlington, TX | No skills listed | Sep 30, 2026 |
+| CAE | Electrical Engineering Co-Op 🇺🇸 | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Electrical-Engineering-Co-Op_123814-1) | Arlington, TX | No skills listed | Sep 30, 2026 |
 | Leidos ✓ | Embedded Design Engineering Intern – Firmware 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574) | Huntsville, AL | C++, Rust, Linux, Verilog | Sep 30, 2026 |
 | Cisco | Firmware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard, Massachuse​tts, US | Python, C++, Linux, Git | Sep 29, 2026 |
 | Olsson | Electrical Engineering Internship - Facilities (Healthcare) | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5423876008) | Omaha, NE | No skills listed | Sep 28, 2026 |
@@ -431,7 +431,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,592 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 765.4s · 570 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,528 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 865.3s · 536 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
