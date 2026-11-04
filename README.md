@@ -8,7 +8,7 @@
 
 ### 418 open roles (299 listed below) · 66 new this week
 
-4,811 employers tracked · data as of Nov 04, 2026 at 14:18 UTC
+4,811 employers tracked · data as of Nov 04, 2026 at 14:48 UTC
 
 _262 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -105,7 +105,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Northrop Grumman | 2027 Electrical Design and Technology Internship - Baltimore MD 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Design-and-Technology-Internship---Baltimore-MD_R10258813-1) | United States-Maryland-Baltimore | No skills listed | Nov 02, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 🆕 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) | San Diego, CA, United States | No skills listed | Nov 02, 2026 |
 | KLA ✓ | Mechatronics Summer Intern 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3) | Ann Arbor, MI | Python | Nov 02, 2026 |
-| RTX | Electrical Engineering Intern (Summer 2027)(Onsi​te) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineering-Intern--Summer-2027--Onsite-_01885147) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | No skills listed | Nov 02, 2026 |
+| RTX | Electrical Engineering Intern (Summer 2027)(Onsi​te) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineering-Intern--Summer-2027--Onsite-_01885147) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | No skills listed | Nov 02, 2026 |
 | NVIDIA ✓ | VLSI CAD Timing Intern, Applied AI - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | US, CA, Santa Clara | Python | Oct 30, 2026 |
 | WSP | Electrical Engineering Intern -  Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98556) | Milwaukee, WI, United States | No skills listed | Oct 30, 2026 |
 | Stratolaunch | Manufactur​ing (Electrical) Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008) | Mojave, California, United States | No skills listed | Oct 30, 2026 |
@@ -437,7 +437,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,617 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1091.9s · 602 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,616 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1075.1s · 606 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
