@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 428 open roles (307 listed below) · 71 new this week
+### 427 open roles (306 listed below) · 70 new this week
 
-4,811 employers tracked · data as of Nov 05, 2026 at 12:47 UTC
+4,811 employers tracked · data as of Nov 05, 2026 at 13:13 UTC
 
-_272 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_271 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -86,14 +86,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (178 employer-stated)
+## Summer 2027  (177 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Northrop Grumman | 2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386) | United States-California-Redondo Beach | Python, C++, MATLAB | Nov 04, 2026 |
 | Bracco | Electrical Engineering Intern (R&D Sustaining) 🆕 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Electrical-Engineering-Intern--R-D-Sustaining-_JR100315) | USA, Eden Prairie, Minnesota, 55344 | C++, MATLAB | Nov 04, 2026 |
 | RTX | FPGA Design Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290-2) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | Python, C++, Linux, Verilog | Nov 04, 2026 |
-| Renesas Electronics | PMIC Analog Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000159733449) | San Jose, CALIFORNIA, United States | No skills listed | Nov 04, 2026 |
 | RTX | Electrical Engineering Intern (Summer 2027)(Onsi​te) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical-Engineering-Intern--Summer-2027--Onsite-_01886131) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Nov 04, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 🆕 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168340) | Fallon, NV, United States | No skills listed | Nov 04, 2026 |
 | CACI | Electrical Engineering Co-op/Intern - Summer 2027 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Electrical-Engineering-Co-op-Intern---Spring-2027_334155) | Rochester, NY, US | Python | Nov 04, 2026 |
@@ -402,12 +401,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Re:Build Manufactur​ing | Automation & Controls Engineer Co-op/Intern | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005) | Rochester, NY | No skills listed | Sep 21, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 17 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 18 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Renesas Electronics | PMIC Analog Intern | Summer 2027 | 2026-11-05 | gone from feed |
 | CoStar Group | Embedded Software Engineering Intern | Summer 2027 | 2026-11-05 | gone from feed |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Summer 2027 | 2026-11-04 | gone from feed |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 | Summer 2027 | 2026-11-04 | gone from feed |
@@ -443,7 +443,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,633 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 1042.1s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,541 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 88% of the full registry) · completed in 812.9s · 594 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
