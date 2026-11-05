@@ -8,7 +8,7 @@
 
 ### 428 open roles (307 listed below) · 71 new this week
 
-4,811 employers tracked · data as of Nov 05, 2026 at 09:19 UTC
+4,811 employers tracked · data as of Nov 05, 2026 at 09:49 UTC
 
 _272 have a cycle the employer stated · 156 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -318,7 +318,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Micron Technology ✓ | Intern - Embedded Software Engineer | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineering-Intern_JR115959) | Boise, ID - SIG Building | Python, C++, Bash, Linux | Oct 28, 2026 |
 | Austal USA | Electrical Engineering Intern | [Apply](https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Electrical-Engineering-Intern_R0012154) | Mobile, AL | No skills listed | Oct 28, 2026 |
 | Flextronics Internatio​nal | Intern - Electrical Engineer | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IA-Des-Moines/Intern---Electrical-Engineer_WD232918-1) | USA, IA, Des Moines | No skills listed | Oct 28, 2026 |
-| Avav | Electrical Engineering Intern - Space Technologies 🇺🇸 🆕 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Electrical-Engineering-Intern---Space-Technologies_9256) | Albuquerque, NM | No skills listed | Oct 27, 2026 |
+| Avav | Electrical Engineering Intern - Space Technologies 🇺🇸 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Albuquerque-NM/Electrical-Engineering-Intern---Space-Technologies_9256) | Albuquerque, NM | No skills listed | Oct 27, 2026 |
 | Samsung | Intern, RTL Power Macromodel​ing Engineer | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003) | San Jose, California, United States | Python, C++, Verilog | Oct 27, 2026 |
 | Marvell | Design Verification- Intern | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/IL---Petah-Tikva/Design-Verification--Intern_2604486) | IL - Petah Tikva | Python, C++, Verilog | Oct 27, 2026 |
 | Mayo Clinic ✓ | Graduate Engineering Intern - Electronics | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) | Rochester, MN, United States | No skills listed | Oct 27, 2026 |
@@ -443,7 +443,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,646 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 1123.1s · 611 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,594 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1136.5s · 585 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
