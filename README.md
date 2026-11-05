@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 431 open roles (310 listed below) · 71 new this week
+### 431 open roles (310 listed below) · 72 new this week
 
-4,811 employers tracked · data as of Nov 05, 2026 at 17:48 UTC
+4,811 employers tracked · data as of Nov 05, 2026 at 18:17 UTC
 
-_273 have a cycle the employer stated · 158 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_274 have a cycle the employer stated · 157 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -90,6 +90,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Sierra Nevada Corporation | Firmware Engineer Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | MATLAB | Nov 05, 2026 |
 | Sierra Nevada Corporation | Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Electrical-Engineering-Intern--Summer-2027-_R0030743-1) | Hagerstown, MD | MATLAB | Nov 05, 2026 |
 | Jabil ✓ | Low voltage switchgear Electrical Engineering Intern 🆕 | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Low-voltage-switchgear-Electrical-Engineering-Intern_J2470772) | St. Petersburg/Tampa, FL | No skills listed | Nov 05, 2026 |
 | Northrop Grumman | 2027 Guidance Navigation and Control Engineer Intern - Redondo Beach CA 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Guidance-Navigation-and-Control-Engineer-Intern---Redondo-Beach-CA_R10259386) | United States-California-Redondo Beach | Python, C++, MATLAB | Nov 04, 2026 |
@@ -239,7 +240,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | AMCA | Electrical Engineering Internship (Summer 2027) | [Apply](https://job-boards.greenhouse.io/amca/jobs/4396690009) | El Segundo, CA | No skills listed | Sep 04, 2026 |
 | HNTB ✓ | Intern Electrical and Mechanical/Fire Protection Engineering (Summer 2027) 🛂 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Bellevue-WA-Seattle/Intern-Electrical-and-Mechanical-Fire-Protection-Engineering--Summer-2027-_R-31482-1) | Bellevue, WA (Seattle) | No skills listed | Sep 04, 2026 |
 | Vermeer | Electrical Engineer Internship Summer 2027 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Electrical-Engineer-Internship-Summer-2027_REQ-22166) | Pella, Iowa, USA - Corporate Office | MATLAB | Sep 04, 2026 |
-| Sierra Nevada Corporation | Electrical Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Electrical-Engineering-Intern--Summer-2027-_R0030740) | Plano, TX | MATLAB | Sep 03, 2026 |
 | General Matter | Summer 2027 Internship - Embedded Software Engineering | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5377131008) | Los Angeles, CA | Python, C++, Go, Rust | Sep 02, 2026 |
 | K2 Space | Electrical Engineering Intern – Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) | Los Angeles, CA | Python, C++, MATLAB | Sep 01, 2026 |
 | K2 Space | RF Engineering Intern – Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) | Los Angeles, CA | No skills listed | Sep 01, 2026 |
@@ -300,7 +300,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Daimler Truck | Mechatronics Engineering Intern – Powertrain Integration 🆕 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546-1) | Gaffney, SC US | No skills listed | Nov 04, 2026 |
 | Hewlett Packard Enterprise ✓ | Hardware Engineering Intern 🆕 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Hardware-Engineering-Intern_1214170) | Westford +2 more | Python, HTML/CSS, Linux, Verilog | Nov 03, 2026 |
 | General Dynamics Mission Systems | Electrical Engineering Intern (FPGA) 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/76081/electrical-engineering-intern-%28fpga%29/job?in_iframe=1) | Middletown, RI, US | No skills listed | Nov 03, 2026 |
-| Bose ✓ | Electrical Engineering Co-op — FPGA and Audio Research Platforms 🆕 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) | US, MA - Framingham | MATLAB, Verilog | Nov 03, 2026 |
+| Bose ✓ | Electrical Engineering Co-op — FPGA and Audio Research Platforms | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) | US, MA - Framingham | MATLAB, Verilog | Nov 03, 2026 |
 | ASML | CoOp - Electrical Engineer (Internship) | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
 | ASML | Coop - Mechatronics Engineer (Internship) | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203) | Wilton, CT, USA | MATLAB, Git | Nov 02, 2026 |
 | ASML | Internship - Electrical Engineer | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356457) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
@@ -330,7 +330,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Parallel Systems | Software Engineering Intern (Embedded, Backend, Fullstack) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Los Angeles, CA | Python, C++, Rust, TypeScript | Oct 26, 2026 |
 | Cisco | Hardware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
 | Lila Sciences | Co-op, Mechatronics Engineer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | Cambridge, MA USA | No skills listed | Oct 26, 2026 |
-| ONEOK | Instrument​ation and Electrical Technician Intern | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Calumet-OK/Instrumentation-and-Electrical-Technician-Intern_R8363-1) | Calumet, OK | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Software Test Engineering Intern - Space and Embedded Crypto 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job?in_iframe=1) | Scottsdale, AZ, US | Python | Oct 26, 2026 |
 | Texas Instruments ✓ | Analog Design Eng Intern 🆕 _(2 openings)_ | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018682) [#2](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019660) | Santa Clara, CA, United States | No skills listed | Oct 26, 2026 |
 | Analog Devices ✓ | Embedded Systems Co-Op | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) | US, MA, Boston | Python, Rust, Bash, Linux | Oct 26, 2026 |
@@ -369,6 +368,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Astera Labs ✓ | AMS Design Verification Engineer Intern | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005) | San Jose, CA | Python, C++, Verilog | Oct 13, 2026 |
 | Fortive | Electrical Engineering Intern | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10876) | Irvine, CA, United States | No skills listed | Oct 13, 2026 |
 | ONEOK | Instrument​ation and Electrical Technician Intern | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Medford-OK/Instrumentation-and-Electrical-Technician-Intern_R8426-1) | Medford, OK | No skills listed | Oct 13, 2026 |
+| ONEOK | Instrument​ation and Electrical Technician Intern | [Apply](https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Watford-City-ND/Instrumentation-and-Electrical-Technician-Intern_R8357-1) | Watford City, ND | No skills listed | Oct 13, 2026 |
 | Bose ✓ | Embedded Audio ML Engineer Co-op | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719) | US, MA - Framingham | Python, C++, PyTorch, TensorFlow | Oct 13, 2026 |
 | Life Fitness ✓ | Embedded Software Intern 🆕 | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276) | Schaumburg, IL | No skills listed | Oct 12, 2026 |
 | Astera Labs ✓ | Analog/Mixed Signal System Test Engineer Intern | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005) | San Jose, CA | Python, MATLAB, Verilog | Oct 12, 2026 |
@@ -447,7 +447,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,542 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 1054.7s · 571 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,532 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 993.7s · 557 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
