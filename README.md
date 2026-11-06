@@ -8,7 +8,7 @@
 
 ### 429 open roles (306 listed below) · 70 new this week
 
-4,811 employers tracked · data as of Nov 06, 2026 at 20:16 UTC
+4,811 employers tracked · data as of Nov 06, 2026 at 20:46 UTC
 
 _279 have a cycle the employer stated · 150 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -101,14 +101,14 @@ If it helps you, a star means a lot and tells me to keep going.
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 🆕 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168340) | Fallon, NV, United States | No skills listed | Nov 04, 2026 |
 | CACI | Electrical Engineering Co-op/Intern - Summer 2027 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Electrical-Engineering-Co-op-Intern---Spring-2027_334155) | Rochester, NY, US | Python | Nov 04, 2026 |
 | Draper | Sensor Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095) | Cambridge, MA | MATLAB | Nov 04, 2026 |
-| Northrop Grumman | 2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321) | United States-Virginia-Dulles | No skills listed | Nov 04, 2026 |
+| Northrop Grumman | 2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA 🇺🇸 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321) | United States-Virginia-Dulles | No skills listed | Nov 04, 2026 |
 | LG Electronics | Vanderbilt University x LG Electronics Summer Internship Program | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) | Englewood Cliffs, NJ | No skills listed | Nov 04, 2026 |
 | Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL 🇺🇸 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) | United States-Alabama-Huntsville | No skills listed | Nov 04, 2026 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Graduate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610436) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergradu​ate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610446) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern (Summer 2027) | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) | Downers Grove, IL | No skills listed | Nov 03, 2026 |
 | Westlake | Process Control Engineer Intern (Summer 2027) 🛂 | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1) | US - Calvert City, KY | No skills listed | Nov 03, 2026 |
-| Marvell | Hardware Signal Integrity Intern, MS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) | Santa Clara, CA | No skills listed | Nov 03, 2026 |
+| Marvell | Hardware Signal Integrity Intern, MS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) | Santa Clara, CA | No skills listed | Nov 03, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Development [Summer 2027] 🆕 | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | Foster City, CA | Python, MATLAB | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Systems [Summer 2027] 🆕 | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | Foster City, CA | Python | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Manufactur​ing Operations [Summer 2027] 🆕 | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Python, SQL, Databricks | Nov 02, 2026 |
@@ -144,7 +144,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Engineering Intern- Summer 2027 🛂 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Electrical-Engineering-Intern--Summer-2027_R20503) | Columbus, OH | No skills listed | Oct 22, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Madison, WI 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Electrical-Engineering-Intern---Madison--WI_R-16460) | Madison, WI | No skills listed | Oct 21, 2026 |
-| Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Santa Clara, CA | Python | Oct 21, 2026 |
+| Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) | Santa Clara, CA | Python | Oct 21, 2026 |
 | Smith+Nephew ✓ | Intern Electrical Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957) | Andover, MA | No skills listed | Oct 21, 2026 |
 | Smith+Nephew ✓ | Co-Op Embedded Software Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Andover, MA | C++, Computer Vision | Oct 21, 2026 |
 | Skydio ✓ | Electrical Engineer Intern - Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) | San Mateo, California, United States | No skills listed | Oct 20, 2026 |
@@ -247,7 +247,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | K2 Space | Electrical Engineering Intern – Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) | Los Angeles, CA | Python, C++, MATLAB | Sep 01, 2026 |
 | K2 Space | Avionics Systems/Test Engineering Intern – Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) | Los Angeles, CA | Python, C++, Rust, Bash | Sep 01, 2026 |
 | Shield AI | Summer 2027 - Electrical Engineering Intern | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) | Dallas, Texas | Python | Sep 01, 2026 |
-| Shield AI | Summer 2027 - Electrical Engineering Co-op (June 2027) | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) | Dallas, Texas | No skills listed | Sep 01, 2026 |
+| Shield AI | June 2027 Co-0p - Electrical Engineering Intern | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) | Dallas, Texas | No skills listed | Sep 01, 2026 |
 | Stanley Black & Decker ✓ | Embedded Engineering Summer Intern 2027 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Towson, MD, United States | No skills listed | Sep 01, 2026 |
 | Vermeer | Embedded Software Engineer Internship Summer 2027 | [Apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) | Pella, Iowa, USA - Corporate Office | C++, MATLAB, Git | Sep 01, 2026 |
 | Hudson River Trading ✓ | Hardware Engineer Internship - Summer 2027 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) | New York, NY, United States | Python, C++, Linux, Verilog | Aug 31, 2026 |
@@ -296,7 +296,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Daimler Truck | Electrical Equipment Controls Intern 🆕 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Electrical-Equipment-Controls-Intern_DT-20572) | Detroit, MI US | No skills listed | Nov 05, 2026 |
 | Legrand | Firmware Engineering Intern 🆕 | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809) | Reno, NV, United States | Python, C++, TypeScript, Linux | Nov 05, 2026 |
 | Rockwell Automation ✓ | Intern, Electrical Engineering 🛂 🆕 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Intern--Electrical-Engineering_R26-8341-1) | Chelmsford, Massachuse​tts, United States | No skills listed | Nov 04, 2026 |
-| Badger Meter | Firmware Test Engineer Intern 🆕 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675) | US - WI - Milwaukee HQ | Python, Git | Nov 04, 2026 |
+| Badger Meter | Firmware Test Engineer Intern | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675) | US - WI - Milwaukee HQ | Python, Git | Nov 04, 2026 |
 | Texas Instruments ✓ | Analog Design Verification Eng Intern | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019663) | Santa Clara, CA, United States | No skills listed | Nov 04, 2026 |
 | Logiqal | Quantum Hardware Intern | [Apply](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d) | Princeton, NJ | Python, C++ | Nov 04, 2026 |
 | Daimler Truck | Mechatronics Engineering Intern – Powertrain Integration | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546-1) | Gaffney, SC US | No skills listed | Nov 04, 2026 |
@@ -444,7 +444,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,545 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 982.4s · 556 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,549 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 960.6s · 549 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
