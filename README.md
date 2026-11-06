@@ -8,7 +8,7 @@
 
 ### 433 open roles (311 listed below) · 70 new this week
 
-4,811 employers tracked · data as of Nov 06, 2026 at 03:48 UTC
+4,811 employers tracked · data as of Nov 06, 2026 at 04:20 UTC
 
 _274 have a cycle the employer stated · 159 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -102,8 +102,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | Northrop Grumman | 2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321) | United States-Virginia-Dulles | No skills listed | Nov 04, 2026 |
 | LG Electronics | Vanderbilt University x LG Electronics Summer Internship Program 🆕 | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) | Englewood Cliffs, NJ | No skills listed | Nov 04, 2026 |
 | Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) | United States-Alabama-Huntsville | No skills listed | Nov 04, 2026 |
-| Lawrence Livermore National Laboratory (LLNL) | Power Systems Graduate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 🆕 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610436) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
-| Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergradu​ate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 🆕 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610446) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
+| Lawrence Livermore National Laboratory (LLNL) | Power Systems Graduate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610436) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
+| Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergradu​ate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610446) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern (Summer 2027) | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) | Downers Grove, IL | No skills listed | Nov 03, 2026 |
 | Westlake | Process Control Engineer Intern (Summer 2027) 🛂 | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1) | US - Calvert City, KY | No skills listed | Nov 03, 2026 |
 | Marvell | Hardware Signal Integrity Intern, MS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) | Santa Clara, CA | No skills listed | Nov 03, 2026 |
@@ -450,7 +450,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,576 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1092.8s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,579 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1196.9s · 563 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
