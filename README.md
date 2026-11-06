@@ -8,7 +8,7 @@
 
 ### 428 open roles (305 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Nov 06, 2026 at 19:16 UTC
+4,811 employers tracked · data as of Nov 06, 2026 at 19:47 UTC
 
 _278 have a cycle the employer stated · 150 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -102,8 +102,8 @@ If it helps you, a star means a lot and tells me to keep going.
 | CACI | Electrical Engineering Co-op/Intern - Summer 2027 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Electrical-Engineering-Co-op-Intern---Spring-2027_334155) | Rochester, NY, US | Python | Nov 04, 2026 |
 | Draper | Sensor Electrical Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095) | Cambridge, MA | MATLAB | Nov 04, 2026 |
 | Northrop Grumman | 2027 Integration and Test (Electronics/Mechanical) Technical Intern - Dulles VA 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321) | United States-Virginia-Dulles | No skills listed | Nov 04, 2026 |
-| LG Electronics | Vanderbilt University x LG Electronics Summer Internship Program 🆕 | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) | Englewood Cliffs, NJ | No skills listed | Nov 04, 2026 |
-| Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL 🇺🇸 🆕 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) | United States-Alabama-Huntsville | No skills listed | Nov 04, 2026 |
+| LG Electronics | Vanderbilt University x LG Electronics Summer Internship Program | [Apply](https://job-boards.greenhouse.io/lgelectronics/jobs/5473012008) | Englewood Cliffs, NJ | No skills listed | Nov 04, 2026 |
+| Northrop Grumman | 2027 Electrical Engineering Intern- Huntsville AL 🇺🇸 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10259306-1) | United States-Alabama-Huntsville | No skills listed | Nov 04, 2026 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Graduate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610436) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergradu​ate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610446) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern (Summer 2027) | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) | Downers Grove, IL | No skills listed | Nov 03, 2026 |
@@ -334,7 +334,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Cisco | Hardware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
 | Lila Sciences | Co-op, Mechatronics Engineer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | Cambridge, MA USA | No skills listed | Oct 26, 2026 |
 | General Dynamics Mission Systems | Software Test Engineering Intern - Space and Embedded Crypto 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job?in_iframe=1) | Scottsdale, AZ, US | Python | Oct 26, 2026 |
-| Texas Instruments ✓ | Analog Design Eng Intern 🆕 _(2 openings)_ | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018682) [#2](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019660) | Santa Clara, CA, United States | No skills listed | Oct 26, 2026 |
+| Texas Instruments ✓ | Analog Design Eng Intern _(2 openings)_ | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018682) [#2](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019660) | Santa Clara, CA, United States | No skills listed | Oct 26, 2026 |
 | Analog Devices ✓ | Embedded Systems Co-Op | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) | US, MA, Boston | Python, Rust, Bash, Linux | Oct 26, 2026 |
 | Leidos ✓ | Electrical Design Engineering Intern 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | No skills listed | Oct 26, 2026 |
 | First Quality | Controls Engineering Intern _(2 openings)_ | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R12306) [#2](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Controls-Engineering-Intern_R12307) | US PA McElhattan | No skills listed | Oct 26, 2026 |
@@ -444,7 +444,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,608 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 976.4s · 590 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,555 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1014.6s · 549 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
