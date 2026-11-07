@@ -8,7 +8,7 @@
 
 ### 426 open roles (306 listed below) · 68 new this week
 
-4,811 employers tracked · data as of Nov 07, 2026 at 19:48 UTC
+4,811 employers tracked · data as of Nov 07, 2026 at 20:20 UTC
 
 _278 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -305,7 +305,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bose ✓ | Electrical Engineering Co-op — FPGA and Audio Research Platforms | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-op---FPGA-and-Audio-Research-Platforms_R29366) | US, MA - Framingham | MATLAB, Verilog | Nov 03, 2026 |
 | ASML | CoOp - Electrical Engineer (Internship) | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/CoOp---Electrical-Engineer--Internship-_J-00356208) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
 | ASML | Coop - Mechatronics Engineer (Internship) | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203) | Wilton, CT, USA | MATLAB, Git | Nov 02, 2026 |
-| ASML | Internship - Electrical Engineer 🆕 _(2 openings)_ | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356457) [#2](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00355801) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
+| ASML | Internship - Electrical Engineer _(2 openings)_ | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00356457) [#2](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00355801) | Wilton, CT, USA | Python, MATLAB | Nov 02, 2026 |
 | KION Group | Controls Engineering Intern/Co-Op | [Apply](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094002-1) | Grand Rapids, MI, United States | No skills listed | Nov 02, 2026 |
 | Valmont | Embedded Systems Engineering Intern | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223) | Valley NE | C++, Linux, Git | Nov 02, 2026 |
 | Micron Technology ✓ | Intern - YE-Electrical Failure Analysis Engineer | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538) | Boise, ID - ID1 | Python, SQL, LLMs, Tableau | Nov 02, 2026 |
@@ -443,7 +443,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,700 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1089.6s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,628 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1218.9s · 605 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
