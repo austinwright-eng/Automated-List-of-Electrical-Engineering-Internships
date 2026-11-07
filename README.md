@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 427 open roles (306 listed below) · 68 new this week
+### 426 open roles (306 listed below) · 68 new this week
 
-4,811 employers tracked · data as of Nov 07, 2026 at 19:15 UTC
+4,811 employers tracked · data as of Nov 07, 2026 at 19:48 UTC
 
-_279 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_278 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -399,12 +399,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Keenfinity | Embedded Firmware Engineer Co-Op | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000151397189) | Fairport, NY, United States | Python, C++, Linux | Sep 23, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 19 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 20 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Rocket Lab | Avionics Engineering Intern Summer 2027 | Summer 2027 | 2026-11-07 | gone from feed |
 | K2 Space | RF Engineering Intern – Summer 2027 | Summer 2027 | 2026-11-06 | gone from feed |
 | RTX | FPGA Design Intern (Summer 2027) | Summer 2027 | 2026-11-05 | gone from feed |
 | Nexus Engineering Group | Electrical Engineering Internship or Co-Op (Summer 2027) | Summer 2027 | 2026-11-05 | gone from feed |
@@ -442,7 +443,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,699 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 933.6s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,700 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1089.6s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
