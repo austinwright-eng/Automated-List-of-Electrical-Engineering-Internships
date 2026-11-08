@@ -1669,10 +1669,15 @@
     "last_attempt_at": "2026-11-08T13:38:16Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/jobs'\nFor more information check: https://developer.m"
   },
-  "workday:bloomenergy:bloomenergycareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-08T10:48:55Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://bloomenergy.wd1.myworkdayjobs.com/wday/cxs/bloomenergy/bloomenergycareers/jobs'\nFor more information check: https://developer.moz"
+  "workday:blackstone:blackstone_campus_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-08T17:15:16Z",
+    "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Campus_Careers/jobs'\nFor more information check: https://developer.moz"
+  },
+  "workday:blackstone:bx_external_site": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-08T17:15:16Z",
+    "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/bx_external_site/jobs'\nFor more information check: https://developer.mozilla.org/"
   },
   "workday:bmc:bmc": {
     "consecutive_failures": 4,
@@ -1718,11 +1723,6 @@
     "consecutive_failures": 36,
     "last_attempt_at": "2026-11-08T12:49:42Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cbrlgroup.wd5.myworkdayjobs.com/wday/cxs/cbrlgroup/CrackerBarrelExternal/jobs'\nFor more information check: https://developer.m"
-  },
-  "workday:centene:centene_external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-08T16:45:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/Centene_External/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
   "workday:centerstone:centerstonecareers": {
     "consecutive_failures": 4,
@@ -1924,11 +1924,6 @@
     "last_attempt_at": "2026-11-08T13:38:16Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs'\nFor more information check: https://developer.mozil"
   },
-  "workday:granite:careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-08T16:45:00Z",
-    "last_error": "malformed-response"
-  },
   "workday:gtsgbu:careers": {
     "consecutive_failures": 41,
     "last_attempt_at": "2026-11-06T09:18:58Z",
@@ -2124,6 +2119,11 @@
     "last_attempt_at": "2026-11-07T21:44:25Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://redfin.wd1.myworkdayjobs.com/wday/cxs/redfin/redfin_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
+  "workday:rockwoolgroup:rockwool": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-08T17:15:16Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://rockwoolgroup.wd3.myworkdayjobs.com/wday/cxs/rockwoolgroup/ROCKWOOL/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
+  },
   "workday:sallie-mae:careers": {
     "consecutive_failures": 36,
     "last_attempt_at": "2026-11-08T12:49:42Z",
@@ -2162,6 +2162,16 @@
   "workday:target:targetcareers": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-07T00:16:07Z",
+    "last_error": "malformed-response"
+  },
+  "workday:td:td_bank_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-08T17:15:16Z",
+    "last_error": "malformed-response"
+  },
+  "workday:ttc:toro_external_careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-08T17:15:16Z",
     "last_error": "malformed-response"
   },
   "workday:usicinc:usiccareers": {
