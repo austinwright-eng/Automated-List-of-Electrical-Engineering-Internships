@@ -8,7 +8,7 @@
 
 ### 426 open roles (304 listed below) · 68 new this week
 
-4,811 employers tracked · data as of Nov 09, 2026 at 18:48 UTC
+4,811 employers tracked · data as of Nov 09, 2026 at 19:15 UTC
 
 _278 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -146,7 +146,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Santa Clara, CA | Python | Oct 21, 2026 |
 | Smith+Nephew ✓ | Intern Electrical Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957) | Andover, MA | No skills listed | Oct 21, 2026 |
 | Smith+Nephew ✓ | Co-Op Embedded Software Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Andover, MA | C++, Computer Vision | Oct 21, 2026 |
-| Skydio ✓ | Electrical Engineer Intern - Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) | San Mateo, California, United States | No skills listed | Oct 20, 2026 |
+| Skydio ✓ | Electrical Engineer Intern | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) | San Mateo, California, United States | No skills listed | Oct 20, 2026 |
 | Skydio ✓ | Wireless Hardware Engineer Intern - Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea) | San Mateo, California, United States | Python | Oct 20, 2026 |
 | Skydio ✓ | Hardware Test and Reliability Intern - Summer 2027 | [Apply](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800) | San Mateo, California, United States | Python | Oct 20, 2026 |
 | Stantec | Electrical Engineering Intern - Buildings (Summer 2027) | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008372) | Austin, TX, United States | No skills listed | Oct 20, 2026 |
@@ -398,7 +398,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Zachry Group | Intern - Electrical | [Apply](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/15848) | Charlotte +5 more | No skills listed | Sep 28, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 20 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 19 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -423,7 +423,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Nexus Engineering Group | Chemical Process and Instrumentation/Controls Engineering Internship or Co-Op (Summer 2027) | Summer 2027 | 2026-10-27 | gone from feed |
 | Axon | 2027 US Electrical Engineering Internship | Summer 2027 | 2026-10-27 | gone from feed |
 | Nexus Engineering Group | Electrical Engineering Internship or Co-Op (Summer 2027) | Summer 2027 | 2026-10-27 | gone from feed |
-| Space Dynamics Laboratory | CVS: FPGA Electrical Engineer Intern | Summer 2027 | 2026-10-26 | gone from feed |
 
 </details>
 
@@ -442,7 +441,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,607 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 90% of the full registry) · completed in 1071.3s · 594 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,603 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 90% of the full registry) · completed in 918.6s · 596 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
