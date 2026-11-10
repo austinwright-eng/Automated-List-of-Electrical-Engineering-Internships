@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 429 open roles (306 listed below) · 64 new this week
+### 430 open roles (306 listed below) · 65 new this week
 
-4,811 employers tracked · data as of Nov 10, 2026 at 02:15 UTC
+4,811 employers tracked · data as of Nov 10, 2026 at 02:46 UTC
 
-_278 have a cycle the employer stated · 151 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_278 have a cycle the employer stated · 152 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -293,6 +293,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Intuitive Surgical ✓ | Robotics and Controls Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | Sunnyvale, CA, United States | C++, MATLAB | Nov 10, 2026 |
+| Hewlett Packard Enterprise ✓ | Wireless Hardware Engineering Intern 🆕 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | San Jose +2 more | Python, MATLAB, HTML/CSS | Nov 09, 2026 |
 | Intuitive Surgical ✓ | Electrical Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) | Sunnyvale, CA, United States | No skills listed | Nov 09, 2026 |
 | RTX | Digital Hardware Design Engineer Co-op (Winter/Spring)(On​site) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Winter-Spring--Onsite-_01871518) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Nov 09, 2026 |
 | Marathon Petroleum ✓ | Electrical Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion) 🆕 | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Electrical-Engineer-I---Midstream-Natural-Gas---NGL-Services--Intern-to-Full-Time-Conversion-_00024745) | Canonsburg, Pennsylvania | No skills listed | Nov 09, 2026 |
@@ -337,7 +338,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Marvell | Design Verification- Intern | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/IL---Petah-Tikva/Design-Verification--Intern_2604486) | IL - Petah Tikva | Python, C++, Verilog | Oct 27, 2026 |
 | Mayo Clinic ✓ | Graduate Engineering Intern - Electronics | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) | Rochester, MN, United States | No skills listed | Oct 27, 2026 |
 | Avav | Electrical Engineering Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Electrical-Engineering-Intern_9185) | Sunrise, FL | Python, C++, C#, Git | Oct 26, 2026 |
-| Hewlett Packard Enterprise ✓ | Hardware Engineering Intern | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Engineering-Intern_1214067) | Sunnyvale +2 more | Python, HTML/CSS, Linux | Oct 26, 2026 |
 | Global Infrastruc​ture | Intern, Electrical Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Electrical-Designer_6599) | CA / ON / Toronto - 380 Wellington Stre… | No skills listed | Oct 26, 2026 |
 | Parallel Systems | Software Engineering Intern (Embedded, Backend, Fullstack) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Los Angeles, CA | Python, C++, Rust, TypeScript | Oct 26, 2026 |
 | Cisco | Hardware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
@@ -360,7 +360,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Avav | Electrical Engineering Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/San-Diego-CA/Electrical-Engineering-Intern_9143) | San Diego, CA | Python, C++, C#, MATLAB | Oct 20, 2026 |
 | Heidelberg Materials | Electrical Engineer Intern | [Apply](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Lexington-SC/Electrical-Engineer-Intern_JR10019490) | Lexington, SC | No skills listed | Oct 20, 2026 |
 | Mii | Electrical Engineering Intern | [Apply](https://mii.wd5.myworkdayjobs.com/universityrecruiting/job/Earth-City-Missouri-USA/Electrical-Engineering-Intern_R06665-5) | Earth City, Missouri, USA | No skills listed | Oct 20, 2026 |
-| Allegion | Summer Intern - Advanced Manufactur​ing Engineering – Electrical Engineering | [Apply](https://allegion.wd5.myworkdayjobs.com/earlytalent_careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering---Electrical-Engineering_JR37429) | Carmel, IN | No skills listed | Oct 19, 2026 |
+| Allegion | Summer Intern - Advanced Manufactur​ing Engineering – Electrical Engineering | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering---Electrical-Engineering_JR37429-1) | Carmel, IN | No skills listed | Oct 19, 2026 |
 | Applied Materials ✓ | Electrical Engineer Intern | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Electrical-Engineer-Intern_R2631303) | Tempe,AZ | No skills listed | Oct 19, 2026 |
 | Ameren | Power Emphasis Electrical Engineering Co-Op | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Power-Emphasis-Electrical-Engineering-Co-Op_034322-1) | St. Louis, MO | No skills listed | Oct 19, 2026 |
 | Micron Technology ✓ | Intern - ASIC Digital Design | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163) | Minneapolis, MN | Python, LLMs, Linux | Oct 19, 2026 |
@@ -447,7 +447,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,569 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 911.1s · 561 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,583 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 89% of the full registry) · completed in 986.8s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
