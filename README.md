@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 431 open roles (306 listed below) · 62 new this week
+### 436 open roles (306 listed below) · 67 new this week
 
-4,811 employers tracked · data as of Nov 10, 2026 at 06:46 UTC
+4,811 employers tracked · data as of Nov 10, 2026 at 07:16 UTC
 
-_279 have a cycle the employer stated · 152 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_284 have a cycle the employer stated · 152 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -90,12 +90,13 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Global​Foundries | Controls Engineering Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) | USA - Vermont - Essex Junction | No skills listed | Nov 10, 2026 |
+| Global​Foundries | Silicon Photonics Process Integration Engineering Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) | USA - New York - Malta | No skills listed | Nov 10, 2026 |
 | The Aerospace Corporation | 2027 Power and Analog Circuit Engineering Grad Intern 🇺🇸 🆕 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430) | El Segundo, CA | No skills listed | Nov 09, 2026 |
 | RTX | Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsi​te) 🇺🇸 🆕 | [Apply](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519-2) | US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE… | No skills listed | Nov 09, 2026 |
 | Pivotal Software ✓ | Internship, Electrical Engineering (Summer 2027) 🇺🇸 🆕 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb) | Palo Alto, CA | No skills listed | Nov 09, 2026 |
 | RESPEC | Student Engineering Intern (Mechanical or Electrical) 🆕 | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000160722709) | Anchorage, AK, United States | No skills listed | Nov 09, 2026 |
 | Global​Foundries | Silicon Photonics Test Development Intern (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Test-Development-Intern--Summer-2027-_JR-2604260) | USA - Vermont - Essex Junction | Python, C++, Linux | Nov 06, 2026 |
-| Global​Foundries | Program Management Intern, Silicon Photonics (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) | USA - New York - Malta | No skills listed | Nov 06, 2026 |
 | Sierra Nevada Corporation | Firmware Engineer Intern (Summer 2027) 🇺🇸 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | MATLAB | Nov 05, 2026 |
 | Sierra Nevada Corporation | Electrical Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Electrical-Engineering-Intern--Summer-2027-_R0030743-1) | Hagerstown, MD | MATLAB | Nov 05, 2026 |
 | Jabil ✓ | Low voltage switchgear Electrical Engineering Intern | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Low-voltage-switchgear-Electrical-Engineering-Intern_J2470772) | St. Petersburg/Tampa, FL | No skills listed | Nov 05, 2026 |
@@ -116,7 +117,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Development [Summer 2027] | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | Foster City, CA | Python, MATLAB | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | Foster City, CA | Python | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Manufactur​ing Operations [Summer 2027] | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Python, SQL, Databricks | Nov 02, 2026 |
-| Global​Foundries | PDK Design Engineering Intern, Silicon Photonics (Summer 2027) | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/PDK-Design-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2605133) | USA - New York - Malta | No skills listed | Nov 02, 2026 |
 | Applied Materials ✓ | 2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967) | Santa Clara,CA | No skills listed | Nov 02, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) | San Diego, CA, United States | No skills listed | Nov 02, 2026 |
 | KLA ✓ | Mechatronics Summer Intern | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3) | Ann Arbor, MI | Python | Nov 02, 2026 |
@@ -447,7 +447,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,635 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 90% of the full registry) · completed in 992.6s · 596 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,636 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 943.6s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
