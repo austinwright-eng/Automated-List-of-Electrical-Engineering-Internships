@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 434 open roles (305 listed below) · 64 new this week
+### 435 open roles (305 listed below) · 65 new this week
 
-4,811 employers tracked · data as of Nov 10, 2026 at 16:50 UTC
+4,811 employers tracked · data as of Nov 10, 2026 at 17:17 UTC
 
-_283 have a cycle the employer stated · 151 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_283 have a cycle the employer stated · 152 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -292,6 +292,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| General Dynamics Mission Systems | ASIC/FPGA Engineer - Intern 🇺🇸 🆕 | [Apply](https://careers-gdms.icims.com/jobs/80153/asic-fpga-engineer---intern/job?in_iframe=1) | Scottsdale, AZ, US | No skills listed | Nov 10, 2026 |
 | Intuitive Surgical ✓ | Robotics and Controls Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | Sunnyvale, CA, United States | C++, MATLAB | Nov 10, 2026 |
 | Hewlett Packard Enterprise ✓ | Wireless Hardware Engineering Intern 🆕 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | San Jose +2 more | Python, MATLAB, HTML/CSS | Nov 09, 2026 |
 | Intuitive Surgical ✓ | Electrical Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) | Sunnyvale, CA, United States | No skills listed | Nov 09, 2026 |
@@ -341,7 +342,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Parallel Systems | Software Engineering Intern (Embedded, Backend, Fullstack) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Los Angeles, CA | Python, C++, Rust, TypeScript | Oct 26, 2026 |
 | Cisco | Hardware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375) | San Jose, California, US | Python | Oct 26, 2026 |
 | Lila Sciences | Co-op, Mechatronics Engineer | [Apply](https://job-boards.greenhouse.io/lilasciences/jobs/4465068009) | Cambridge, MA USA | No skills listed | Oct 26, 2026 |
-| General Dynamics Mission Systems | Software Test Engineering Intern - Space and Embedded Crypto 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job?in_iframe=1) | Scottsdale, AZ, US | Python | Oct 26, 2026 |
 | Texas Instruments ✓ | Analog Design Eng Intern _(2 openings)_ | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018682) [#2](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019660) | Santa Clara, CA, United States | No skills listed | Oct 26, 2026 |
 | Analog Devices ✓ | Embedded Systems Co-Op | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) | US, MA, Boston | Python, Rust, Bash, Linux | Oct 26, 2026 |
 | Leidos ✓ | Electrical Design Engineering Intern 🇺🇸 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | No skills listed | Oct 26, 2026 |
@@ -446,7 +446,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,571 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1186.9s · 594 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,631 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 90% of the full registry) · completed in 999.0s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
