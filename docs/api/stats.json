@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T16:42:23Z",
- "fetched_at": "2026-11-11T16:42:23Z",
- "duration_seconds": 1047.4,
+ "generated_at": "2026-11-11T16:59:22Z",
+ "fetched_at": "2026-11-11T16:59:22Z",
+ "duration_seconds": 946.3,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -19,27 +19,26 @@
   "jazzhr": 1,
   "icims": 1
  },
- "quarantined": 474,
- "fetched_ok": 4537,
- "fetch_errors": 97,
+ "quarantined": 494,
+ "fetched_ok": 4546,
+ "fetch_errors": 68,
  "errors_by_source": {
-  "workday": 95,
-  "greenhouse": 1,
-  "workable": 1
+  "workday": 67,
+  "greenhouse": 1
  },
- "fetch_success_rate": 0.979,
- "fetch_success_rate_registry": 0.888,
- "snapshots_complete": 3956,
- "snapshots_partial": 581,
+ "fetch_success_rate": 0.985,
+ "fetch_success_rate_registry": 0.89,
+ "snapshots_complete": 3960,
+ "snapshots_partial": 586,
  "partial_by_reason": {
-  "result-cap": 522,
-  "malformed-response": 59
+  "result-cap": 521,
+  "malformed-response": 65
  },
- "degraded_fetches": 59,
- "roles_matched": 306,
- "dropped_no_year_in_title": 224,
- "dropped_offcycle_by_text": 99,
- "roles_cycle_inferred": 148,
+ "degraded_fetches": 65,
+ "roles_matched": 309,
+ "dropped_no_year_in_title": 221,
+ "dropped_offcycle_by_text": 98,
+ "roles_cycle_inferred": 149,
  "roles_by_source": {
   "amazon": 8,
   "ashby": 15,
@@ -50,18 +49,18 @@
   "oracle": 75,
   "rippling": 4,
   "smartrecruiters": 9,
-  "workday": 231
+  "workday": 232
  },
  "roles_by_cycle": {
   "Summer 2027": 276,
   "Fall 2026": 10,
-  "Not stated": 148
+  "Not stated": 149
  },
  "roles_by_region": {
-  "US": 434
+  "US": 435
  },
  "sponsorship_counts": {
-  "unknown": 314,
+  "unknown": 315,
   "citizens-only": 83,
   "no-sponsorship": 35,
   "offers": 2
@@ -71,7 +70,7 @@
  "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
  "new_this_run": 1,
- "open_total": 434,
+ "open_total": 435,
  "detection_latency": {
   "median_minutes": 21.6,
   "p95_minutes": 800.4,
@@ -84,5 +83,5 @@
   "sample_size": 72
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-11T16:42:24Z"
+ "rendered_at": "2026-11-11T16:59:22Z"
 }
