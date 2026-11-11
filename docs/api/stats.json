@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T15:18:28Z",
- "fetched_at": "2026-11-11T15:18:28Z",
- "duration_seconds": 1034.7,
+ "generated_at": "2026-11-11T15:51:19Z",
+ "fetched_at": "2026-11-11T15:51:19Z",
+ "duration_seconds": 1172.3,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -19,25 +19,24 @@
   "jazzhr": 1,
   "icims": 1
  },
- "quarantined": 467,
- "fetched_ok": 4565,
- "fetch_errors": 76,
+ "quarantined": 469,
+ "fetched_ok": 4581,
+ "fetch_errors": 58,
  "errors_by_source": {
-  "workday": 75,
-  "ashby": 1
+  "workday": 58
  },
- "fetch_success_rate": 0.984,
- "fetch_success_rate_registry": 0.894,
- "snapshots_complete": 3983,
- "snapshots_partial": 582,
+ "fetch_success_rate": 0.987,
+ "fetch_success_rate_registry": 0.897,
+ "snapshots_complete": 3997,
+ "snapshots_partial": 584,
  "partial_by_reason": {
-  "result-cap": 541,
-  "malformed-response": 41
+  "result-cap": 538,
+  "malformed-response": 46
  },
- "degraded_fetches": 41,
- "roles_matched": 308,
- "dropped_no_year_in_title": 213,
- "dropped_offcycle_by_text": 100,
+ "degraded_fetches": 46,
+ "roles_matched": 305,
+ "dropped_no_year_in_title": 248,
+ "dropped_offcycle_by_text": 98,
  "roles_cycle_inferred": 147,
  "roles_by_source": {
   "amazon": 8,
@@ -49,28 +48,28 @@
   "oracle": 75,
   "rippling": 4,
   "smartrecruiters": 9,
-  "workday": 229
+  "workday": 230
  },
  "roles_by_cycle": {
-  "Summer 2027": 275,
+  "Summer 2027": 276,
   "Fall 2026": 10,
   "Not stated": 147
  },
  "roles_by_region": {
-  "US": 432
+  "US": 433
  },
  "sponsorship_counts": {
-  "unknown": 312,
+  "unknown": 313,
   "citizens-only": 83,
   "no-sponsorship": 35,
   "offers": 2
  },
  "posted_date_coverage": 0.991,
- "enriched_this_run": 57,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 58,
+ "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 432,
+ "new_this_run": 1,
+ "open_total": 433,
  "detection_latency": {
   "median_minutes": 21.6,
   "p95_minutes": 800.4,
@@ -83,5 +82,5 @@
   "sample_size": 72
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-11T15:18:28Z"
+ "rendered_at": "2026-11-11T15:51:19Z"
 }
