@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T19:18:49Z",
-  "fetched_at": "2026-11-11T19:18:49Z",
-  "duration_seconds": 1102.6,
+  "generated_at": "2026-11-11T19:44:32Z",
+  "fetched_at": "2026-11-11T19:44:32Z",
+  "duration_seconds": 847.5,
   "companies_total": 5108,
   "companies_by_source": {
     "greenhouse": 1130,
@@ -20,25 +20,24 @@
     "icims": 1
   },
   "quarantined": 534,
-  "fetched_ok": 4539,
-  "fetch_errors": 35,
+  "fetched_ok": 4571,
+  "fetch_errors": 3,
   "errors_by_source": {
-    "workday": 34,
-    "workable": 1
+    "workday": 3
   },
-  "fetch_success_rate": 0.992,
-  "fetch_success_rate_registry": 0.889,
-  "snapshots_complete": 3973,
-  "snapshots_partial": 566,
+  "fetch_success_rate": 0.999,
+  "fetch_success_rate_registry": 0.895,
+  "snapshots_complete": 3994,
+  "snapshots_partial": 577,
   "partial_by_reason": {
-    "result-cap": 514,
+    "result-cap": 525,
     "malformed-response": 52
   },
   "degraded_fetches": 52,
-  "roles_matched": 315,
-  "dropped_no_year_in_title": 240,
-  "dropped_offcycle_by_text": 99,
-  "roles_cycle_inferred": 148,
+  "roles_matched": 325,
+  "dropped_no_year_in_title": 245,
+  "dropped_offcycle_by_text": 100,
+  "roles_cycle_inferred": 149,
   "roles_by_source": {
     "amazon": 8,
     "ashby": 15,
@@ -49,18 +48,18 @@
     "oracle": 75,
     "rippling": 3,
     "smartrecruiters": 9,
-    "workday": 233
+    "workday": 234
   },
   "roles_by_cycle": {
     "Summer 2027": 277,
     "Fall 2026": 10,
-    "Not stated": 148
+    "Not stated": 149
   },
   "roles_by_region": {
-    "US": 435
+    "US": 436
   },
   "sponsorship_counts": {
-    "unknown": 315,
+    "unknown": 316,
     "citizens-only": 83,
     "no-sponsorship": 35,
     "offers": 2
@@ -70,11 +69,11 @@
   "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
   "new_this_run": 1,
-  "open_total": 435,
+  "open_total": 436,
   "detection_latency": {
-    "median_minutes": 25.2,
+    "median_minutes": 28.8,
     "p95_minutes": 800.4,
-    "sample_size": 12,
+    "sample_size": 11,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
@@ -83,5 +82,5 @@
     "sample_size": 73
   },
   "role_scope": "ee",
-  "rendered_at": "2026-11-11T19:18:50Z"
+  "rendered_at": "2026-11-11T19:44:32Z"
 }
