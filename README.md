@@ -8,7 +8,7 @@
 
 ### 443 open roles (315 listed below) · 62 new this week
 
-4,811 employers tracked · data as of Nov 12, 2026 at 03:48 UTC
+4,811 employers tracked · data as of Nov 12, 2026 at 04:07 UTC
 
 _295 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -130,7 +130,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Zoox ✓ | Hardware Engineer Intern, Manufactur​ing Operations [Summer 2027] | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Python, SQL, Databricks | Nov 02, 2026 |
 | Applied Materials ✓ | 2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967) | Santa Clara,CA | No skills listed | Nov 02, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) | San Diego, CA, United States | No skills listed | Nov 02, 2026 |
-| KLA ✓ | Mechatronics Summer Intern | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3) | Ann Arbor, MI | Python | Nov 02, 2026 |
+| KLA ✓ | Mechatronics Summer Intern | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-2) | Ann Arbor, MI | Python | Nov 02, 2026 |
 | RTX | Electrical Engineering Intern (Summer 2027)(Onsi​te) 🇺🇸 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineering-Intern--Summer-2027--Onsite-_01885147) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd… | No skills listed | Nov 02, 2026 |
 | NVIDIA ✓ | VLSI CAD Timing Intern, Applied AI - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | US, CA, Santa Clara | Python | Oct 30, 2026 |
 | WSP | Electrical Engineering Intern -  Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98556) | Milwaukee, WI, United States | No skills listed | Oct 30, 2026 |
@@ -283,7 +283,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600) | Houston, TX, United States | Python | Nov 09, 2026 |
 | WSP | Data Center Electrical Engineering Intern - Fall 2026 - Spring 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97816) | New York, NY, United States | No skills listed | Oct 19, 2026 |
 | Moog | Intern, Embedded Design Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | No skills listed | Sep 11, 2026 |
-| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1) | Burlington, MA | No skills listed | Aug 25, 2026 |
+| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2) | Burlington, MA | No skills listed | Aug 25, 2026 |
 | Mill | Electrical Engineering Intern, Fall/Winter 2026 🛂 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | San Bruno, California | Python | Aug 13, 2026 |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Milpitas, CA | Python, C++, Linux, Git | Apr 14, 2026 |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) | Los Angeles, CA | MATLAB | Mar 30, 2026 |
@@ -297,7 +297,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
-| KLA ✓ | Electrical Engineering Intern 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) | Ann Arbor, MI | No skills listed | Nov 11, 2026 |
+| KLA ✓ | Electrical Engineering Intern 🆕 | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) | Ann Arbor, MI | No skills listed | Nov 11, 2026 |
 | Badger Meter | Electronics/Electrical Engineering Internship 🆕 | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Racine-Facility/Electronics-Electrical-Engineering-Internship_4633) | US - WI - Racine Facility | No skills listed | Nov 11, 2026 |
 | Bose ✓ | Digital Signal Processing ML Software Development Co-op 🆕 | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) | US, MA - Framingham | Python, MATLAB | Nov 11, 2026 |
 | Entrust | Electrical Engineer Co-op 🆕 | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) | United States - Shakopee, MN (GHQ) | No skills listed | Nov 11, 2026 |
@@ -310,7 +310,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Intuitive Surgical ✓ | Electrical Engineering Intern | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) | Sunnyvale, CA, United States | No skills listed | Nov 09, 2026 |
 | Marathon Petroleum ✓ | Electrical Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion) | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Electrical-Engineer-I---Midstream-Natural-Gas---NGL-Services--Intern-to-Full-Time-Conversion-_00024745) | Canonsburg, Pennsylvania | No skills listed | Nov 09, 2026 |
 | General Dynamics Mission Systems | FPGA Engineer Intern 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/78722/fpga-engineer-intern/job?in_iframe=1) | Scottsdale, AZ, US | No skills listed | Nov 09, 2026 |
-| KLA ✓ | Electrical Engineering Intern | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Engineering-Intern_2641972-1) | Milpitas, CA | Python | Nov 09, 2026 |
+| KLA ✓ | Electrical Engineering Intern | [Apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Electrical-Engineering-Intern_2641972) | Milpitas, CA | Python | Nov 09, 2026 |
 | Viavi Solutions ✓ | Digital Hardware Engineering Intern | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Lenexa-KS-USA/Digital-Hardware-Engineering-Intern_260005289-1) | Lenexa, KS, USA | No skills listed | Nov 09, 2026 |
 | Agiliti | DOD SkillBridge Instrument​ation Surgical Equipment Repair Technician Internship | [Apply](https://agiliti.wd5.myworkdayjobs.com/careers/job/Novi-MI---Lab/DOD-SkillBridge-Instrumentation-Surgical-Equipment-Repair-Technician-Internship_JR33659) | Novi MI - Lab | No skills listed | Nov 09, 2026 |
 | Hewlett Packard Enterprise ✓ | Electrical Hardware Engineer Intern | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-Intern_1214992) | Sunnyvale +2 more | Python, HTML/CSS, Linux | Nov 08, 2026 |
@@ -454,7 +454,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,565 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1063.4s · 574 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,541 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 1105.5s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
