@@ -8,7 +8,7 @@
 
 ### 443 open roles (315 listed below) · 62 new this week
 
-4,811 employers tracked · data as of Nov 12, 2026 at 02:46 UTC
+4,811 employers tracked · data as of Nov 12, 2026 at 03:18 UTC
 
 _295 have a cycle the employer stated · 148 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -106,7 +106,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Momentive ✓ | 2027 Co-Op - Electronics & Aerospace 🆕 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/XMLNAME-2027-Co-Op---Electronics---Aerospace_R10058) | US NY Waterford | No skills listed | Nov 10, 2026 |
 | Global​Foundries | Silicon Photonics Process Integration Engineering Intern (Summer 2027) 🆕 _(2 openings)_ | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605135) [#2](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Process-Integration-Engineering-Intern--Summer-2027-_JR-2605134) | USA - New York - Malta | No skills listed | Nov 10, 2026 |
 | Global​Foundries | Controls Engineering Intern (Summer 2027) 🆕 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647) | USA - Vermont - Essex Junction | No skills listed | Nov 10, 2026 |
-| The Aerospace Corporation | 2027 Power and Analog Circuit Engineering Grad Intern 🇺🇸 🆕 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430) | El Segundo, CA | No skills listed | Nov 09, 2026 |
+| The Aerospace Corporation | 2027 Power and Analog Circuit Engineering Grad Intern 🇺🇸 | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430) | El Segundo, CA | No skills listed | Nov 09, 2026 |
 | Pivotal Software ✓ | Internship, Electrical Engineering (Summer 2027) 🇺🇸 | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb) | Palo Alto, CA | No skills listed | Nov 09, 2026 |
 | RESPEC | Student Engineering Intern (Mechanical or Electrical) | [Apply](https://jobs.smartrecruiters.com/RESPECInc/744000160722709) | Anchorage, AK, United States | No skills listed | Nov 09, 2026 |
 | Sierra Nevada Corporation | Firmware Engineer Intern (Summer 2027) 🇺🇸 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | MATLAB | Nov 05, 2026 |
@@ -306,7 +306,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Analog Devices ✓ | Mechatronics Engineering Intern 🆕 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831) | US, OR, Beaverton | Python, C++, MATLAB | Nov 10, 2026 |
 | REGENT | Embedded Software Engineering Intern (Summer) 🆕 | [Apply](https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7) | North Kingstown, Rhode Island, USA | Python, C++, Git | Nov 10, 2026 |
 | Intuitive Surgical ✓ | Robotics and Controls Engineering Intern | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160747319) | Sunnyvale, CA, United States | C++, MATLAB | Nov 10, 2026 |
-| Hewlett Packard Enterprise ✓ | Wireless Hardware Engineering Intern 🆕 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | San Jose +2 more | Python, MATLAB, HTML/CSS | Nov 09, 2026 |
+| Hewlett Packard Enterprise ✓ | Wireless Hardware Engineering Intern | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701) | San Jose +2 more | Python, MATLAB, HTML/CSS | Nov 09, 2026 |
 | Intuitive Surgical ✓ | Electrical Engineering Intern | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000160746789) | Sunnyvale, CA, United States | No skills listed | Nov 09, 2026 |
 | Marathon Petroleum ✓ | Electrical Engineer I - Midstream Natural Gas & NGL Services (Intern to Full-Time Conversion) | [Apply](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Canonsburg-Pennsylvania/Electrical-Engineer-I---Midstream-Natural-Gas---NGL-Services--Intern-to-Full-Time-Conversion-_00024745) | Canonsburg, Pennsylvania | No skills listed | Nov 09, 2026 |
 | General Dynamics Mission Systems | FPGA Engineer Intern 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/78722/fpga-engineer-intern/job?in_iframe=1) | Scottsdale, AZ, US | No skills listed | Nov 09, 2026 |
@@ -454,7 +454,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,580 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 972.5s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,564 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1084.5s · 569 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
