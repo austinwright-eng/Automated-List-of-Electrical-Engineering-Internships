@@ -8,7 +8,7 @@
 
 ### 436 open roles (307 listed below) · 61 new this week
 
-4,811 employers tracked · data as of Nov 13, 2026 at 15:15 UTC
+4,811 employers tracked · data as of Nov 13, 2026 at 15:51 UTC
 
 _296 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -401,7 +401,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Cisco | Firmware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard, Massachuse​tts, US | Python, C++, Linux, Git | Sep 29, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 28 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -434,7 +434,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | General Dynamics Mission Systems | Electrical Engineer Internship (Summer 2027) | Summer 2027 | 2026-11-03 | gone from feed |
 | S&C Electric Company | Electrical Engineer Co-Op | Fall 2026 | 2026-10-31 | gone from feed |
 | Rocket Lab | RF Engineering Intern Summer 2027 | Summer 2027 | 2026-10-30 | gone from feed |
-| S&C Electric Company | Power Systems Control Intern | Summer 2027 | 2026-10-30 | gone from feed |
 
 </details>
 
@@ -453,7 +452,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,658 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 908.2s · 638 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,658 of 5,108 registered boards returned successfully across 14 ATS platforms (100% of boards attempted, 91% of the full registry) · completed in 1169.0s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
