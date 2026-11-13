@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 445 open roles (309 listed below) · 67 new this week
+### 445 open roles (310 listed below) · 68 new this week
 
-4,811 employers tracked · data as of Nov 13, 2026 at 21:20 UTC
+4,811 employers tracked · data as of Nov 13, 2026 at 21:47 UTC
 
 _300 have a cycle the employer stated · 145 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -90,6 +90,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Lightmatter | Hardware Test Engineering, Intern (Summer 2027) 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | Mountain View, CA | Python | Nov 13, 2026 |
 | Renesas Electronics | PMIC Analog Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999) | San Jose, CALIFORNIA, United States | No skills listed | Nov 13, 2026 |
 | Reliable Robotics | FPGA Engineering Intern (Summer 2027) 🆕 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54) | Mountain View, CA | Python, C++, Verilog | Nov 13, 2026 |
 | Reliable Robotics | Avionics Intern (Summer 2027) 🆕 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee) | Mountain View, CA | Python, MATLAB | Nov 13, 2026 |
@@ -159,7 +160,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | HP IQ | Electrical Engineering Intern, Hardware (Summer 2027) | [Apply](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | San Francisco, CA | Python | Oct 26, 2026 |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | [Apply](https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007) | Los Angeles, CA | No skills listed | Oct 26, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
-| General Dynamics Mission Systems | Electrical Engineer Co-Op (May - December 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/74599/electrical-engineer-co-op-%28may---december-2027%29/job?in_iframe=1) | Mc​Leansville, NC, US | No skills listed | Oct 26, 2026 |
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Santa Clara, CA | Python, MATLAB | Oct 23, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
 | American Electric Power ✓ | Electrical Engineering Intern- Summer 2027 🛂 | [Apply](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Electrical-Engineering-Intern--Summer-2027_R20503) | Columbus, OH | No skills listed | Oct 22, 2026 |
@@ -225,12 +225,12 @@ If it helps you, a star means a lot and tells me to keep going.
 | Mach Industries | Summer 2027 Engineering Internship, Electrical 🛂 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4420623009) | Huntington Beach +5 more | No skills listed | Sep 25, 2026 |
 | Zurn Elkay Water Solutions | Embedded Hardware Intern (Summer 2027) | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151) | Milwaukee, WI | No skills listed | Sep 25, 2026 |
 | Stanley Black & Decker ✓ | Electrical Engineering Intern Summer 2027 🛂 | [Apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018) | Towson, MD, United States | No skills listed | Sep 24, 2026 |
+| General Dynamics Mission Systems | Electrical Intern Engineer 🇺🇸 _(2 openings)_ | [Apply](https://careers-gdms.icims.com/jobs/75110/electrical-intern-engineer/job?in_iframe=1) [#2](https://careers-gdms.icims.com/jobs/75111/electrical-intern-engineer/job?in_iframe=1) | Canonsburg, PA, US | No skills listed | Sep 22, 2026 |
 | Xcimer Energy | Summer 2027 Internship - Controls Systems Engineering 🇺🇸 | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) | Denver, CO | No skills listed | Sep 22, 2026 |
 | Formlabsin​ternships | Embedded Software Intern (Summer 2027) | [Apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268) | Somerville, MA | Python, C++, Linux | Sep 21, 2026 |
 | Rocket Lab | Electrical Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) | Pasadena, CA | No skills listed | Sep 17, 2026 |
 | Rendezvous Robotics | Avionics Engineering Intern (Summer 2027) | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) | Golden, CO | No skills listed | Sep 16, 2026 |
 | Rehiko | Electrical Engineering Intern 2027 | [Apply](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Electrical-Engineering-Intern-2027_R04824) | Sheboygan,WI | No skills listed | Sep 16, 2026 |
-| Lightmatter | Silicon, Hardware, & Photonics Engineering Intern – Summer 2027 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008) | Boston, MA; Mountain View, CA | No skills listed | Sep 15, 2026 |
 | AspenTech | Power System Engineering Intern - Digital Grid Management - Summer 2027 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458) | Medina, Minnesota | Python, Linux | Sep 15, 2026 |
 | nVent | Electrical Engineering Co-Op (June - Dec 2027) | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Electrical-Engineering-Co-Op_R23593) | Solon, OH, US | MATLAB | Sep 15, 2026 |
 | Bedrock Robotics | 2027 Internship Hardware Engineer, Machine Integration & Test | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9) | San Francisco, CA | No skills listed | Sep 14, 2026 |
@@ -405,12 +405,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Cisco | Firmware Engineer II (Co-op) - United States | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913) | Maynard, Massachuse​tts, US | Python, C++, Linux, Git | Sep 29, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| General Dynamics Mission Systems | Electrical Engineer Co-Op (May - December 2027) | Summer 2027 | 2026-11-13 | gone from feed |
 | Shield AI | Summer 2027 - Electrical Engineering Intern | Summer 2027 | 2026-11-13 | gone from feed |
 | Shield AI | June 2027 Co-0p - Electrical Engineering Intern | Summer 2027 | 2026-11-13 | gone from feed |
 | Shield AI | 2027 June Co-op - Hardware Test - #6426 | Summer 2027 | 2026-11-13 | gone from feed |
@@ -458,7 +459,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,525 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 1203.7s · 539 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,512 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 88% of the full registry) · completed in 1004.3s · 531 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

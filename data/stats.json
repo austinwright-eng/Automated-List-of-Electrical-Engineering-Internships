@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T21:20:36Z",
-  "fetched_at": "2026-11-13T21:20:36Z",
-  "duration_seconds": 1203.7,
+  "generated_at": "2026-11-13T21:47:08Z",
+  "fetched_at": "2026-11-13T21:47:08Z",
+  "duration_seconds": 1004.3,
   "companies_total": 5108,
   "companies_by_source": {
     "greenhouse": 1130,
@@ -19,31 +19,34 @@
     "jazzhr": 1,
     "icims": 1
   },
-  "quarantined": 527,
-  "fetched_ok": 4525,
-  "fetch_errors": 56,
+  "quarantined": 523,
+  "fetched_ok": 4512,
+  "fetch_errors": 73,
   "errors_by_source": {
-    "workday": 55,
-    "workable": 1
+    "workday": 63,
+    "ashby": 3,
+    "workable": 4,
+    "greenhouse": 2,
+    "rippling": 1
   },
-  "fetch_success_rate": 0.988,
-  "fetch_success_rate_registry": 0.886,
-  "snapshots_complete": 3986,
-  "snapshots_partial": 539,
+  "fetch_success_rate": 0.984,
+  "fetch_success_rate_registry": 0.883,
+  "snapshots_complete": 3981,
+  "snapshots_partial": 531,
   "partial_by_reason": {
-    "result-cap": 487,
-    "malformed-response": 52
+    "result-cap": 490,
+    "malformed-response": 41
   },
-  "degraded_fetches": 52,
-  "roles_matched": 295,
-  "dropped_no_year_in_title": 215,
-  "dropped_offcycle_by_text": 90,
+  "degraded_fetches": 41,
+  "roles_matched": 297,
+  "dropped_no_year_in_title": 230,
+  "dropped_offcycle_by_text": 88,
   "roles_cycle_inferred": 145,
   "roles_by_source": {
     "amazon": 8,
     "ashby": 20,
-    "greenhouse": 59,
-    "icims": 16,
+    "greenhouse": 60,
+    "icims": 15,
     "lever": 15,
     "oracle": 79,
     "rippling": 3,
@@ -59,8 +62,8 @@
     "US": 445
   },
   "sponsorship_counts": {
-    "unknown": 327,
-    "citizens-only": 83,
+    "unknown": 328,
+    "citizens-only": 82,
     "no-sponsorship": 33,
     "offers": 2
   },
@@ -71,16 +74,16 @@
   "new_this_run": 1,
   "open_total": 445,
   "detection_latency": {
-    "median_minutes": 20.2,
-    "p95_minutes": 800.4,
-    "sample_size": 20,
+    "median_minutes": 19.9,
+    "p95_minutes": 800.2,
+    "sample_size": 21,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 24,
-    "sample_size": 81
+    "median_days": 23.5,
+    "sample_size": 82
   },
   "role_scope": "ee",
-  "rendered_at": "2026-11-13T21:20:36Z"
+  "rendered_at": "2026-11-13T21:47:08Z"
 }
