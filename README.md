@@ -8,7 +8,7 @@
 
 ### 446 open roles (311 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Nov 14, 2026 at 21:40 UTC
+4,811 employers tracked · data as of Nov 14, 2026 at 21:56 UTC
 
 _300 have a cycle the employer stated · 146 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -98,7 +98,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Reliable Robotics | Hardware Test Engineering Intern (Summer 2027) 🆕 | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e) | Mountain View, CA | Python, C++, MATLAB | Nov 13, 2026 |
 | Lightmatter | Physical Design, Intern (Summer 2027) 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Python | Nov 13, 2026 |
 | Global Infrastruc​ture | Intern Electrical Engineering Designer 🆕 | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Electrical-Engineering-Designer_6746) | US / IL / Chicago - 200 South Wacker Dr… | MATLAB | Nov 12, 2026 |
-| CACI | Embedded Software Development Intern - Summer 2027 🆕 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Denver, CO, US | Python, C++, Rust, MATLAB | Nov 12, 2026 |
+| CACI | Embedded Software Development Intern - Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Denver, CO, US | Python, C++, Rust, MATLAB | Nov 12, 2026 |
 | ABB ✓ | Electrical Engineering Co-op- Summer 2027 🛂 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Electrical-Engineering-Co-op--Summer-2027_JR00051091) | USA, NC, Mebane | No skills listed | Nov 12, 2026 |
 | WSP | Electrical Engineering (Substation) Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94171) | Freeport +5 more | No skills listed | Nov 12, 2026 |
 | Entegris ✓ | Embedded Software Engineering Intern | [Apply](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) | Bloomington, MN | Python, C++, Git | Nov 12, 2026 |
@@ -459,7 +459,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,467 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 87% of the full registry) · completed in 905.3s · 496 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,478 of 5,108 registered boards returned successfully across 14 ATS platforms (99% of boards attempted, 87% of the full registry) · completed in 887.7s · 497 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
