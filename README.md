@@ -8,7 +8,7 @@
 
 ### 440 open roles (305 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Nov 15, 2026 at 21:36 UTC
+4,811 employers tracked · data as of Nov 15, 2026 at 21:54 UTC
 
 _300 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -90,7 +90,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
-| Lightmatter | Hardware Test Engineering, Intern (Summer 2027) 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | Mountain View, CA | Python | Nov 13, 2026 |
+| Lightmatter | Hardware Test Engineering, Intern (Summer 2027) | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008) | Mountain View, CA | Python | Nov 13, 2026 |
 | Renesas Electronics | PMIC Analog Intern | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999) | San Jose, CALIFORNIA, United States | No skills listed | Nov 13, 2026 |
 | Reliable Robotics | FPGA Engineering Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54) | Mountain View, CA | Python, C++, Verilog | Nov 13, 2026 |
 | Reliable Robotics | Avionics Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee) | Mountain View, CA | Python, MATLAB | Nov 13, 2026 |
@@ -453,7 +453,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,598 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 1052.2s · 588 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,587 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1050.3s · 579 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
