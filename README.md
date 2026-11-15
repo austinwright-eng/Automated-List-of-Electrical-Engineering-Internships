@@ -8,7 +8,7 @@
 
 ### 440 open roles (305 listed below) · 69 new this week
 
-4,811 employers tracked · data as of Nov 15, 2026 at 20:48 UTC
+4,811 employers tracked · data as of Nov 15, 2026 at 21:17 UTC
 
 _300 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -396,7 +396,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Arcadis | Electrical Engineer Intern | [Apply](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44732) | Phoenix, AZ, United States | No skills listed | Oct 06, 2026 |
 | Nokia | ASIC Physical Design Coop | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122) | United States | Python, C++ | Oct 06, 2026 |
 | Nokia | Mixed Signal Circuit Design Coop | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222) | United States | Verilog | Oct 06, 2026 |
-| Aurora Innovation ✓ | Embedded Software Engineer Intern — Lidar 🆕 | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868) | Bozeman, MT | Python, C++, Pandas, Linux | Oct 01, 2026 |
+| Aurora Innovation ✓ | Embedded Software Engineer Intern — Lidar | [Apply](https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868) | Bozeman, MT | Python, C++, Pandas, Linux | Oct 01, 2026 |
 | BGE | AUSTIN - Electrical Engineer-Power Systems, Internship | [Apply](https://job-boards.greenhouse.io/bgeinccampus/jobs/5441464008) | 101 W Louis Henna Blvd +3 more | No skills listed | Oct 01, 2026 |
 
 <details>
@@ -453,7 +453,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,592 of 5,108 registered boards returned successfully across 14 ATS platforms (98% of boards attempted, 89% of the full registry) · completed in 1095.2s · 586 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,535 of 5,108 registered boards returned successfully across 14 ATS platforms (97% of boards attempted, 88% of the full registry) · completed in 1069.6s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
