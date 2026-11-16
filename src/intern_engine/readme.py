@@ -20,6 +20,7 @@ from . import (
     filters,
     grouping,
     h1b,
+    health,
     paths,
     priority,
     radar,
@@ -56,6 +57,8 @@ def _engine_metrics() -> str:
     coverage = stats.get("posted_date_coverage")
     if coverage is not None:
         line += f" · employer or source-derived date on {int(coverage * 100)}% of open roles"
+    if health.workday_outage_coverage(stats) is not None:
+        line += " · Workday coverage degraded, with some previously listed roles unverified"
     return line + "._"
 
 

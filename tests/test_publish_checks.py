@@ -40,6 +40,36 @@ def test_ci_allows_historical_count_but_still_rejects_corrupt_registry(
         verify_accuracy.registry_drift(1)
 
 
+@pytest.mark.parametrize(
+    ("fetched", "workday_errors", "workday_quarantined", "allowed"),
+    [
+        (2999, 1709, 100, True),   # outside Workday: 2938 / 3238
+        (2500, 1709, 100, False),  # other providers also degraded
+        (2999, 50, 100, False),    # few Workday errors
+        (2999, 180, 1600, False),  # Workday was mostly quarantined
+        (2999, 1709, None, False), # old snapshot lacks outage evidence
+    ],
+)
+def test_registry_coverage_during_workday_outage(
+    fetched, workday_errors, workday_quarantined, allowed,
+):
+    stats = {
+        "companies_total": 5108,
+        "companies_by_source": {"workday": 1870, "other": 3238},
+        "fetched_ok": fetched,
+        "quarantined": max(371, workday_quarantined or 0),
+        "errors_by_source": {"workday": workday_errors},
+        "workday_quarantined": workday_quarantined,
+        "fetch_success_rate_registry": fetched / 5108,
+    }
+    gates, warnings = [], []
+    verify_accuracy.check_registry_coverage(stats, gates, warnings)
+    if allowed:
+        assert not gates and "[workday-outage]" in warnings[0]
+    else:
+        assert not warnings and "[registry-decay]" in gates[0]
+
+
 @pytest.fixture
 def no_email(monkeypatch):
     for name in ("BREVO_API_KEY", "SUPABASE_URL", "SUPABASE_SERVICE_KEY", "MAIL_FROM"):

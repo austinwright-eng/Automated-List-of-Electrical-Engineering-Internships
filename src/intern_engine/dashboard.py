@@ -14,7 +14,7 @@ from datetime import UTC, datetime
 from html import escape
 from zoneinfo import ZoneInfo
 
-from . import config, filters, grouping, h1b, paths, radar, sponsorship, trends
+from . import config, filters, grouping, h1b, health, paths, radar, sponsorship, trends
 
 
 def _hero(stats: dict, open_jobs: list[dict], proven_roles: int) -> str:
@@ -410,6 +410,11 @@ def generate(store_data: dict, stats: dict) -> None:
         cat = r.get("category") or "Other"
         by_category[cat] = by_category.get(cat, 0) + 1
 
+    coverage_notice = (
+        '<p role="status">Workday coverage is degraded. Some previously listed '
+        'Workday roles could not be reverified in this update.</p>'
+        if health.workday_outage_coverage(stats) is not None else ""
+    )
     html_doc = f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -678,6 +683,7 @@ def generate(store_data: dict, stats: dict) -> None:
     <h1>{escape(region)} {escape(config.scope_label(cfg))} internships</h1>
     <p class="sub">Read straight from {stats.get('companies_total', 0):,} employer
     job boards. Data as of {escape(updated)}.</p>
+  {coverage_notice}
     <p class="links"><a href="feed.xml">RSS</a> · <a href="api/jobs.json">JSON API</a>
     · <a href="internships.csv">CSV</a> ·
     <a href="https://github.com/{escape(repo)}">source</a> ·

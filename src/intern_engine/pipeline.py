@@ -188,7 +188,7 @@ async def _fetch_all(companies: list[dict], enrich_after):
             return result
 
         async def worker(company: dict):
-            ats = company["ats"]
+            ats = company.get("ats")
             if ats == "workday":
                 async with workday_gate:
                     return await fetch_board(company, workday_net)
@@ -196,15 +196,22 @@ async def _fetch_all(companies: list[dict], enrich_after):
 
         try:
             results = await asyncio.gather(*(worker(c) for c in companies))
-            workday_http_errors: Counter[str] = Counter()
+            workday_errors: Counter[str] = Counter()
             for company, _result, error in results:
-                if company["ats"] == "workday" and error:
+                if company.get("ats") == "workday" and error:
                     status = re.match(r"HTTPStatusError: (?:Client|Server) error '(\d{3})'", error)
+                    kind = re.match(r"[\w-]+:", error)
                     if status:
-                        workday_http_errors[status.group(1)] += 1
-            if workday_http_errors:
-                counts = dict(sorted(workday_http_errors.items()))
-                print(f"Workday fetch errors by HTTP status: {counts}", flush=True)
+                        reason = f"HTTP {status.group(1)}"
+                    elif kind:
+                        reason = kind.group().rstrip(":")
+                    elif error.startswith("board deadline exceeded"):
+                        reason = "board deadline exceeded"
+                    else:
+                        reason = "connector error"
+                    workday_errors[reason] += 1
+            if workday_errors:
+                print(f"Workday fetch errors: {dict(workday_errors.most_common())}", flush=True)
             enrich_result = await enrich_after(results, default_net, workday_net)
             return results, enrich_result
         finally:
@@ -790,10 +797,6 @@ def run_update() -> tuple[dict, dict, list[str]]:
         _fetch_all(active, _enrich_stage)
     )
 
-    for company, result, error in results:
-        health.record(health_data, company, _fetch_health_error(result, error))
-    health.save(health_data)
-
     rows = []
     for job in kept:
         row = asdict(job)
@@ -822,6 +825,14 @@ def run_update() -> tuple[dict, dict, list[str]]:
         partial_by_reason,
     )
     stats["role_scope"] = cfg.get("role_scope", "tech")
+    workday_outage = health.workday_outage_coverage(stats) is not None
+    for company, result, error in results:
+        failure = _fetch_health_error(result, error)
+        # An outage is not evidence that a tenant board has gone permanently
+        # bad. Keep probing it on later runs so recovery can be picked up.
+        if failure is None or company["ats"] != "workday" or not workday_outage:
+            health.record(health_data, company, failure)
+    health.save(health_data)
     write_stats(stats)
     _append_history(stats)
     return stats, existing, new_ids
@@ -921,6 +932,7 @@ def _build_stats(companies, benched, succeeded, complete_keys, errors, errors_by
         "companies_total": len(companies),
         "companies_by_source": dict(Counter(c["ats"] for c in companies)),
         "quarantined": len(benched),
+        "workday_quarantined": sum(company["ats"] == "workday" for company in benched),
         "fetched_ok": len(succeeded),
         "fetch_errors": errors,
         "errors_by_source": dict(errors_by_ats),
