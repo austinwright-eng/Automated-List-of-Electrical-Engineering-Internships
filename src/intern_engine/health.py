@@ -26,6 +26,42 @@ _BASE_HOURS = 6         # first quarantine window
 _CAP_HOURS = 72         # never back off longer than this — boards do come back
 
 
+def workday_outage_coverage(stats: dict) -> tuple[int, int] | None:
+    """Return coverage outside Workday when attempts show a widespread outage.
+
+    Require failures on at least three quarters of attempted Workday boards
+    and attempts on at least half its registry. Quarantine alone is no evidence
+    of a current outage. Older snapshots without a Workday quarantine count
+    do not qualify.
+    """
+    companies = stats.get("companies_by_source")
+    errors = stats.get("errors_by_source")
+    if not isinstance(companies, dict) or not isinstance(errors, dict):
+        return None
+    total = stats.get("companies_total")
+    fetched = stats.get("fetched_ok")
+    quarantined = stats.get("quarantined")
+    workday_total = companies.get("workday")
+    workday_errors = errors.get("workday")
+    workday_quarantined = stats.get("workday_quarantined")
+    if any(type(count) is not int or count < 0 for count in (
+        total, fetched, quarantined, workday_total, workday_errors, workday_quarantined,
+    )):
+        return None
+    if not 0 < workday_total < total or workday_quarantined > quarantined:
+        return None
+    attempted = workday_total - workday_quarantined
+    if attempted * 2 < workday_total or not 0 < workday_errors <= attempted:
+        return None
+    if workday_errors * 4 < attempted * 3:
+        return None
+    other_total = total - workday_total
+    other_fetched = fetched - (attempted - workday_errors)
+    if not 0 <= other_fetched <= other_total:
+        return None
+    return other_fetched, other_total
+
+
 class HealthStateCorrupt(RuntimeError):
     """The circuit-breaker state exists but is not safe to overwrite."""
 

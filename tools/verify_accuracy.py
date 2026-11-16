@@ -28,7 +28,7 @@ from xml.etree import ElementTree
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src"))
 
-from intern_engine import config, filters, paths, quality, registry, store  # noqa: E402
+from intern_engine import config, filters, health, paths, quality, registry, store  # noqa: E402
 
 # Publish-gate thresholds. Set well below today's healthy numbers so normal
 # variation never blocks a run — these catch decay and collapse, not a bad
@@ -80,6 +80,27 @@ def registry_drift(companies_total: int) -> str | None:
         return (f"  [registry-drift] stats describe {companies_total} boards, "
                 f"registry has {registry_total}")
     return None
+
+
+def check_registry_coverage(stats: dict, gates: list[str], warnings: list[str]) -> None:
+    # Attempted-board coverage can hide long-term decay from quarantine.
+    rate = stats.get("fetch_success_rate_registry")
+    if not isinstance(rate, (int, float)) or rate >= _MIN_REGISTRY_RATE:
+        return
+    outside = health.workday_outage_coverage(stats)
+    if outside is not None:
+        fetched, total = outside
+        if fetched / total >= _MIN_REGISTRY_RATE:
+            warnings.append(
+                f"  [workday-outage] overall coverage {rate:.1%}; "
+                f"{fetched}/{total} boards outside Workday returned. "
+                "Unreachable listings were not reverified."
+            )
+            return
+    gates.append(
+        f"  [registry-decay] only {rate:.1%} of the full registry returned "
+        f"(floor {_MIN_REGISTRY_RATE:.0%})"
+    )
 
 
 def main() -> None:
@@ -297,15 +318,7 @@ def main() -> None:
         rate = stats.get("fetch_success_rate")
         if isinstance(rate, (int, float)) and rate < 0.5:
             gates.append(f"  [fetch-collapse] only {rate:.0%} of boards responded")
-        # Attempted-board rate alone hides slow rot: quarantined endpoints are
-        # never attempted, so that number stays high while the registry decays
-        # underneath it. Gate on the registry-wide figure too.
-        reg = stats.get("fetch_success_rate_registry")
-        if isinstance(reg, (int, float)) and reg < _MIN_REGISTRY_RATE:
-            gates.append(
-                f"  [registry-decay] only {reg:.1%} of the full registry returned "
-                f"(floor {_MIN_REGISTRY_RATE:.0%}) — quarantined boards are growing"
-            )
+        check_registry_coverage(stats, gates, warnings)
         # A run that read almost nothing completely is not a snapshot worth
         # publishing, even if the roles it did see look fine.
         complete = stats.get("snapshots_complete")
