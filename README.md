@@ -8,7 +8,7 @@
 
 ### 435 open roles (302 listed below) · 67 new this week
 
-4,811 employers tracked · data as of Nov 16, 2026 at 06:15 UTC
+4,811 employers tracked · data as of Nov 16, 2026 at 06:44 UTC
 
 _299 have a cycle the employer stated · 136 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -137,7 +137,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lawrence Livermore National Laboratory (LLNL) | Power Systems Undergradu​ate Intern - Cyber and Critical Infrastruc​ture Summer Institute - Summer 2027 🇺🇸 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016610446) | Livermore, CA, United States | Python, C++, MATLAB | Nov 04, 2026 |
 | Zurn Elkay Water Solutions | Electrical & Electronics Engineering Intern (Summer 2027) | [Apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) | Downers Grove, IL | No skills listed | Nov 03, 2026 |
 | Westlake | Process Control Engineer Intern (Summer 2027) 🛂 | [Apply](https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Calvert-City-KY/Process-Control-Engineer-Intern--Summer-2027-_R33711-1) | US - Calvert City, KY | No skills listed | Nov 03, 2026 |
-| Marvell | Hardware Signal Integrity Intern, MS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) | Santa Clara, CA | No skills listed | Nov 03, 2026 |
+| Marvell | Hardware Signal Integrity Intern, MS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) | Santa Clara, CA | No skills listed | Nov 03, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Development [Summer 2027] | [Apply](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | Foster City, CA | Python, MATLAB | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Vehicle Systems [Summer 2027] | [Apply](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | Foster City, CA | Python | Nov 02, 2026 |
 | Zoox ✓ | Hardware Engineer Intern, Manufactur​ing Operations [Summer 2027] | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Python, SQL, Databricks | Nov 02, 2026 |
@@ -163,7 +163,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Santa Clara, CA | Python, MATLAB | Oct 23, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Madison, WI 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Electrical-Engineering-Intern---Madison--WI_R-16460) | Madison, WI | No skills listed | Oct 21, 2026 |
-| Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) | Santa Clara, CA | Python | Oct 21, 2026 |
+| Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1) | Santa Clara, CA | Python | Oct 21, 2026 |
 | Smith+Nephew ✓ | Intern Electrical Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957) | Andover, MA | No skills listed | Oct 21, 2026 |
 | Smith+Nephew ✓ | Co-Op Embedded Software Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Andover, MA | C++, Computer Vision | Oct 21, 2026 |
 | Skydio ✓ | Electrical Engineer Intern | [Apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) | San Mateo, California, United States | No skills listed | Oct 20, 2026 |
@@ -451,7 +451,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,202 of 5,108 registered boards returned successfully across 14 ATS platforms (94% of boards attempted, 82% of the full registry) · completed in 884.1s · 442 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,318 of 5,108 registered boards returned successfully across 14 ATS platforms (93% of boards attempted, 84% of the full registry) · completed in 827.1s · 539 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 
