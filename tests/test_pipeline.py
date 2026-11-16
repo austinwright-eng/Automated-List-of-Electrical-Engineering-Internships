@@ -31,6 +31,41 @@ def test_board_deadline_releases_a_stuck_fetch(monkeypatch):
     assert error == "board deadline exceeded (0.001s)"
 
 
+def test_workday_board_limit_leaves_global_slots_for_other_providers(monkeypatch):
+    monkeypatch.delenv("WORKDAY_PROXY", raising=False)
+    monkeypatch.setattr(pipeline, "GLOBAL_CONCURRENCY", 4)
+    monkeypatch.setattr(pipeline, "WORKDAY_BOARD_CONCURRENCY", 2)
+    active = 0
+    peak = 0
+    other_finished = False
+
+    async def exercise():
+        other_ready = asyncio.Event()
+
+        async def fetch(company, _net):
+            nonlocal active, peak, other_finished
+            if company["ats"] == "workday":
+                active += 1
+                peak = max(peak, active)
+                await other_ready.wait()
+                active -= 1
+            else:
+                other_finished = True
+                other_ready.set()
+            return company, Fetch(), None
+
+        async def enrich(results, _net, _workday_net):
+            assert len(results) == 7
+
+        companies = [{"ats": "workday"} for _ in range(6)] + [{"ats": "greenhouse"}]
+        monkeypatch.setattr(pipeline, "_fetch_bounded", fetch)
+        await asyncio.wait_for(pipeline._fetch_all(companies, enrich), timeout=2)
+
+    asyncio.run(exercise())
+    assert peak == 2
+    assert other_finished
+
+
 class TestParseIso:
     def test_z_suffix_is_utc_aware(self):
         dt = _parse_iso("2026-07-15T21:00:00Z")

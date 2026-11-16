@@ -80,6 +80,9 @@ PER_HOST_CONCURRENCY = 8
 # aggregate headroom below the global cap without turning distinct employers
 # into one eight-request queue.
 PER_PROVIDER_CONCURRENCY = GLOBAL_CONCURRENCY
+# Workday searches paginate across many tenants. Limit active boards before
+# taking a global slot so retry backoff also limits pressure on the provider.
+WORKDAY_BOARD_CONCURRENCY = 16
 BOARD_TIMEOUT_SECONDS = 180
 USER_AGENT = f"intern-engine/3.0 (+https://github.com/{config.repo_slug()})"
 
@@ -156,6 +159,7 @@ async def _fetch_all(companies: list[dict], enrich_after):
         PER_HOST_CONCURRENCY, per_provider=PER_PROVIDER_CONCURRENCY,
     )
     gate = asyncio.Semaphore(GLOBAL_CONCURRENCY)
+    workday_gate = asyncio.Semaphore(WORKDAY_BOARD_CONCURRENCY)
     proxy = os.environ.get("WORKDAY_PROXY") or None
 
     common = dict(
@@ -171,9 +175,8 @@ async def _fetch_all(companies: list[dict], enrich_after):
         workday_net = Net(workday_client, limiter) if workday_client else default_net
         completed = 0
 
-        async def worker(company: dict):
+        async def fetch_board(company: dict, net: Net):
             nonlocal completed
-            net = workday_net if company.get("ats") in ("workday", "oracle") else default_net
             async with gate:
                 result = await _fetch_bounded(company, net)
             completed += 1
@@ -184,8 +187,24 @@ async def _fetch_all(companies: list[dict], enrich_after):
                 )
             return result
 
+        async def worker(company: dict):
+            ats = company["ats"]
+            if ats == "workday":
+                async with workday_gate:
+                    return await fetch_board(company, workday_net)
+            return await fetch_board(company, workday_net if ats == "oracle" else default_net)
+
         try:
             results = await asyncio.gather(*(worker(c) for c in companies))
+            workday_http_errors: Counter[str] = Counter()
+            for company, _result, error in results:
+                if company["ats"] == "workday" and error:
+                    status = re.match(r"HTTPStatusError: (?:Client|Server) error '(\d{3})'", error)
+                    if status:
+                        workday_http_errors[status.group(1)] += 1
+            if workday_http_errors:
+                counts = dict(sorted(workday_http_errors.items()))
+                print(f"Workday fetch errors by HTTP status: {counts}", flush=True)
             enrich_result = await enrich_after(results, default_net, workday_net)
             return results, enrich_result
         finally:
