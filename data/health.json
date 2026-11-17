@@ -1010,8 +1010,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://1x.recruitee.com/api/offers/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "recruitee:coursera": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-11-14T17:28:50Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-11-17T17:51:22Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://coursera.recruitee.com/api/offers/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "rippling:acretrader-jobs": {
@@ -2078,11 +2078,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://erickson.wd108.myworkdayjobs.com/wday/cxs/erickson/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
-  },
-  "workday:evercommerce:evercommerce_careers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://evercommerce.wd1.myworkdayjobs.com/wday/cxs/evercommerce/evercommerce_careers/jobs'\nFor more information check: https://developer"
   },
   "workday:eversource:externalsite": {
     "consecutive_failures": 4,
