@@ -25,8 +25,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
   },
   "ashby:browserbase": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-17T08:19:50Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-17T08:49:37Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/browserbase?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:candidate": {
@@ -1090,8 +1090,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mlabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-17T02:20:08Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-17T08:49:37Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:motia": {
@@ -2828,11 +2828,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-16T01:13:39Z",
     "last_error": "malformed-response"
-  },
-  "workday:selectmilk:selectmilkproducers": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://selectmilk.wd12.myworkdayjobs.com/wday/cxs/selectmilk/selectmilkproducers/jobs'\nFor more information check: https://developer.moz"
   },
   "workday:seminolehardrock:seminolehardrockcareers": {
     "consecutive_failures": 4,
