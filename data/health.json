@@ -414,6 +414,11 @@
     "last_attempt_at": "2026-11-15T10:48:32Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
+  "greenhouse:andurilindustries": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-17T18:21:45Z",
+    "last_error": "ReadTimeout: "
+  },
   "greenhouse:appliedintuition": {
     "consecutive_failures": 39,
     "last_attempt_at": "2026-11-17T16:21:24Z",
@@ -2778,11 +2783,6 @@
     "consecutive_failures": 1,
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "malformed-response"
-  },
-  "workday:turo:turo_careers": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://turo.wd12.myworkdayjobs.com/wday/cxs/turo/Turo_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:tutorperini:external": {
     "consecutive_failures": 4,
