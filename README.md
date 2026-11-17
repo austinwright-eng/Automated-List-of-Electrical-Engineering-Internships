@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 440 open roles (307 listed below) · 52 new this week
+### 440 open roles (307 listed below) · 51 new this week
 
-4,811 employers tracked · data as of Nov 17, 2026 at 19:20 UTC
+4,811 employers tracked · data as of Nov 17, 2026 at 19:51 UTC
 
 _300 have a cycle the employer stated · 140 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -145,7 +145,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Zoox ✓ | Hardware Engineer Intern, Manufactur​ing Operations [Summer 2027] | [Apply](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Python, SQL, Databricks | Nov 02, 2026 |
 | Applied Materials ✓ | 2027 Summer Electrical Engineer Intern- Master's (Santa Clara, CA) | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967) | Santa Clara,CA | No skills listed | Nov 02, 2026 |
 | WSP | Electrical Engineering Intern - Summer 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) | San Diego, CA, United States | No skills listed | Nov 02, 2026 |
-| KLA ✓ | Mechatronics Summer Intern | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3) | Ann Arbor, MI | Python | Nov 02, 2026 |
+| KLA ✓ | Mechatronics Summer Intern | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-2) | Ann Arbor, MI | Python | Nov 02, 2026 |
 | NVIDIA ✓ | VLSI CAD Timing Intern, Applied AI - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) | US, CA, Santa Clara | Python | Oct 30, 2026 |
 | Stratolaunch | Manufactur​ing (Electrical) Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008) | Mojave, California, United States | No skills listed | Oct 30, 2026 |
 | Johnson & Johnson | Electrical Engineering Intern - Robotics R&D 🛂 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Santa Clara +2 more | Python, MATLAB | Oct 29, 2026 |
@@ -307,7 +307,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bloom Energy ✓ | Electrical Engineering Intern (Masters) 🛂 | [Apply](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Electrical-Engineering-Intern--Masters-_JR-25385) | San Jose, California | No skills listed | Nov 13, 2026 |
 | Samsung | Intern, SSD Firmware Development | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203058003) | San Jose, California, United States | Python, C++ | Nov 13, 2026 |
 | Texas Instruments ✓ | Analog Design Eng Intern (GaN Device) | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016345) | Santa Clara, CA, United States | Verilog | Nov 13, 2026 |
-| KLA ✓ | Electrical Engineering Intern | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-2) | Ann Arbor, MI | No skills listed | Nov 11, 2026 |
+| KLA ✓ | Electrical Engineering Intern | [Apply](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2642897-1) | Ann Arbor, MI | No skills listed | Nov 11, 2026 |
 | Badger Meter | Electronics/Electrical Engineering Internship | [Apply](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Racine-Facility/Electronics-Electrical-Engineering-Internship_4633) | US - WI - Racine Facility | No skills listed | Nov 11, 2026 |
 | Bose ✓ | Digital Signal Processing ML Software Development Co-op | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372) | US, MA - Framingham | Python, MATLAB | Nov 11, 2026 |
 | Entrust | Electrical Engineer Co-op | [Apply](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413) | United States - Shakopee, MN (GHQ) | No skills listed | Nov 11, 2026 |
@@ -458,7 +458,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,032 of 5,108 registered boards returned successfully across 14 ATS platforms (63% of boards attempted, 59% of the full registry) · completed in 1208.0s · 92 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,077 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1263.1s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
