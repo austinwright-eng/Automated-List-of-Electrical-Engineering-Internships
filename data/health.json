@@ -1004,16 +1004,6 @@
     "last_attempt_at": "2026-11-17T16:21:24Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:eeho.fa.us2.oraclecloud.com:cx_1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-18T14:22:02Z",
-    "last_error": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocat"
-  },
-  "oracle:eeho.fa.us2.oraclecloud.com:cx_45001": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-18T14:22:02Z",
-    "last_error": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocat"
-  },
   "recruitee:1x": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-11-17T16:21:24Z",
@@ -1094,14 +1084,19 @@
     "last_attempt_at": "2026-11-16T23:47:03Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mindex/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
+  "workable:mistywest": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-18T14:51:25Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "workable:mlabs": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-17T21:20:36Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:motia": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-18T14:22:02Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-18T14:51:25Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:msr-fsr": {
