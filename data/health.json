@@ -260,8 +260,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/odin-dynamics?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:openai": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-11-17T19:20:44Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-11-18T19:42:39Z",
     "last_error": "malformed-response"
   },
   "ashby:orbitalmaterials": {
@@ -2113,11 +2113,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "malformed-response"
-  },
-  "workday:erickson:external": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://erickson.wd108.myworkdayjobs.com/wday/cxs/erickson/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
   },
   "workday:eversource:externalsite": {
     "consecutive_failures": 4,
