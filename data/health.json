@@ -1159,16 +1159,6 @@
     "last_attempt_at": "2026-11-19T06:50:25Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
-  "workable:mlabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-19T05:20:57Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
-  "workable:motia": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-18T23:20:24Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
   "workable:msr-fsr": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-18T15:51:40Z",
@@ -1578,11 +1568,6 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-11-18T00:20:52Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workable:valsoft-corp": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-19T05:20:57Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/valsoft-corp/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "workable:vanguard-ems-inc": {
     "consecutive_failures": 5,
