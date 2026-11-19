@@ -1084,6 +1084,11 @@
     "last_attempt_at": "2026-11-19T00:21:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mindex/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
+  "workable:mlabs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-19T02:49:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
   "workable:motia": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-18T23:20:24Z",
@@ -1110,8 +1115,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/navionsl/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:new-flyer": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-18T14:22:02Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-19T02:49:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/new-flyer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:node": {
@@ -1190,8 +1195,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/porsche-retail-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:praytell": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-18T14:22:02Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-19T02:49:49Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/praytell/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:premium-merchant-funding-3": {
