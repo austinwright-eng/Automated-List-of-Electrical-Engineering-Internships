@@ -1009,6 +1009,11 @@
     "last_attempt_at": "2026-11-17T16:21:24Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "oracle:fa-exew-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-19T14:21:06Z",
+    "last_error": "pagination-stalled"
+  },
   "recruitee:1x": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-11-17T16:21:24Z",
