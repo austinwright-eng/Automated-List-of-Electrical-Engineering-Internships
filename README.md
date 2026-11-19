@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 438 open roles (307 listed below) · 35 new this week
+### 439 open roles (307 listed below) · 36 new this week
 
-4,811 employers tracked · data as of Nov 19, 2026 at 16:20 UTC
+4,811 employers tracked · data as of Nov 19, 2026 at 16:51 UTC
 
-_303 have a cycle the employer stated · 135 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_304 have a cycle the employer stated · 135 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -90,6 +90,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| IMEG ✓ | Electrical Engineering Intern / Idaho Falls, ID 🛂 🆕 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Idaho-Falls-ID/Electrical-Engineering-Intern---Idaho-Falls--ID_R-17029) | Idaho Falls, ID | No skills listed | Nov 19, 2026 |
 | Renesas Electronics | Digital Design Engineer Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079) | Duluth, GEORGIA, United States | Python, Bash, Linux, Git | Nov 19, 2026 |
 | Lightmatter | Photonics Circuit Simulation Intern – Summer 2027 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) | Mountain View, CA | Python | Nov 18, 2026 |
 | Veolia | Instrument​ation & Equipment Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162356599) | Cary, NC, United States (Hybrid) | No skills listed | Nov 18, 2026 |
@@ -166,7 +167,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | IMEG ✓ | Electrical Engineering Intern / Rogers, AR 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Electrical-Engineering-Intern---Rogers--AR_R-16496) | Rogers, AR | No skills listed | Oct 26, 2026 |
 | Upscale AI | Advanced SerDes & Analog/Mixed-Signal IC Design Intern – Summer 2027 | [Apply](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9) | US - Santa Clara, CA | Python, MATLAB | Oct 23, 2026 |
 | Clean Harbors | Electrical Engineer Intern - Summer 2027 | [Apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167556) | El Dorado, AR, United States | No skills listed | Oct 22, 2026 |
-| IMEG ✓ | Electrical Engineering Intern / Madison, WI 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Electrical-Engineering-Intern---Madison--WI_R-16460) | Madison, WI | No skills listed | Oct 21, 2026 |
 | Marvell | Silicon Validation Intern, BS - Summer 2027 | [Apply](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850) | Santa Clara, CA | Python | Oct 21, 2026 |
 | Smith+Nephew ✓ | Intern Electrical Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Electrical-Engineering_R92957) | Andover, MA | No skills listed | Oct 21, 2026 |
 | Smith+Nephew ✓ | Co-Op Embedded Software Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Andover, MA | C++, Computer Vision | Oct 21, 2026 |
@@ -285,7 +285,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | WSP | Power System Optimization Intern - Fall 2026/Spring 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98600) | Houston, TX, United States | Python | Nov 09, 2026 |
 | WSP | Data Center Electrical Engineering Intern - Fall 2026 - Spring 2027 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97816) | New York, NY, United States | No skills listed | Oct 19, 2026 |
 | Moog | Intern, Embedded Design Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | No skills listed | Sep 11, 2026 |
-| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1) | Burlington, MA | No skills listed | Aug 25, 2026 |
+| Cadence Design Systems ✓ | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | [Apply](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158) | Burlington, MA | No skills listed | Aug 25, 2026 |
 | Mill | Electrical Engineering Intern, Fall/Winter 2026 🛂 | [Apply](https://job-boards.greenhouse.io/mill/jobs/4724014005) | San Bruno, California | Python | Aug 13, 2026 |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) | [Apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) | Milpitas, CA | Python, C++, Linux, Git | Apr 14, 2026 |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 🇺🇸 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) | Los Angeles, CA | MATLAB | Mar 30, 2026 |
@@ -301,7 +301,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|
 | Scout Space 🆁 | Embedded Firmware Engineering Intern 🇺🇸 🆕 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Reston, VA - Remote | Python, C++, Computer Vision, Linux | Nov 19, 2026 |
 | Samsung | Intern, SSD Firmware Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, California, United States | Python, C++, JavaScript | Nov 18, 2026 |
-| Texas Instruments ✓ | Analog IC Design (AI/ML) Engineering Intern 🆕 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020319) | Dallas, TX, United States | Python, PyTorch, TensorFlow, scikit-learn | Nov 17, 2026 |
+| Texas Instruments ✓ | Analog IC Design (AI/ML) Engineering Intern | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020319) | Dallas, TX, United States | Python, PyTorch, TensorFlow, scikit-learn | Nov 17, 2026 |
 | Lunar Energy ✓ | Power Electronics Test Intern | [Apply](https://job-boards.greenhouse.io/lunarenergy/jobs/6220078004) | Mountain View, CA | Python, C++ | Nov 16, 2026 |
 | Texas Instruments ✓ | Kilby Labs RF Analog Design Intern - RF Modeling | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016351) | Dallas, TX, United States | No skills listed | Nov 16, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Indianapol​is, IN 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Indianapolis-IN/Electrical-Engineering-Intern---Indianapolis--IN_R-16961) | Indianapol​is, IN | No skills listed | Nov 16, 2026 |
@@ -455,7 +455,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 2,956 of 5,108 registered boards returned successfully across 14 ATS platforms (61% of boards attempted, 57% of the full registry) · completed in 1200.1s · 83 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,110 of 5,108 registered boards returned successfully across 14 ATS platforms (65% of boards attempted, 60% of the full registry) · completed in 1266.6s · 98 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
