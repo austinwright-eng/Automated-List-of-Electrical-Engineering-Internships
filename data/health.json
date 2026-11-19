@@ -34,6 +34,11 @@
     "last_attempt_at": "2026-11-17T16:21:24Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/candidate?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US"
   },
+  "ashby:cedar": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-19T17:22:25Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/cedar?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
   "ashby:chainlink-labs": {
     "consecutive_failures": 42,
     "last_attempt_at": "2026-11-16T23:47:03Z",
@@ -2213,11 +2218,6 @@
     "consecutive_failures": 44,
     "last_attempt_at": "2026-11-15T10:48:32Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workday:halifaxhealth:halifaxhealth": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://halifaxhealth.wd12.myworkdayjobs.com/wday/cxs/halifaxhealth/halifaxhealth/jobs'\nFor more information check: https://developer.moz"
   },
   "workday:huntington:hnbcareers": {
     "consecutive_failures": 4,
