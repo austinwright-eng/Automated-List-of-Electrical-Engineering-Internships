@@ -35,8 +35,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/candidate?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US"
   },
   "ashby:cedar": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-19T18:22:48Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-20T00:50:55Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/cedar?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:chainlink-labs": {
@@ -1529,11 +1529,6 @@
     "last_attempt_at": "2026-11-19T16:20:33Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
-  "workable:validus-risk-management": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-18T00:20:52Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
   "workable:vanguard-ems-inc": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-11-19T16:20:33Z",
@@ -2528,11 +2523,6 @@
     "consecutive_failures": 2,
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "malformed-response"
-  },
-  "workday:revvity:external": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://revvity.wd103.myworkdayjobs.com/wday/cxs/revvity/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "workday:rfcuny:rfcuny": {
     "consecutive_failures": 4,

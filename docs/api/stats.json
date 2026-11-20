@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T00:20:33Z",
- "fetched_at": "2026-11-20T00:20:33Z",
- "duration_seconds": 1198.3,
+ "generated_at": "2026-11-20T00:50:55Z",
+ "fetched_at": "2026-11-20T00:50:55Z",
+ "duration_seconds": 1229.2,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -19,35 +19,31 @@
   "jazzhr": 1,
   "icims": 1
  },
- "quarantined": 282,
+ "quarantined": 318,
  "workday_quarantined": 0,
- "fetched_ok": 3009,
- "fetch_errors": 1817,
+ "fetched_ok": 3040,
+ "fetch_errors": 1750,
  "errors_by_source": {
-  "workday": 1779,
-  "rippling": 7,
-  "ashby": 13,
-  "greenhouse": 14,
-  "workable": 1,
-  "lever": 3
+  "workday": 1749,
+  "ashby": 1
  },
- "fetch_success_rate": 0.623,
- "fetch_success_rate_registry": 0.589,
- "snapshots_complete": 2922,
- "snapshots_partial": 87,
+ "fetch_success_rate": 0.635,
+ "fetch_success_rate_registry": 0.595,
+ "snapshots_complete": 2952,
+ "snapshots_partial": 88,
  "partial_by_reason": {
-  "result-cap": 87
+  "result-cap": 88
  },
  "degraded_fetches": 0,
- "roles_matched": 193,
- "dropped_no_year_in_title": 112,
+ "roles_matched": 191,
+ "dropped_no_year_in_title": 115,
  "dropped_offcycle_by_text": 42,
- "roles_cycle_inferred": 135,
+ "roles_cycle_inferred": 134,
  "roles_by_source": {
   "amazon": 8,
   "ashby": 18,
   "greenhouse": 65,
-  "icims": 9,
+  "icims": 8,
   "lever": 15,
   "oracle": 83,
   "rippling": 4,
@@ -57,14 +53,14 @@
  "roles_by_cycle": {
   "Summer 2027": 303,
   "Fall 2026": 10,
-  "Not stated": 135
+  "Not stated": 134
  },
  "roles_by_region": {
-  "US": 448
+  "US": 447
  },
  "sponsorship_counts": {
   "unknown": 332,
-  "citizens-only": 76,
+  "citizens-only": 75,
   "no-sponsorship": 38,
   "offers": 2
  },
@@ -73,7 +69,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 448,
+ "open_total": 447,
  "detection_latency": {
   "median_minutes": 25.8,
   "p95_minutes": 158.7,
@@ -82,9 +78,9 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 25,
-  "sample_size": 93
+  "median_days": 25.0,
+  "sample_size": 94
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-20T00:20:33Z"
+ "rendered_at": "2026-11-20T00:50:55Z"
 }
