@@ -424,6 +424,11 @@
     "last_attempt_at": "2026-11-18T11:11:23Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
+  "greenhouse:andurilindustries": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "last_error": "ReadTimeout: "
+  },
   "greenhouse:appliedintuition": {
     "consecutive_failures": 40,
     "last_attempt_at": "2026-11-20T16:50:59Z",
@@ -1009,15 +1014,15 @@
     "last_attempt_at": "2026-11-20T16:50:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001": {
+  "oracle:eoff.fa.em1.ukg.oraclecloud.com:cx_1001": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:20:31Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://eoff.fa.em1.ukg.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList"
   },
-  "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+  "oracle:hcmn.fa.ap1.oraclecloud.com:cx_1001": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:20:31Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hcmn.fa.ap1.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
   },
   "recruitee:1x": {
     "consecutive_failures": 21,
@@ -1103,6 +1108,11 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-20T01:41:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:motia": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:msr-fsr": {
     "consecutive_failures": 6,
@@ -1555,8 +1565,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:willis-aviation": {
-    "consecutive_failures": 11,
-    "last_attempt_at": "2026-11-17T21:20:36Z",
+    "consecutive_failures": 12,
+    "last_attempt_at": "2026-11-20T21:51:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/willis-aviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:xodus-group": {
@@ -1570,8 +1580,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaber/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:zaizi": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-20T21:20:31Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-20T21:51:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaizi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:zego": {
