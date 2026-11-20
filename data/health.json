@@ -425,8 +425,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:andurilindustries": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-20T22:21:20Z",
     "last_error": "ReadTimeout: "
   },
   "greenhouse:appliedintuition": {
@@ -1014,16 +1014,6 @@
     "last_attempt_at": "2026-11-20T16:50:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:eoff.fa.em1.ukg.oraclecloud.com:cx_1001": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:51:01Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://eoff.fa.em1.ukg.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList"
-  },
-  "oracle:hcmn.fa.ap1.oraclecloud.com:cx_1001": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:51:01Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hcmn.fa.ap1.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
-  },
   "recruitee:1x": {
     "consecutive_failures": 21,
     "last_attempt_at": "2026-11-20T16:50:59Z",
@@ -1110,8 +1100,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:motia": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-20T21:51:01Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-20T22:21:20Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:msr-fsr": {
