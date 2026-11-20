@@ -1064,6 +1064,11 @@
     "last_attempt_at": "2026-11-20T00:20:33Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/currier-plastics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
+  "workable:flexion-robotics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-20T12:50:23Z",
+    "last_error": "ReadError: "
+  },
   "workable:focusrite": {
     "consecutive_failures": 10,
     "last_attempt_at": "2026-11-18T22:21:02Z",
@@ -1093,11 +1098,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-20T01:41:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:motia": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-20T12:20:55Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:msr-fsr": {
     "consecutive_failures": 6,
