@@ -8,7 +8,7 @@
 
 ### 448 open roles (312 listed below) · 35 new this week
 
-4,811 employers tracked · data as of Nov 21, 2026 at 18:21 UTC
+4,811 employers tracked · data as of Nov 21, 2026 at 18:49 UTC
 
 _317 have a cycle the employer stated · 131 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -307,7 +307,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Samsung | Intern, Serdes Analog Design Engineer 🆕 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197312003) | San Jose, California, United States | Python, MATLAB, Verilog | Nov 19, 2026 |
-| Graco | Electrical Engineering Intern 🛂 🆕 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) | Flagstaff, Arizona, USA | Python | Nov 19, 2026 |
+| Graco | Electrical Engineering Intern 🛂 | [Apply](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023552) | Flagstaff, Arizona, USA | Python | Nov 19, 2026 |
 | First Quality | Controls Engineer Intern 🆕 | [Apply](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-Lock-Haven/Controls-Engineer-Intern_R12278) | US PA Lock Haven | No skills listed | Nov 18, 2026 |
 | Samsung | Intern, SSD Firmware Engineer | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003) | San Jose, California, United States | Python, C++, JavaScript | Nov 18, 2026 |
 | Texas Instruments ✓ | Analog IC Design (AI/ML) Engineering Intern | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020319) | Dallas, TX, United States | Python, PyTorch, TensorFlow, scikit-learn | Nov 17, 2026 |
@@ -458,7 +458,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,107 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1241.2s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 2,994 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1167.9s · 88 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
