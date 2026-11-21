@@ -8,7 +8,7 @@
 
 ### 448 open roles (312 listed below) · 35 new this week
 
-4,811 employers tracked · data as of Nov 21, 2026 at 16:01 UTC
+4,811 employers tracked · data as of Nov 21, 2026 at 16:22 UTC
 
 _317 have a cycle the employer stated · 131 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -99,7 +99,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Ralliant | Electrical Design Engineer Intern (Summer 2027) 🆕 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 |
 | Lightmatter | Silicon Validation & Test Automation, Intern Summer 2027 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008) | Mountain View, CA | Python, Java, Git | Nov 19, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Idaho Falls, ID 🛂 🆕 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Idaho-Falls-ID/Electrical-Engineering-Intern---Idaho-Falls--ID_R-17029) | Idaho Falls, ID | No skills listed | Nov 19, 2026 |
-| Scout Space 🆁 | Embedded Firmware Engineering Intern (Summer 2027) 🇺🇸 🆕 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Reston, VA - Remote | Python, C++, Computer Vision, Linux | Nov 19, 2026 |
+| Scout Space 🆁 | Embedded Firmware Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Reston, VA - Remote | Python, C++, Computer Vision, Linux | Nov 19, 2026 |
 | Lightmatter | Photonics Circuit Simulation Intern – Summer 2027 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5479849008?gh_jid=5479849008) | Mountain View, CA | Python | Nov 18, 2026 |
 | Veolia | Instrument​ation & Equipment Engineering Intern | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162356599) | Cary, NC, United States (Hybrid) | No skills listed | Nov 18, 2026 |
 | Mission Critical Group | 2027 Summer Internship - Electrical Engineering | [Apply](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016934876) | Brookston, Indiana, United States | No skills listed | Nov 18, 2026 |
@@ -108,7 +108,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Renesas Electronics | PMIC Analog Intern | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999) | San Jose, CALIFORNIA, United States | No skills listed | Nov 13, 2026 |
 | Reliable Robotics | FPGA Engineering Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54) | Mountain View, CA | Python, C++, Verilog | Nov 13, 2026 |
 | Reliable Robotics | Avionics Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee) | Mountain View, CA | Python, MATLAB | Nov 13, 2026 |
-| IMEG ✓ | Electrical Engineering Intern / Independen​ce, OH 🛂 🆕 _(2 openings)_ | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17000) [#2](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17031) | Cleveland, OH | No skills listed | Nov 13, 2026 |
+| IMEG ✓ | Electrical Engineering Intern / Independen​ce, OH 🛂 _(2 openings)_ | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17000) [#2](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17031) | Cleveland, OH | No skills listed | Nov 13, 2026 |
 | Reliable Robotics | Hardware Test Engineering Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e) | Mountain View, CA | Python, C++, MATLAB | Nov 13, 2026 |
 | Lightmatter | Physical Design, Intern (Summer 2027) | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Python | Nov 13, 2026 |
 | Global Infrastruc​ture | Intern Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Electrical-Engineering-Designer_6746) | US / IL / Chicago - 200 South Wacker Dr… | MATLAB | Nov 12, 2026 |
@@ -458,7 +458,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,008 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1168.8s · 88 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,078 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1178.9s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
