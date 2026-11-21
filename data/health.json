@@ -1009,20 +1009,25 @@
     "last_attempt_at": "2026-11-20T16:50:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:ehac.fa.us6.oraclecloud.com:cx_1": {
+  "oracle:ejhp.fa.us6.oraclecloud.com:cx_2": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T12:20:28Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehac.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejhp.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ejia.fa.us6.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://ejia.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
   },
   "oracle:epyc.fa.us2.oraclecloud.com:cx_1001": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-21T07:34:22Z",
     "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://epyc.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
-  "oracle:fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com:cx_1002": {
+  "oracle:fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T12:20:28Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
   },
   "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
     "consecutive_failures": 3,
@@ -1030,13 +1035,28 @@
     "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
   },
   "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requ"
+  },
+  "oracle:hbbq.fa.us2.oraclecloud.com:cx_1": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T12:20:28Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hbbq.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:hdow.fa.us6.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hdow.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:hdow.fa.us6.oraclecloud.com:cx_1003": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T12:50:03Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdow.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
   "oracle:hdpn.fa.us6.oraclecloud.com:cx_1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T12:20:28Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-21T12:50:03Z",
     "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdpn.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
   "recruitee:1x": {
