@@ -250,8 +250,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mtesting?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:nectar-social": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-19T18:50:23Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-21T19:25:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/nectar-social?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:newfront": {
@@ -1014,6 +1014,11 @@
     "last_attempt_at": "2026-11-21T13:49:41Z",
     "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejhp.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
+  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T19:25:02Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://www.oracle.com/splash/rpls/embargoed.html'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
   "recruitee:1x": {
     "consecutive_failures": 21,
     "last_attempt_at": "2026-11-20T16:50:59Z",
@@ -1078,11 +1083,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-19T00:21:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:mealsuite": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-21T18:49:57Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mealsuite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mila-2": {
     "consecutive_failures": 7,
@@ -2288,11 +2288,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://maryfreebed.wd12.myworkdayjobs.com/wday/cxs/maryfreebed/mfb/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
-  },
-  "workday:mdtkangaroo:minimedcareers": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://mdtkangaroo.wd108.myworkdayjobs.com/wday/cxs/mdtkangaroo/minimedcareers/jobs'\nFor more information check: https://developer.mozil"
   },
   "workday:medtronic:medtroniccareers": {
     "consecutive_failures": 3,
