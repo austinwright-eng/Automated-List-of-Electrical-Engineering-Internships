@@ -510,8 +510,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cti/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:cybereason": {
-    "consecutive_failures": 17,
-    "last_attempt_at": "2026-11-18T06:19:39Z",
+    "consecutive_failures": 18,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cybereason/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:debtbook": {
@@ -1009,15 +1009,120 @@
     "last_attempt_at": "2026-11-20T16:50:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:emqz.fa.us2.oraclecloud.com:cx_1": {
+  "oracle:ebxs.fa.us2.oraclecloud.com:cx_2": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T06:21:03Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://emqz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://ebxs.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:egua.fa.us2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://egua.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:elrj.fa.us2.oraclecloud.com:cx_9001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://elrj.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:elvp.fa.us2.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://elvp.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:epyc.fa.us2.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://epyc.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:erhk.fa.us2.oraclecloud.com:cx_4": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://erhk.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com:cx_2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:cx_1029": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:hcal.fa.us2.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcal.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
   "oracle:hcqq.fa.us2.oraclecloud.com:cx_5004": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T06:21:03Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
     "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcqq.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hcwp.fa.us2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hcwp.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:hdid.fa.us2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdid.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:iazuqy.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://iazuqy.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.seco"
+  },
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.s"
   },
   "recruitee:1x": {
     "consecutive_failures": 21,
@@ -1098,6 +1203,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-19T00:21:23Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mindex/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "workable:mistywest": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T06:50:57Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mlabs": {
     "consecutive_failures": 3,
