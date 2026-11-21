@@ -1009,6 +1009,66 @@
     "last_attempt_at": "2026-11-20T16:50:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "oracle:ecer.fa.em2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecer.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ecyq.fa.em2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecyq.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ehpv.fa.em2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehpv.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ehtv.fa.em2.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehtv.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ekbq.fa.em2.oraclecloud.com:cx_2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ekbq.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:elxw.fa.em3.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://elxw.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eoce.fa.em3.oraclecloud.com:cx_1004": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eoce.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-eugp-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eugp-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:iadugs.fa.ocs.oraclecloud.com:cx_1001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-21T00:38:07Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://iadugs.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.seco"
+  },
   "recruitee:1x": {
     "consecutive_failures": 21,
     "last_attempt_at": "2026-11-20T16:50:59Z",
@@ -1093,11 +1153,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-20T01:41:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:mlabs": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-21T00:17:27Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:motia": {
     "consecutive_failures": 3,
