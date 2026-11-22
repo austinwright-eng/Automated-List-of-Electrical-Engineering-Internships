@@ -1069,6 +1069,11 @@
     "last_attempt_at": "2026-11-21T22:50:10Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
+  "workable:matternet": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-22T02:51:08Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "workable:mealsuite": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-22T00:20:33Z",
