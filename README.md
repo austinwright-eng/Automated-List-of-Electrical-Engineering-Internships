@@ -8,7 +8,7 @@
 
 ### 446 open roles (311 listed below) · 37 new this week
 
-4,811 employers tracked · data as of Nov 22, 2026 at 17:40 UTC
+4,811 employers tracked · data as of Nov 22, 2026 at 18:02 UTC
 
 _318 have a cycle the employer stated · 128 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -95,7 +95,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lucid Motors | Power Electronics Control Engineer Intern, Summer 2027 🆕 | [Apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | Newark, CA | MATLAB | Nov 20, 2026 |
 | Lucid Motors | Intern, Vehicle Motion Controls Engineer, Summer 2027 🆕 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | Newark, CA | Python, C++, MATLAB, Git | Nov 20, 2026 |
 | Pacific Fusion | Summer 2027 Controls Electrical Engineer Internship 🆕 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009) | San Leandro, CA | Python, MATLAB | Nov 20, 2026 |
-| Renesas Electronics | Firmware Engineering Intern 🆕 | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555) | Austin, TEXAS, United States | Python, Verilog | Nov 20, 2026 |
+| Renesas Electronics | Firmware Engineering Intern | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555) | Austin, TEXAS, United States | Python, Verilog | Nov 20, 2026 |
 | Mission Critical Group | 2027 Summer Internship - Electrical Engineering | [Apply](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016997596) | Harleysville +2 more | No skills listed | Nov 20, 2026 |
 | Lucid Motors | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Newark, CA | C++, Linux, Git | Nov 19, 2026 |
 | Ralliant | Electrical Design Engineer Intern (Summer 2027) | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 |
@@ -457,7 +457,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 2,903 of 5,108 registered boards returned successfully across 14 ATS platforms (60% of boards attempted, 56% of the full registry) · completed in 1170.6s · 81 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,087 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1243.4s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
