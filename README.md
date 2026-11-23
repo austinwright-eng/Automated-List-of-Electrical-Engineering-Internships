@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 441 open roles (306 listed below) · 38 new this week
+### 440 open roles (306 listed below) · 35 new this week
 
-4,811 employers tracked · data as of Nov 23, 2026 at 23:20 UTC
+4,811 employers tracked · data as of Nov 23, 2026 at 23:50 UTC
 
-_313 have a cycle the employer stated · 128 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_312 have a cycle the employer stated · 128 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -224,7 +224,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | nVent | Electrical/Controls Engineering Co-Op (June - December 2027) | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Electrical-Controls-Engineering-Co-Op_R23626) | Anoka, MN, US | No skills listed | Sep 29, 2026 |
 | Hermeus | Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring & Summer 2027 🇺🇸 | [Apply](https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd) | Los Angeles, CA | Python, C++, MATLAB, Linux | Sep 29, 2026 |
 | General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75138/electrical-engineering-intern-%28summer-2027%29/job?in_iframe=1) | West Valley City, UT, US | No skills listed | Sep 28, 2026 |
-| General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/75140/electrical-engineering-intern-%28summer-2027%29/job?in_iframe=1) | Manassas, VA, US | No skills listed | Sep 28, 2026 |
 | HNTB ✓ | WED - Intern Electrical Power System (Summer 2027) (For Current & Recent HNTB Interns Only) 🛂 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---Intern-Electrical-Power-System--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31767-1) | Los Angeles, CA (Figueroa Street) | No skills listed | Sep 28, 2026 |
 | AtkinsRéalis | Instrument​ation & Controls Engineering Intern - Summer 2027 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Instrumentation---Controls-Engineering-Intern---Summer-2027_R-162442-1) | US.WA.Both​ell | No skills listed | Sep 28, 2026 |
 | Philips | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074) | Bothell, Washington, United States | Python, C++ | Sep 28, 2026 |
@@ -251,6 +250,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Rocket Lab | Electrical Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) | Long Beach, CA | Python, C++, Verilog | Sep 10, 2026 |
 | Avav | Summer 2027 Embedded Software Engineering Intern | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) | Simi Valley, CA | Python, C++, Linux | Sep 10, 2026 |
 | The Toro Company | Hardware and Software Engineering Intern - Ditch Witch 🛂 | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | Perry, OK | Python, Java, C++, C# | Sep 10, 2026 |
+| General Dynamics Mission Systems | Payload Control System - Software/Systems Engineering Intern (Summer 2027) 🇺🇸 | [Apply](https://careers-gdms.icims.com/jobs/74848/payload-control-system---software-systems-engineering-intern-%28summer-2027%29/job?in_iframe=1) | Manassas, VA, US | Python, Java, C++, TypeScript | Sep 09, 2026 |
 | Saronic | Electrical Engineer Intern (Summer 2027) 🇺🇸 | [Apply](https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a) | Austin, TX | Python, C++, Linux | Sep 09, 2026 |
 | Hermeus | Avionics Electrical Engineering Intern - Summer 2027 🇺🇸 | [Apply](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462) | Atlanta, GA | C++ | Sep 09, 2026 |
 | Allen Control Systems | Electrical Engineering Intern, 2027 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220) | Austin, TX | Computer Vision | Sep 08, 2026 |
@@ -399,12 +399,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Aptiv ✓ | Embedded Software - Engineering Intern 🇺🇸 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) | USA Walnut Creek, CA - WR | Linux | Oct 09, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 31 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 32 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) | Summer 2027 | 2026-11-23 | gone from feed |
 | RESPEC | Student Engineering Intern (Mechanical or Electrical) | Summer 2027 | 2026-11-23 | gone from feed |
 | Marvell | Electrical Validation Intern, BS - Summer 2027 | Summer 2027 | 2026-11-23 | gone from feed |
 | Parallel Systems | Hardware Engineering Intern (Mechanical & Electrical) | Summer 2027 | 2026-11-23 | gone from feed |
@@ -454,7 +455,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,053 of 5,108 registered boards returned successfully across 14 ATS platforms (63% of boards attempted, 59% of the full registry) · completed in 1216.7s · 90 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,008 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1189.2s · 91 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
