@@ -1104,11 +1104,6 @@
     "last_attempt_at": "2026-11-23T03:40:55Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
-  "workable:motia": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-23T02:20:32Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/motia/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
   "workable:msr-fsr": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-11-21T16:50:02Z",
@@ -1778,11 +1773,6 @@
     "consecutive_failures": 35,
     "last_attempt_at": "2026-11-15T03:16:20Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://boarshead.wd1.myworkdayjobs.com/wday/cxs/boarshead/BHC/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
-  "workday:boydcorp:boyd_careers": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://boydcorp.wd12.myworkdayjobs.com/wday/cxs/boydcorp/Boyd_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en"
   },
   "workday:bracco:braccocareers": {
     "consecutive_failures": 4,
