@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 443 open roles (308 listed below) · 37 new this week
+### 442 open roles (307 listed below) · 36 new this week
 
-4,811 employers tracked · data as of Nov 23, 2026 at 15:50 UTC
+4,811 employers tracked · data as of Nov 23, 2026 at 16:22 UTC
 
-_317 have a cycle the employer stated · 126 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_316 have a cycle the employer stated · 126 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)** · **[📡 RSS](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)** · **[⚙️ JSON API](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/api/jobs.json)**
 
@@ -86,7 +86,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (194 employer-stated)
+## Summer 2027  (193 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
@@ -95,7 +95,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Lucid Motors | Power Electronics Control Engineer Intern, Summer 2027 | [Apply](https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007) | Newark, CA | MATLAB | Nov 20, 2026 |
 | Lucid Motors | Intern, Vehicle Motion Controls Engineer, Summer 2027 | [Apply](https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007) | Newark, CA | Python, C++, MATLAB, Git | Nov 20, 2026 |
 | Pacific Fusion | Summer 2027 Controls Electrical Engineer Internship | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009) | San Leandro, CA | Python, MATLAB | Nov 20, 2026 |
-| Renesas Electronics | Firmware Engineering Intern | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555) | Austin, TEXAS, United States | Python, Verilog | Nov 20, 2026 |
 | Mission Critical Group | 2027 Summer Internship - Electrical Engineering | [Apply](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016997596) | Harleysville +2 more | No skills listed | Nov 20, 2026 |
 | Lucid Motors | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | [Apply](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007) | Newark, CA | C++, Linux, Git | Nov 19, 2026 |
 | Ralliant | Electrical Design Engineer Intern (Summer 2027) | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) | Beaverton, OR, United States | Python, C++, MATLAB | Nov 19, 2026 |
@@ -401,12 +400,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Aptiv ✓ | Embedded Software - Engineering Intern 🇺🇸 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) | USA Walnut Creek, CA - WR | Linux | Oct 09, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Renesas Electronics | Firmware Engineering Intern | Summer 2027 | 2026-11-23 | gone from feed |
 | SharkNinja | Summer 2027: Control Systems & Algorithms Intern (May to August) | Summer 2027 | 2026-11-23 | gone from feed |
 | KLA | Mechatronics Summer Intern | Summer 2027 | 2026-11-21 | gone from feed |
 | Renesas Electronics | Digital Design Engineer Intern | Summer 2027 | 2026-11-20 | gone from feed |
@@ -455,7 +455,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,014 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 59% of the full registry) · completed in 1224.2s · 90 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,116 of 5,108 registered boards returned successfully across 14 ATS platforms (65% of boards attempted, 61% of the full registry) · completed in 1307.4s · 94 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
