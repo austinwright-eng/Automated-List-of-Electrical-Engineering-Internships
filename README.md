@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/austinwright-eng/Automated-List-of-Electrical-Engineering-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faustinwright-eng.github.io%2FAutomated-List-of-Electrical-Engineering-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://austinwright-eng.github.io/Automated-List-of-Electrical-Engineering-Internships/feed.xml)
 
-### 434 open roles (302 listed below) · 33 new this week
+### 434 open roles (301 listed below) · 34 new this week
 
-4,811 employers tracked · data as of Nov 24, 2026 at 22:50 UTC
+4,811 employers tracked · data as of Nov 24, 2026 at 23:20 UTC
 
 _311 have a cycle the employer stated · 123 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -86,10 +86,11 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (190 employer-stated)
+## Summer 2027  (189 employer-stated)
 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
+| Lightmatter | Design Verificati​on, Intern Summer 2027 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008) | Boston, MA | Python, C++, Git, Verilog | Nov 24, 2026 |
 | SharkNinja | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) 🆕 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | Needham, MA, United States | No skills listed | Nov 23, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Scottsdale, AZ 🛂 🆕 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-17005) | Phoenix, AZ | No skills listed | Nov 23, 2026 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, California, United States | Python, C++, Linux, Git | Nov 21, 2026 |
@@ -112,7 +113,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Reliable Robotics | Avionics Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/f4073938-ccdb-46fb-aa65-6715981d27ee) | Mountain View, CA | Python, MATLAB | Nov 13, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Independen​ce, OH 🛂 _(2 openings)_ | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17000) [#2](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Cleveland-OH/Electrical-Engineering-Intern---Independence--OH_R-17031) | Cleveland, OH | No skills listed | Nov 13, 2026 |
 | Reliable Robotics | Hardware Test Engineering Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e) | Mountain View, CA | Python, C++, MATLAB | Nov 13, 2026 |
-| Lightmatter | Physical Design, Intern (Summer 2027) | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008) | Boston, MA | Python | Nov 13, 2026 |
 | Global Infrastruc​ture | Intern Electrical Engineering Designer | [Apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Intern-Electrical-Engineering-Designer_6746) | US / IL / Chicago - 200 South Wacker Dr… | MATLAB | Nov 12, 2026 |
 | CACI | Embedded Software Development Intern - Summer 2027 | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Denver, CO, US | Python, C++, Rust, MATLAB | Nov 12, 2026 |
 | ABB ✓ | Electrical Engineering Co-op- Summer 2027 🛂 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Electrical-Engineering-Co-op--Summer-2027_JR00051091) | USA, NC, Mebane | No skills listed | Nov 12, 2026 |
@@ -235,7 +235,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Xcimer Energy | Summer 2027 Internship - Controls Systems Engineering 🇺🇸 | [Apply](https://jobs.lever.co/xcimer/4b031cd4-5f45-4d53-9332-dd23bc349480) | Denver, CO | No skills listed | Sep 22, 2026 |
 | Formlabsin​ternships | Embedded Software Intern (Summer 2027) | [Apply](https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268) | Somerville, MA | Python, C++, Linux | Sep 21, 2026 |
 | Rocket Lab | Electrical Engineering Intern Summer 2027 🇺🇸 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) | Pasadena, CA | No skills listed | Sep 17, 2026 |
-| Rendezvous Robotics | Avionics Engineering Intern (Summer 2027) | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) | Golden, CO | No skills listed | Sep 16, 2026 |
 | Rehiko | Electrical Engineering Intern 2027 | [Apply](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Electrical-Engineering-Intern-2027_R04824) | Sheboygan,WI | No skills listed | Sep 16, 2026 |
 | AspenTech | Power System Engineering Intern - Digital Grid Management - Summer 2027 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Power-System-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9458) | Medina, Minnesota | Python, Linux | Sep 15, 2026 |
 | nVent | Electrical Engineering Co-Op (June - Dec 2027) | [Apply](https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Electrical-Engineering-Co-Op_R23593) | Solon, OH, US | MATLAB | Sep 15, 2026 |
@@ -396,12 +395,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Fortive | Electrical Engineering Intern | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10876) | Irvine, CA, United States | No skills listed | Oct 13, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 33 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 34 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Rendezvous Robotics | Avionics Engineering Intern (Summer 2027) | Summer 2027 | 2026-11-24 | gone from feed |
 | Renesas Electronics | PMIC Analog Intern | Summer 2027 | 2026-11-24 | gone from feed |
 | Lucid Motors | Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027 | Summer 2027 | 2026-11-24 | gone from feed |
 | General Dynamics Mission Systems | Electrical Engineering Intern (Summer 2027) | Summer 2027 | 2026-11-23 | gone from feed |
@@ -453,7 +453,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,017 of 5,108 registered boards returned successfully across 14 ATS platforms (63% of boards attempted, 59% of the full registry) · completed in 1170.9s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,000 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1183.9s · 90 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
