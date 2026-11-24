@@ -735,8 +735,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "greenhouse:thoughtworksreferral": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-24T10:20:33Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-24T10:43:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/thoughtworksreferral/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "greenhouse:threatlocker": {
@@ -785,8 +785,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/withumsmithbrown/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "jazzhr:spacedynamicslaboratory": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-24T10:20:33Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-24T10:43:51Z",
     "last_error": "malformed-response"
   },
   "lever:aifund": {
@@ -1079,11 +1079,6 @@
     "last_attempt_at": "2026-11-23T00:50:21Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
-  "workable:coldquanta": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-24T10:20:33Z",
-    "last_error": "ReadError: "
-  },
   "workable:currier-plastics": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-11-23T00:50:21Z",
@@ -1098,11 +1093,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-24T05:20:12Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:mealsuite": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-24T04:20:33Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mealsuite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mila-2": {
     "consecutive_failures": 8,
@@ -1120,8 +1110,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mistywest/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mlabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-24T04:20:33Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-11-24T10:43:51Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:motia": {
