@@ -1029,11 +1029,6 @@
     "last_attempt_at": "2026-11-23T17:22:04Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:eeho.fa.us2.oraclecloud.com:cx_1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-25T20:50:06Z",
-    "last_error": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocat"
-  },
   "recruitee:1x": {
     "consecutive_failures": 22,
     "last_attempt_at": "2026-11-23T17:22:04Z",
@@ -1598,11 +1593,6 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-11-24T13:50:32Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaizi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
-  },
-  "workable:zego": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-25T14:50:11Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:zippd": {
     "consecutive_failures": 16,
