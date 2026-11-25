@@ -1029,6 +1029,11 @@
     "last_attempt_at": "2026-11-23T17:22:04Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "oracle:emit.fa.ca3.oraclecloud.com:cx_2001": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-25T09:50:21Z",
+    "last_error": "ReadTimeout: "
+  },
   "recruitee:1x": {
     "consecutive_failures": 22,
     "last_attempt_at": "2026-11-23T17:22:04Z",
@@ -1313,6 +1318,11 @@
     "consecutive_failures": 14,
     "last_attempt_at": "2026-11-24T00:20:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rovex-technologies-corporation/jobs'\nFor more information check: https://developer.mozilla.org"
+  },
+  "workable:rystad-energy": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-25T09:50:21Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rystad-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workable:saalex": {
     "consecutive_failures": 8,
