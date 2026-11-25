@@ -719,6 +719,11 @@
     "last_attempt_at": "2026-11-24T12:21:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/sixthstreet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
+  "greenhouse:spacex": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-25T22:20:31Z",
+    "last_error": "ReadTimeout: "
+  },
   "greenhouse:spotonproduct": {
     "consecutive_failures": 41,
     "last_attempt_at": "2026-11-23T17:22:04Z",
@@ -1088,6 +1093,11 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-11-24T23:20:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:luminance-1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-25T22:20:31Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/luminance-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:matternet": {
     "consecutive_failures": 5,
@@ -1595,8 +1605,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaizi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:zego": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-25T21:49:45Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-25T22:20:31Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:zippd": {
