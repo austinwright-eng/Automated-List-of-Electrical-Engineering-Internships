@@ -1594,6 +1594,11 @@
     "last_attempt_at": "2026-11-24T13:50:32Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaizi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
+  "workable:zego": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-25T13:50:28Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
   "workable:zippd": {
     "consecutive_failures": 16,
     "last_attempt_at": "2026-11-24T03:51:18Z",
