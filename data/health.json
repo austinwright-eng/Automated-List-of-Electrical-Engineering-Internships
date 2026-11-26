@@ -1094,6 +1094,11 @@
     "last_attempt_at": "2026-11-24T23:20:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
+  "workable:homey": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-26T16:52:55Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
   "workable:matternet": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-25T20:50:06Z",
