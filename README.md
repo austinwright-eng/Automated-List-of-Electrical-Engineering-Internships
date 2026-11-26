@@ -8,7 +8,7 @@
 
 ### 438 open roles (302 listed below) · 26 new this week
 
-4,811 employers tracked · data as of Nov 26, 2026 at 20:49 UTC
+4,811 employers tracked · data as of Nov 26, 2026 at 21:20 UTC
 
 _316 have a cycle the employer stated · 122 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -303,7 +303,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Apply | Location | Skills | Posted |
 |---|---|---|---|---|---|
 | Neuralink | Electrical Test Engineer Intern 🆕 | [Apply](https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003) | South San Francisco +2 more | Python, C++, Rust | Nov 24, 2026 |
-| Ralliant | Hardware Engineering Co-Op 🆕 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451) | Solon, OH, United States | No skills listed | Nov 24, 2026 |
+| Ralliant | Hardware Engineering Co-Op | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10451) | Solon, OH, United States | No skills listed | Nov 24, 2026 |
 | Samsung | Intern, RF Analog Circuit Design Engineer | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8213439003) | San Jose, California, United States | Python, Verilog | Nov 24, 2026 |
 | Rockwell Automation ✓ | Intern, Mechatronics & Electromag​netics | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Mechatronics---Electromagnetics_R26-8372-1) | Mequon, Wisconsin, United States | No skills listed | Nov 23, 2026 |
 | Legrand | Electrical Engineering Intern | [Apply](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1948) | Canonsburg, PA, United States | No skills listed | Nov 23, 2026 |
@@ -446,7 +446,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,033 of 5,108 registered boards returned successfully across 14 ATS platforms (63% of boards attempted, 59% of the full registry) · completed in 1170.0s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,007 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1166.6s · 87 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
