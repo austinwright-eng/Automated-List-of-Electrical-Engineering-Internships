@@ -8,7 +8,7 @@
 
 ### 438 open roles (302 listed below) · 33 new this week
 
-4,811 employers tracked · data as of Nov 26, 2026 at 16:52 UTC
+4,811 employers tracked · data as of Nov 26, 2026 at 17:20 UTC
 
 _316 have a cycle the employer stated · 122 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -395,7 +395,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Fortive | Electrical Engineering Intern | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10876) | Irvine, CA, United States | No skills listed | Oct 13, 2026 |
 
 <details>
-<summary><strong>Recently closed</strong> — 31 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 30 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -431,7 +431,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Wavetronix | Electrical/Computer Engineering Internship Summer 2027 | Summer 2027 | 2026-11-12 | gone from feed |
 | K2 Space | Electrical Engineering Intern – Summer 2027 | Summer 2027 | 2026-11-12 | gone from feed |
 | K2 Space | Avionics Systems/Test Engineering Intern – Summer 2027 | Summer 2027 | 2026-11-12 | gone from feed |
-| ADT | Hardware Engineering & Connected Devices Internship | Summer 2027 | 2026-11-12 | gone from feed |
 
 </details>
 
@@ -450,7 +449,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,103 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1224.7s · 96 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 3,083 of 5,108 registered boards returned successfully across 14 ATS platforms (64% of boards attempted, 60% of the full registry) · completed in 1225.9s · 92 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
