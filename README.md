@@ -8,7 +8,7 @@
 
 ### 437 open roles (301 listed below) · 35 new this week
 
-4,811 employers tracked · data as of Nov 26, 2026 at 00:31 UTC
+4,811 employers tracked · data as of Nov 26, 2026 at 00:52 UTC
 
 _315 have a cycle the employer stated · 122 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -94,7 +94,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | Stantec | Electrical Engineering Intern - Buildings (Summer 2027) 🆕 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009024) | Seattle, WA, United States | No skills listed | Nov 25, 2026 |
 | Lightmatter | Firmware Intern – Summer 2027 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) | Boston, MA | Python, C++, Linux, Git | Nov 25, 2026 |
 | Lightmatter | Design Verificati​on, Intern Summer 2027 🆕 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008) | Boston, MA | Python, C++, Git, Verilog | Nov 24, 2026 |
-| SharkNinja | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) 🆕 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | Needham, MA, United States | No skills listed | Nov 23, 2026 |
+| SharkNinja | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006) | Needham, MA, United States | No skills listed | Nov 23, 2026 |
 | IMEG ✓ | Electrical Engineering Intern / Scottsdale, AZ 🛂 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Phoenix-AZ/Electrical-Engineering-Intern---Scottsdale--AZ_R-17005) | Phoenix, AZ | No skills listed | Nov 23, 2026 |
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, California, United States | Python, C++, Linux, Git | Nov 21, 2026 |
 | Neros Technologies | Electrical Engineering Intern - Summer 2027 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) | Torrance, California, United States | Python, C++, MATLAB | Nov 21, 2026 |
@@ -449,7 +449,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,018 of 5,108 registered boards returned successfully across 14 ATS platforms (63% of boards attempted, 59% of the full registry) · completed in 1175.7s · 87 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
+_Engine (last run): 2,980 of 5,108 registered boards returned successfully across 14 ATS platforms (62% of boards attempted, 58% of the full registry) · completed in 1168.7s · 84 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles · Workday coverage degraded, with some previously listed roles unverified._
 
 ## How this list is built
 
