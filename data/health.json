@@ -1105,8 +1105,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "workable:matternet": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-27T16:20:13Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-11-27T16:50:47Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mealsuite": {
@@ -2158,11 +2158,6 @@
     "consecutive_failures": 38,
     "last_attempt_at": "2026-11-14T15:46:15Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://kohls.wd1.myworkdayjobs.com/wday/cxs/kohls/kohlscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workday:kyndryl:kyndrylprofessionalcareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "malformed-response"
   },
   "workday:lego:lego_external": {
     "consecutive_failures": 4,
