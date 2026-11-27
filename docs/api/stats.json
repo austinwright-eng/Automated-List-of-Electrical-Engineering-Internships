@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T23:49:56Z",
- "fetched_at": "2026-11-26T23:49:56Z",
- "duration_seconds": 1172.9,
+ "generated_at": "2026-11-27T00:20:30Z",
+ "fetched_at": "2026-11-27T00:20:30Z",
+ "duration_seconds": 1204.5,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -19,27 +19,26 @@
   "jazzhr": 1,
   "icims": 1
  },
- "quarantined": 301,
+ "quarantined": 321,
  "workday_quarantined": 0,
- "fetched_ok": 3095,
- "fetch_errors": 1712,
+ "fetched_ok": 3074,
+ "fetch_errors": 1713,
  "errors_by_source": {
-  "workday": 1690,
-  "workable": 21,
-  "greenhouse": 1
+  "workday": 1712,
+  "workable": 1
  },
- "fetch_success_rate": 0.644,
- "fetch_success_rate_registry": 0.606,
- "snapshots_complete": 3004,
- "snapshots_partial": 91,
+ "fetch_success_rate": 0.642,
+ "fetch_success_rate_registry": 0.602,
+ "snapshots_complete": 2982,
+ "snapshots_partial": 92,
  "partial_by_reason": {
-  "result-cap": 91
+  "result-cap": 92
  },
  "degraded_fetches": 0,
- "roles_matched": 189,
- "dropped_no_year_in_title": 119,
+ "roles_matched": 187,
+ "dropped_no_year_in_title": 121,
  "dropped_offcycle_by_text": 39,
- "roles_cycle_inferred": 122,
+ "roles_cycle_inferred": 121,
  "roles_by_source": {
   "amazon": 8,
   "ashby": 18,
@@ -49,18 +48,18 @@
   "oracle": 83,
   "rippling": 4,
   "smartrecruiters": 8,
-  "workday": 230
+  "workday": 229
  },
  "roles_by_cycle": {
   "Summer 2027": 306,
   "Fall 2026": 10,
-  "Not stated": 122
+  "Not stated": 121
  },
  "roles_by_region": {
-  "US": 438
+  "US": 437
  },
  "sponsorship_counts": {
-  "unknown": 325,
+  "unknown": 324,
   "citizens-only": 71,
   "no-sponsorship": 40,
   "offers": 2
@@ -70,7 +69,7 @@
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 438,
+ "open_total": 437,
  "detection_latency": {
   "median_minutes": 37.7,
   "p95_minutes": 42.6,
@@ -83,5 +82,5 @@
   "sample_size": 112
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-26T23:49:56Z"
+ "rendered_at": "2026-11-27T00:20:30Z"
 }
