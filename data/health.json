@@ -1099,16 +1099,6 @@
     "last_attempt_at": "2026-11-27T00:20:30Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "workable:luminance-1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-27T03:49:39Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/luminance-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
-  "workable:matternet": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-11-27T03:49:39Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "workable:mealsuite": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-11-26T22:20:16Z",
@@ -1615,8 +1605,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:zippd": {
-    "consecutive_failures": 16,
-    "last_attempt_at": "2026-11-24T03:51:18Z",
+    "consecutive_failures": 17,
+    "last_attempt_at": "2026-11-27T04:19:51Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zippd/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workday:23andme:23": {
