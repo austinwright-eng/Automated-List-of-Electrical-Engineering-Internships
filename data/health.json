@@ -724,11 +724,6 @@
     "last_attempt_at": "2026-11-24T12:21:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/sixthstreet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
-  "greenhouse:sleepdoctor": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-27T01:30:30Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://boards-api.greenhouse.io/v1/boards/sleepdoctor/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
   "greenhouse:spotonproduct": {
     "consecutive_failures": 42,
     "last_attempt_at": "2026-11-26T17:49:45Z",
@@ -805,8 +800,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/aircall?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:anyscale": {
-    "consecutive_failures": 13,
-    "last_attempt_at": "2026-11-24T01:22:38Z",
+    "consecutive_failures": 14,
+    "last_attempt_at": "2026-11-27T01:51:06Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/anyscale?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:aofl": {
@@ -925,8 +920,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/mbrdna?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:mistral": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-11-24T01:22:38Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-11-27T01:51:06Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/mistral?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:njstateofficeofinnovation": {
@@ -2039,11 +2034,6 @@
     "last_attempt_at": "2026-11-16T06:44:18Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
-  "workday:extraspace:ess_external": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://extraspace.wd5.myworkdayjobs.com/wday/cxs/extraspace/ESS_External/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
   "workday:firstam:firstamericancareers": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-15T19:50:24Z",
@@ -2243,11 +2233,6 @@
     "consecutive_failures": 47,
     "last_attempt_at": "2026-11-13T22:59:10Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://milestone.wd1.myworkdayjobs.com/wday/cxs/milestone/Milestone_External/jobs'\nFor more information check: https://developer.mozi"
-  },
-  "workday:moffitt:moffitt": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-16T06:44:18Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://moffitt.wd108.myworkdayjobs.com/wday/cxs/moffitt/Moffitt/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:montage:montage_international": {
     "consecutive_failures": 3,
