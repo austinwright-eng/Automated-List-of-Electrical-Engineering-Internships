@@ -724,6 +724,11 @@
     "last_attempt_at": "2026-11-24T12:21:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/sixthstreet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
+  "greenhouse:sleepdoctor": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-27T01:30:30Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://boards-api.greenhouse.io/v1/boards/sleepdoctor/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
+  },
   "greenhouse:spotonproduct": {
     "consecutive_failures": 42,
     "last_attempt_at": "2026-11-26T17:49:45Z",
