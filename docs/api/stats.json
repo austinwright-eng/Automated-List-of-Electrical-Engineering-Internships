@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T16:50:46Z",
- "fetched_at": "2026-11-27T16:50:46Z",
- "duration_seconds": 1220.4,
+ "generated_at": "2026-11-27T17:20:36Z",
+ "fetched_at": "2026-11-27T17:20:36Z",
+ "duration_seconds": 1200.1,
  "companies_total": 5108,
  "companies_by_source": {
   "greenhouse": 1130,
@@ -21,24 +21,24 @@
  },
  "quarantined": 323,
  "workday_quarantined": 0,
- "fetched_ok": 3069,
- "fetch_errors": 1716,
+ "fetched_ok": 2983,
+ "fetch_errors": 1802,
  "errors_by_source": {
-  "workday": 1715,
-  "workable": 1
+  "workday": 1706,
+  "workable": 96
  },
- "fetch_success_rate": 0.641,
- "fetch_success_rate_registry": 0.601,
- "snapshots_complete": 2977,
- "snapshots_partial": 92,
+ "fetch_success_rate": 0.623,
+ "fetch_success_rate_registry": 0.584,
+ "snapshots_complete": 2898,
+ "snapshots_partial": 85,
  "partial_by_reason": {
-  "result-cap": 91,
+  "result-cap": 84,
   "malformed-response": 1
  },
  "degraded_fetches": 1,
- "roles_matched": 194,
- "dropped_no_year_in_title": 124,
- "dropped_offcycle_by_text": 45,
+ "roles_matched": 189,
+ "dropped_no_year_in_title": 117,
+ "dropped_offcycle_by_text": 39,
  "roles_cycle_inferred": 120,
  "roles_by_source": {
   "amazon": 8,
@@ -49,28 +49,28 @@
   "oracle": 83,
   "rippling": 4,
   "smartrecruiters": 8,
-  "workday": 227
+  "workday": 228
  },
  "roles_by_cycle": {
-  "Summer 2027": 305,
+  "Summer 2027": 306,
   "Fall 2026": 10,
   "Not stated": 120
  },
  "roles_by_region": {
-  "US": 435
+  "US": 436
  },
  "sponsorship_counts": {
   "unknown": 322,
   "citizens-only": 71,
-  "no-sponsorship": 40,
+  "no-sponsorship": 41,
   "offers": 2
  },
  "posted_date_coverage": 0.991,
- "enriched_this_run": 44,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 45,
+ "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 435,
+ "new_this_run": 1,
+ "open_total": 436,
  "detection_latency": {
   "median_minutes": 37.9,
   "p95_minutes": 42.6,
@@ -83,5 +83,5 @@
   "sample_size": 113
  },
  "role_scope": "ee",
- "rendered_at": "2026-11-27T16:50:47Z"
+ "rendered_at": "2026-11-27T17:20:36Z"
 }
