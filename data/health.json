@@ -1025,8 +1025,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trend-health-partners?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "lever:trio": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-11-24T22:50:04Z",
+    "consecutive_failures": 11,
+    "last_attempt_at": "2026-11-27T23:20:06Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trio?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:welocalize": {
@@ -1104,11 +1104,6 @@
     "last_attempt_at": "2026-11-27T12:50:42Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "workable:matternet": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-27T16:50:47Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "workable:mealsuite": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-27T17:20:36Z",
@@ -1155,8 +1150,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/mustard-systems/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "workable:navionsl": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-27T22:49:59Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-11-27T23:20:06Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/navionsl/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:new-flyer": {
