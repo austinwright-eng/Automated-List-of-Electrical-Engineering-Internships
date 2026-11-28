@@ -745,8 +745,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "greenhouse:thoughtworksreferral": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-11-26T06:50:26Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-11-28T07:18:25Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/thoughtworksreferral/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "greenhouse:threatlocker": {
@@ -1039,16 +1039,6 @@
     "last_attempt_at": "2026-11-26T17:49:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:cx_26": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-28T06:49:40Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requ"
-  },
-  "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-11-28T06:49:40Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requ"
-  },
   "recruitee:1x": {
     "consecutive_failures": 23,
     "last_attempt_at": "2026-11-26T17:49:45Z",
@@ -1113,11 +1103,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-11-27T12:50:42Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://apply.workable.com/api/v3/accounts/homey/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-  },
-  "workable:matternet": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-11-28T00:49:58Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/matternet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:mealsuite": {
     "consecutive_failures": 5,
