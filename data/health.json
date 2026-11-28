@@ -30,8 +30,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/beaconsoftware?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/"
   },
   "ashby:brightstar-ai": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-11-27T15:20:39Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-11-28T03:50:41Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/brightstar-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:browserbase": {
@@ -1038,6 +1038,11 @@
     "consecutive_failures": 42,
     "last_attempt_at": "2026-11-26T17:49:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "oracle:etgi.fa.us8.oraclecloud.com:cx_4005": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-11-28T03:50:41Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://etgi.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
   },
   "recruitee:1x": {
     "consecutive_failures": 23,
